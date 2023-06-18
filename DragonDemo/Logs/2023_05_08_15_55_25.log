@@ -1,0 +1,14 @@
+[15:55:26.2513][1][Info]: enter Launch procedure 
+[15:55:26.3451][1][Info]: ===>加载配置 
+[15:55:27.9752][1][Info]: ===>开始解析BuffConfig 
+[15:55:27.9752][1][Info]: <===解析BuffConfig完毕 
+[15:55:27.9752][1][Info]: ===>开始解析SkillConfig 
+[15:55:28.0272][1][Info]: <===解析SkillConfig完毕 
+[15:55:28.0422][1][Info]: <===配置加载完毕 
+[15:55:28.1823][2][Info]: enter Init Procedure 
+[15:55:28.2632][2][Warn]: Not found awake system:<PlayerComponent> 
+[15:55:30.2123][204][Info]: 登录 
+[15:55:30.2213][204][Info]: 1001 
+[15:55:30.2213][204][Info]: 大厅阶段 
+[15:55:30.3632][205][Info]: Scene Add Entity, Current Count:1 
+[15:55:36.9438][1357][Error]: Change Procedure Failed, Can't find Proecedure:$Koakuma.Game.Procedure.DungeonProcedure 

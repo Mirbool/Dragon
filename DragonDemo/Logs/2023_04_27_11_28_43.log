@@ -1,0 +1,8 @@
+[11:28:43.7202][1][Info]: enter Launch procedure 
+[11:28:43.7960][1][Info]: ===>加载配置 
+[11:28:44.6427][1][Info]: ===>开始解析BuffConfig 
+[11:28:44.6427][1][Info]: <===解析BuffConfig完毕 
+[11:28:44.6427][1][Info]: ===>开始解析SkillConfig 
+[11:28:44.6577][1][Info]: <===解析SkillConfig完毕 
+[11:28:44.6937][1][Info]: <===配置加载完毕 
+[11:28:45.5891][3][Info]: enter Init Procedure 

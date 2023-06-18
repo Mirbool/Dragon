@@ -1,0 +1,13 @@
+[13:54:44.1560][1][Info]: enter Launch procedure 
+[13:54:44.2430][1][Info]: ===>加载配置 
+[13:54:46.1493][1][Info]: ===>开始解析BuffConfig 
+[13:54:46.1613][1][Info]: <===解析BuffConfig完毕 
+[13:54:46.1613][1][Info]: ===>开始解析SkillConfig 
+[13:54:46.2093][1][Info]: <===解析SkillConfig完毕 
+[13:54:46.2223][1][Info]: <===配置加载完毕 
+[13:54:46.3753][2][Info]: enter Init Procedure 
+[13:54:46.3973][2][Warn]: Not found awake system:<PlayerComponent> 
+[13:54:49.3110][215][Info]: 登录 
+[13:54:49.3190][215][Info]: 1001 
+[13:54:49.3190][215][Info]: 大厅阶段 
+[13:54:49.4349][216][Info]: Scene Add Entity, Current Count:1 

@@ -1,0 +1,16 @@
+[15:57:24.6091][1][Info]: enter Launch procedure 
+[15:57:24.7127][1][Info]: ===>加载配置 
+[15:57:26.4909][1][Info]: ===>开始解析BuffConfig 
+[15:57:26.4909][1][Info]: <===解析BuffConfig完毕 
+[15:57:26.5059][1][Info]: ===>开始解析SkillConfig 
+[15:57:26.5389][1][Info]: <===解析SkillConfig完毕 
+[15:57:26.5539][1][Info]: <===配置加载完毕 
+[15:57:26.6978][2][Info]: enter Init Procedure 
+[15:57:26.7238][2][Warn]: Not found awake system:<PlayerComponent> 
+[15:57:31.0581][443][Info]: 登录 
+[15:57:31.0651][443][Info]: 1001 
+[15:57:31.0651][443][Info]: 大厅阶段 
+[15:57:31.1771][444][Info]: Scene Add Entity, Current Count:1 
+[15:57:32.5606][655][Error]: 找不到 BattleUI 对应的Mediator 
+[15:57:32.5606][655][Info]: Scene Remove Entity, Current Count:0 
+[15:57:32.5606][655][Info]: Scene Add Entity, Current Count:1 

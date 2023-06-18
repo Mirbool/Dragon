@@ -1,0 +1,9 @@
+[10:44:40.3840][1][Info]: enter Launch procedure 
+[10:44:40.4870][1][Info]: ===>加载配置 
+[10:44:49.6654][1][Info]: ===>开始解析BuffConfig 
+[10:44:49.7244][1][Info]: <===解析BuffConfig完毕 
+[10:44:49.7334][1][Info]: ===>开始解析SkillConfig 
+[10:44:49.9371][1][Info]: <===解析SkillConfig完毕 
+[10:44:49.9911][1][Info]: <===配置加载完毕 
+[10:44:50.2620][1][Info]: enter Init Procedure 
+[10:44:50.2960][1][Warn]: Not found awake system:<PlayerComponent> 

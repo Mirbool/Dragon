@@ -1,0 +1,1073 @@
+[16:06:58.2008][1][Info]: enter Launch procedure 
+[16:06:58.3057][1][Info]: ===>加载配置 
+[16:07:00.0135][1][Info]: ===>开始解析BuffConfig 
+[16:07:00.0135][1][Info]: <===解析BuffConfig完毕 
+[16:07:00.0275][1][Info]: ===>开始解析SkillConfig 
+[16:07:00.0555][1][Info]: <===解析SkillConfig完毕 
+[16:07:00.0665][1][Info]: <===配置加载完毕 
+[16:07:00.1845][2][Info]: enter Init Procedure 
+[16:07:00.2035][2][Warn]: Not found awake system:<PlayerComponent> 
+[16:07:04.0666][294][Info]: 登录 
+[16:07:04.0756][294][Info]: 1001 
+[16:07:04.0756][294][Info]: 大厅阶段 
+[16:07:04.1436][295][Info]: (0.00, -0.60, 0.00)rig.velocity 
+[16:07:04.1436][295][Info]: (0.00, -0.60, 0.00)ControllerUpdate 
+[16:07:04.1436][295][Info]: (0.00, -1.20, 0.00)rig.velocity 
+[16:07:04.1436][295][Info]: (0.00, -1.20, 0.00)ControllerUpdate 
+[16:07:04.1436][295][Info]: (0.00, -1.80, 0.00)rig.velocity 
+[16:07:04.1436][295][Info]: (0.00, -1.80, 0.00)ControllerUpdate 
+[16:07:04.1566][295][Info]: Scene Add Entity, Current Count:1 
+[16:07:04.1846][296][Info]: (0.00, -2.40, 0.00)rig.velocity 
+[16:07:04.1846][296][Info]: (0.00, -2.40, 0.00)ControllerUpdate 
+[16:07:04.1846][296][Info]: (0.00, -3.00, 0.00)rig.velocity 
+[16:07:04.1846][296][Info]: (0.00, -3.00, 0.00)ControllerUpdate 
+[16:07:04.1846][296][Info]: (0.00, -3.60, 0.00)rig.velocity 
+[16:07:04.1846][296][Info]: (0.00, -3.60, 0.00)ControllerUpdate 
+[16:07:04.2795][297][Info]: (0.00, 12.60, 0.00)rig.velocity 
+[16:07:04.2795][297][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:04.4015][299][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:04.4015][299][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:04.4265][301][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:04.4265][301][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:04.4445][303][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:04.4445][303][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:04.4615][305][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:04.4625][305][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:04.4795][307][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:04.4795][307][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:04.5055][309][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:04.5055][309][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:04.5235][311][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:04.5235][311][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:04.5445][313][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:04.5445][313][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:04.5625][315][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:04.5625][315][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:04.5794][317][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:04.5794][317][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:04.5994][319][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:04.5994][319][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:04.6174][321][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:04.6174][321][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:04.6474][324][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:04.6474][324][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:04.6594][325][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:04.6594][325][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:04.6784][327][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:04.6784][327][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:04.7039][330][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:04.7039][330][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:04.7214][332][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:04.7214][332][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:04.7384][334][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:04.7384][334][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:04.7614][336][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:04.7614][336][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:04.7794][338][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:04.7794][338][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:04.8009][340][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:04.8009][340][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:04.8239][342][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:04.8239][342][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:04.8449][344][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:04.8449][344][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:04.8629][346][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:04.8629][346][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:04.8819][348][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:04.8819][348][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:04.9028][350][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:04.9028][350][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:04.9238][352][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:04.9238][352][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:04.9448][354][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:04.9448][354][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:04.9648][355][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:04.9648][355][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:04.9798][356][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:04.9798][356][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:04.9998][358][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:04.9998][358][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.0188][360][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.0188][360][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.0388][362][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.0408][362][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.0588][364][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.0588][364][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.0778][366][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.0778][366][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.0978][368][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.0978][368][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.1288][370][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.1288][370][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.1418][371][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.1418][371][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.1688][373][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.1688][373][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.1828][374][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.1828][374][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.1988][375][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.1988][375][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.2197][377][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.2197][377][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.2387][379][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.2387][379][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.2627][381][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.2627][381][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.2777][382][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.2777][382][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.3057][385][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.3067][385][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.3297][386][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.3297][386][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.3417][387][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.3417][387][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.3607][389][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.3607][389][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.3817][391][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.3817][391][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.4007][393][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.4007][393][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.4257][395][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.4257][395][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.4437][397][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.4437][397][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.4647][399][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.4647][399][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.4817][401][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.4817][401][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.5007][403][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.5007][403][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.5186][405][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.5186][405][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.5446][408][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.5446][408][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.5666][410][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.5666][410][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.5846][411][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.5846][411][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.6036][413][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.6036][413][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.6206][415][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.6206][415][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.6386][417][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.6386][417][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.6636][420][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.6636][420][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.6816][422][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.6816][422][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.6996][424][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.6996][424][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.7226][426][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.7226][426][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.7376][427][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.7376][427][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.7636][430][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.7636][430][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.7856][432][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.7856][432][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.8036][434][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.8036][434][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.8225][436][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.8225][436][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.8405][438][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.8405][438][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.8595][440][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.8595][440][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.8825][442][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.8825][442][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.9065][444][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.9065][444][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.9245][446][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.9245][446][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.9425][448][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.9425][448][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:05.9625][450][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:05.9625][450][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:06.9414][451][Info]: Scene Remove Entity, Current Count:0 
+[16:07:06.9414][451][Info]: Scene Add Entity, Current Count:1 
+[16:07:07.0284][452][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.0284][452][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.0284][452][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.0284][452][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.0284][452][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.0284][452][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.0284][452][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.0284][452][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.0284][452][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.0284][452][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.0284][452][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.0414][452][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.0414][452][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.0414][452][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.0414][452][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.0414][452][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.0414][452][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.0414][452][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.0414][452][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.0414][452][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.0414][452][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.0414][452][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.0414][452][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.0414][452][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.0564][452][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.0564][452][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.0564][452][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.0564][452][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.0564][452][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.0564][452][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.0564][452][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.0564][452][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.0564][452][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.0564][452][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.2124][453][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.2124][453][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.2124][453][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.2124][453][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.2124][453][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.2124][453][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.2124][453][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.2124][453][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.3504][455][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.3504][455][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.3645][456][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.3645][456][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.3754][457][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.3754][457][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.3944][459][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.3944][459][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.4219][462][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.4219][462][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.4374][463][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.4374][463][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.4596][465][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.4596][465][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.4835][467][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.4835][467][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.4945][468][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.4945][468][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.5135][470][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.5135][470][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.5395][473][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.5415][473][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.5595][475][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.5595][475][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.5775][477][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.5775][477][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.6055][479][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.6055][479][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.6055][480][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.6055][480][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.6345][482][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.6345][482][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.6545][484][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.6545][484][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.6735][486][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.6735][486][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.6955][488][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.6975][488][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.7155][490][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.7155][490][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.7345][492][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.7345][492][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.7605][494][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.7605][494][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.7805][496][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.7805][496][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.7985][498][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.7985][498][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.8194][500][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.8194][500][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.8374][502][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.8374][502][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.8574][504][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.8574][504][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.8764][506][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.8764][506][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.9047][508][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.9047][508][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.9187][509][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.9187][509][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.9377][511][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.9377][511][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.9567][513][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.9567][513][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.9767][515][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.9767][515][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:07.9987][517][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:07.9987][517][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.0187][519][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.0187][519][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.0387][521][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.0387][521][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.0627][523][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.0627][523][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.0776][524][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.0776][524][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.0936][525][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.0936][525][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.1206][528][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.1206][528][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.1416][530][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.1416][530][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.1606][532][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.1606][532][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.1736][533][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.1736][533][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.1936][535][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.1936][535][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.2166][537][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.2166][537][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.2396][539][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.2396][539][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.2586][541][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.2596][541][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.2766][543][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.2766][543][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.3016][545][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.3016][545][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.3126][546][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.3126][546][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.3336][548][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.3336][548][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.3626][551][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.3626][551][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.3796][552][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.3796][552][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.3946][553][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.3946][553][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.4176][555][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.4176][555][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.4376][557][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.4376][557][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.4586][559][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.4586][559][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.4796][561][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.4796][561][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.4796][562][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.4946][562][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.5135][563][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.5135][563][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.5374][564][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.5374][564][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.5545][565][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.5564][565][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.5794][567][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.5794][567][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.6004][569][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.6004][569][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.6204][571][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.6204][571][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.6364][572][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.6364][572][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.6554][574][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.6554][574][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.6784][576][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.6784][576][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.6934][577][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.6934][577][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.7164][579][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.7164][579][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.7354][581][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.7354][581][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.7534][583][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.7534][583][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.7734][585][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.7734][585][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.7994][588][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.7994][588][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.8204][590][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.8224][590][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.8224][591][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.8384][591][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.8603][593][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.8603][593][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.8821][595][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.8821][595][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.9021][597][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.9021][597][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.9181][598][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.9181][598][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.9391][600][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.9391][600][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.9581][602][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.9581][602][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.9800][604][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.9800][604][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:08.9970][605][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:08.9970][605][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.0130][606][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.0130][606][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.0420][609][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.0420][609][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.0610][611][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.0610][611][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.0820][613][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.0820][613][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.0940][614][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.0940][614][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.1190][616][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.1190][616][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.1430][618][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.1430][618][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.1590][619][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.1590][619][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.1770][621][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.1770][621][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.2000][623][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.2000][623][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.2190][625][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.2190][625][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.2400][627][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.2400][627][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.2600][629][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.2600][629][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.2789][631][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.2789][631][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.2950][632][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.2950][632][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.3269][634][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.3269][634][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.3379][635][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.3379][635][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.3569][637][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.3569][637][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.3759][639][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.3759][639][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.3949][641][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.3949][641][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.4129][643][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.4129][643][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.4399][645][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.4399][645][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.4549][646][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.4549][646][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.4819][648][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.4819][648][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.4999][650][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.4999][650][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.5179][652][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.5179][652][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.5379][653][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.5379][653][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.5609][655][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.5609][655][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.5809][657][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.5809][657][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.6008][659][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.6008][659][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.6278][661][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.6278][661][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.6448][662][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.6448][662][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.6598][663][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.6598][663][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.6798][665][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.6798][665][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.6938][666][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.6938][666][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.7188][668][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.7188][668][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.7368][669][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.7368][669][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.7638][671][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.7638][671][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.7808][672][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.7808][672][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.7978][673][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.7978][673][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.8128][674][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.8128][674][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.8368][676][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.8378][676][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.8588][678][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.8588][678][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.8828][680][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.8828][680][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.8938][681][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.8938][681][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.9167][683][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.9167][683][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.9497][685][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.9497][685][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.9497][686][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.9627][686][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.9627][687][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.9627][687][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:09.9947][689][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:09.9947][689][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.0197][691][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.0197][691][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.0337][692][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.0337][692][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.0557][694][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.0567][694][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.0817][696][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.0817][696][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.0977][697][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.0977][697][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.1187][699][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.1187][699][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.1407][701][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.1407][701][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.1627][702][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.1627][702][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.1787][703][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.1787][703][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.2067][704][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.2067][704][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.2186][705][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.2186][705][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.2346][706][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.2346][706][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.2566][708][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.2566][708][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.2766][710][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.2766][710][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.2976][712][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.2976][712][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.3176][714][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.3176][714][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.3386][716][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.3386][716][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.3626][718][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.3626][718][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.3746][719][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.3746][719][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.4036][721][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.4036][721][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.4036][722][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.4156][722][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.4336][724][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.4336][724][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.4596][727][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.4596][727][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.4786][729][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.4786][729][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.5006][731][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.5006][731][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.5146][732][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.5146][732][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.5385][734][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.5385][734][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.5645][736][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.5645][736][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.5745][737][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.5745][737][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.5945][739][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.5945][739][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.6135][741][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.6135][741][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.6415][744][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.6415][744][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.6595][746][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.6595][746][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.6785][748][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.6785][748][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.6935][749][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.6935][749][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.7155][751][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.7155][751][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.7345][753][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.7345][753][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.7535][755][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.7535][755][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.7765][757][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.7765][757][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.7955][759][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.7955][759][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.8155][761][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.8155][761][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.8355][763][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.8355][763][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.8644][765][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.8644][765][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.8754][766][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.8754][766][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.8965][768][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.8965][768][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.9165][770][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.9165][770][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.9365][772][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.9365][772][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.9585][774][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.9585][774][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:10.9745][775][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:10.9745][775][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:11.0005][777][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:11.0005][777][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:11.0155][778][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:11.0155][778][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:11.0365][780][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:11.0365][780][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:11.0565][782][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:11.0565][782][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:11.0744][784][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:11.0744][784][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:11.0935][786][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:11.0935][786][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:11.1194][789][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:11.1194][789][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:11.1394][791][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:11.1394][791][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:11.1544][792][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:11.1544][792][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:11.1814][794][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:11.1814][794][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:11.1994][796][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:11.1994][796][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:11.2194][798][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:11.2194][798][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:11.2384][800][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:11.2384][800][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:11.2594][802][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:11.2594][802][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:11.2814][804][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:11.2814][804][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:11.2934][805][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:11.2934][805][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:11.3194][807][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:11.3194][807][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:11.3394][809][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:11.3394][809][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:11.3534][810][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:11.3534][810][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:11.3738][812][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:11.3738][812][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:11.3998][814][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:11.4008][814][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:11.4198][816][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:11.4198][816][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:11.4398][818][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:11.4398][818][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:11.4648][820][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:11.4648][820][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:11.4878][821][Info]: (0.00, 0.00, 0.00)rig.velocity 
+[16:07:11.4878][821][Info]: (0.00, 0.00, 0.00)ControllerUpdate 
+[16:07:11.5058][822][Info]: 2=====transform.position======== 
+[16:07:11.5058][822][Info]: (2.00, 0.00, 0.00)rig.velocity 
+[16:07:11.5058][822][Info]: (2.00, 0.00, 0.00)ControllerUpdate 
+[16:07:11.5178][823][Info]: 4=====transform.position======== 
+[16:07:11.5178][823][Info]: (1.02, 0.00, 3.87)rig.velocity 
+[16:07:11.5178][823][Info]: (1.02, 0.00, 3.87)ControllerUpdate 
+[16:07:11.5378][825][Info]: 5=====transform.position======== 
+[16:07:11.5378][825][Info]: (3.67, 0.00, 3.39)rig.velocity 
+[16:07:11.5378][825][Info]: (3.67, 0.00, 3.39)ControllerUpdate 
+[16:07:11.5567][827][Info]: 5=====transform.position======== 
+[16:07:11.5567][827][Info]: (4.62, 0.00, 1.91)rig.velocity 
+[16:07:11.5567][827][Info]: (4.62, 0.00, 1.91)ControllerUpdate 
+[16:07:11.5777][829][Info]: 5=====transform.position======== 
+[16:07:11.5777][829][Info]: (4.96, 0.00, -0.67)rig.velocity 
+[16:07:11.5777][829][Info]: (4.96, 0.00, -0.67)ControllerUpdate 
+[16:07:11.5937][830][Info]: 5=====transform.position======== 
+[16:07:11.5937][830][Info]: (4.90, 0.00, -0.98)rig.velocity 
+[16:07:11.5937][830][Info]: (4.90, 0.00, -0.98)ControllerUpdate 
+[16:07:11.6177][832][Info]: 5=====transform.position======== 
+[16:07:11.6187][832][Info]: (3.04, 0.00, -3.97)rig.velocity 
+[16:07:11.6187][832][Info]: (3.04, 0.00, -3.97)ControllerUpdate 
+[16:07:11.6397][834][Info]: 5=====transform.position======== 
+[16:07:11.6397][834][Info]: (1.05, 0.00, -4.89)rig.velocity 
+[16:07:11.6397][834][Info]: (1.05, 0.00, -4.89)ControllerUpdate 
+[16:07:11.6607][836][Info]: 5=====transform.position======== 
+[16:07:11.6607][836][Info]: (-0.60, 0.00, -4.96)rig.velocity 
+[16:07:11.6607][836][Info]: (-0.60, 0.00, -4.96)ControllerUpdate 
+[16:07:11.6747][837][Info]: 5=====transform.position======== 
+[16:07:11.6747][837][Info]: (-0.47, 0.00, -4.98)rig.velocity 
+[16:07:11.6747][837][Info]: (-0.47, 0.00, -4.98)ControllerUpdate 
+[16:07:11.6947][839][Info]: 5=====transform.position======== 
+[16:07:11.6947][839][Info]: (0.34, 0.00, -4.99)rig.velocity 
+[16:07:11.6977][839][Info]: (0.34, 0.00, -4.99)ControllerUpdate 
+[16:07:11.7167][841][Info]: 5=====transform.position======== 
+[16:07:11.7167][841][Info]: (-2.16, 0.00, -4.51)rig.velocity 
+[16:07:11.7167][841][Info]: (-2.16, 0.00, -4.51)ControllerUpdate 
+[16:07:11.7367][843][Info]: 5=====transform.position======== 
+[16:07:11.7367][843][Info]: (-2.61, 0.00, -4.27)rig.velocity 
+[16:07:11.7367][843][Info]: (-2.61, 0.00, -4.27)ControllerUpdate 
+[16:07:11.7567][845][Info]: 5=====transform.position======== 
+[16:07:11.7567][845][Info]: (-3.10, 0.00, -3.93)rig.velocity 
+[16:07:11.7597][845][Info]: (-3.10, 0.00, -3.93)ControllerUpdate 
+[16:07:11.7597][846][Info]: 5=====transform.position======== 
+[16:07:11.7597][846][Info]: (-3.36, 0.00, -3.70)rig.velocity 
+[16:07:11.7757][846][Info]: (-3.36, 0.00, -3.70)ControllerUpdate 
+[16:07:11.8017][848][Info]: 5=====transform.position======== 
+[16:07:11.8017][848][Info]: (-3.86, 0.00, -3.17)rig.velocity 
+[16:07:11.8017][848][Info]: (-3.86, 0.00, -3.17)ControllerUpdate 
+[16:07:11.8137][849][Info]: 5=====transform.position======== 
+[16:07:11.8137][849][Info]: (-4.11, 0.00, -2.85)rig.velocity 
+[16:07:11.8137][849][Info]: (-4.11, 0.00, -2.85)ControllerUpdate 
+[16:07:11.8347][851][Info]: 5=====transform.position======== 
+[16:07:11.8347][851][Info]: (-4.48, 0.00, -2.22)rig.velocity 
+[16:07:11.8347][851][Info]: (-4.48, 0.00, -2.22)ControllerUpdate 
+[16:07:11.8577][853][Info]: 5=====transform.position======== 
+[16:07:11.8577][853][Info]: (-2.14, 0.00, -4.52)rig.velocity 
+[16:07:11.8577][853][Info]: (-2.14, 0.00, -4.52)ControllerUpdate 
+[16:07:11.8787][855][Info]: 5=====transform.position======== 
+[16:07:11.8787][855][Info]: (-3.77, 0.00, -3.28)rig.velocity 
+[16:07:11.8787][855][Info]: (-3.77, 0.00, -3.28)ControllerUpdate 
+[16:07:11.8987][857][Info]: 5=====transform.position======== 
+[16:07:11.8987][857][Info]: (-2.70, 0.00, -4.21)rig.velocity 
+[16:07:11.9007][857][Info]: (-2.70, 0.00, -4.21)ControllerUpdate 
+[16:07:11.9226][859][Info]: 5=====transform.position======== 
+[16:07:11.9226][859][Info]: (-2.69, 0.00, -4.21)rig.velocity 
+[16:07:11.9226][859][Info]: (-2.69, 0.00, -4.21)ControllerUpdate 
+[16:07:11.9386][860][Info]: 5=====transform.position======== 
+[16:07:11.9386][860][Info]: (-2.69, 0.00, -4.21)rig.velocity 
+[16:07:11.9386][860][Info]: (-2.69, 0.00, -4.21)ControllerUpdate 
+[16:07:11.9586][862][Info]: 5=====transform.position======== 
+[16:07:11.9586][862][Info]: (-2.69, 0.00, -4.21)rig.velocity 
+[16:07:11.9586][862][Info]: (-2.69, 0.00, -4.21)ControllerUpdate 
+[16:07:11.9786][864][Info]: 5=====transform.position======== 
+[16:07:11.9786][864][Info]: (-2.69, 0.00, -4.21)rig.velocity 
+[16:07:11.9786][864][Info]: (-2.69, 0.00, -4.21)ControllerUpdate 
+[16:07:12.0036][866][Info]: 5=====transform.position======== 
+[16:07:12.0036][866][Info]: (-2.69, 0.00, -4.22)rig.velocity 
+[16:07:12.0036][866][Info]: (-2.69, 0.00, -4.22)ControllerUpdate 
+[16:07:12.0166][867][Info]: 5=====transform.position======== 
+[16:07:12.0166][867][Info]: (-2.69, 0.00, -4.22)rig.velocity 
+[16:07:12.0166][867][Info]: (-2.69, 0.00, -4.22)ControllerUpdate 
+[16:07:12.0376][869][Info]: 5=====transform.position======== 
+[16:07:12.0406][869][Info]: (-2.69, 0.00, -4.22)rig.velocity 
+[16:07:12.0406][869][Info]: (-2.69, 0.00, -4.22)ControllerUpdate 
+[16:07:12.0406][870][Info]: 5=====transform.position======== 
+[16:07:12.0406][870][Info]: (-2.69, 0.00, -4.22)rig.velocity 
+[16:07:12.0566][870][Info]: (-2.69, 0.00, -4.22)ControllerUpdate 
+[16:07:12.0796][872][Info]: 5=====transform.position======== 
+[16:07:12.0796][872][Info]: (-2.69, 0.00, -4.22)rig.velocity 
+[16:07:12.0796][872][Info]: (-2.69, 0.00, -4.22)ControllerUpdate 
+[16:07:12.0956][873][Info]: 5=====transform.position======== 
+[16:07:12.0956][873][Info]: (-2.68, 0.00, -4.22)rig.velocity 
+[16:07:12.0956][873][Info]: (-2.68, 0.00, -4.22)ControllerUpdate 
+[16:07:12.1156][875][Info]: 5=====transform.position======== 
+[16:07:12.1156][875][Info]: (-2.68, 0.00, -4.22)rig.velocity 
+[16:07:12.1156][875][Info]: (-2.68, 0.00, -4.22)ControllerUpdate 
+[16:07:12.1346][877][Info]: 5=====transform.position======== 
+[16:07:12.1346][877][Info]: (-2.68, 0.00, -4.22)rig.velocity 
+[16:07:12.1346][877][Info]: (-2.68, 0.00, -4.22)ControllerUpdate 
+[16:07:12.1546][879][Info]: 5=====transform.position======== 
+[16:07:12.1546][879][Info]: (-2.68, 0.00, -4.22)rig.velocity 
+[16:07:12.1546][879][Info]: (-2.68, 0.00, -4.22)ControllerUpdate 
+[16:07:12.1746][881][Info]: 5=====transform.position======== 
+[16:07:12.1746][881][Info]: (-2.68, 0.00, -4.22)rig.velocity 
+[16:07:12.1746][881][Info]: (-2.68, 0.00, -4.22)ControllerUpdate 
+[16:07:12.1946][883][Info]: 5=====transform.position======== 
+[16:07:12.1946][883][Info]: (-2.68, 0.00, -4.22)rig.velocity 
+[16:07:12.1946][883][Info]: (-2.68, 0.00, -4.22)ControllerUpdate 
+[16:07:12.2236][885][Info]: 3=====transform.position======== 
+[16:07:12.2236][885][Info]: (-1.61, 0.00, -2.53)rig.velocity 
+[16:07:12.2236][885][Info]: (-1.61, 0.00, -2.53)ControllerUpdate 
+[16:07:12.2406][886][Info]: 1=====transform.position======== 
+[16:07:12.2406][886][Info]: (-0.54, 0.00, -0.84)rig.velocity 
+[16:07:12.2406][886][Info]: (-0.54, 0.00, -0.84)ControllerUpdate 
+[16:07:12.2576][887][Info]: 0=====transform.position======== 
+[16:07:12.8746][951][Info]: 2=====transform.position======== 
+[16:07:12.9006][954][Info]: 4=====transform.position======== 
+[16:07:12.9006][954][Info]: (-0.35, 0.00, -3.98)rig.velocity 
+[16:07:12.9006][954][Info]: (-0.35, 0.00, -3.98)ControllerUpdate 
+[16:07:12.9006][955][Info]: 5=====transform.position======== 
+[16:07:12.9006][955][Info]: (0.21, 0.00, -5.00)rig.velocity 
+[16:07:12.9156][955][Info]: (0.21, 0.00, -5.00)ControllerUpdate 
+[16:07:12.9406][958][Info]: 5=====transform.position======== 
+[16:07:12.9406][958][Info]: (3.60, 0.00, -3.47)rig.velocity 
+[16:07:12.9406][958][Info]: (3.60, 0.00, -3.47)ControllerUpdate 
+[16:07:12.9616][960][Info]: 5=====transform.position======== 
+[16:07:12.9636][960][Info]: (4.64, 0.00, -1.86)rig.velocity 
+[16:07:12.9636][960][Info]: (4.64, 0.00, -1.86)ControllerUpdate 
+[16:07:12.9636][961][Info]: 5=====transform.position======== 
+[16:07:12.9636][961][Info]: (4.38, 0.00, 2.40)rig.velocity 
+[16:07:12.9636][961][Info]: (4.38, 0.00, 2.40)ControllerUpdate 
+[16:07:12.9946][963][Info]: 5=====transform.position======== 
+[16:07:12.9946][963][Info]: (4.74, 0.00, 1.58)rig.velocity 
+[16:07:12.9946][963][Info]: (4.74, 0.00, 1.58)ControllerUpdate 
+[16:07:13.0246][965][Info]: 5=====transform.position======== 
+[16:07:13.0256][965][Info]: (3.96, 0.00, 3.06)rig.velocity 
+[16:07:13.0256][965][Info]: (3.96, 0.00, 3.06)ControllerUpdate 
+[16:07:13.0406][966][Info]: 5=====transform.position======== 
+[16:07:13.0406][966][Info]: (3.36, 0.00, 3.70)rig.velocity 
+[16:07:13.0406][966][Info]: (3.36, 0.00, 3.70)ControllerUpdate 
+[16:07:13.0606][967][Info]: 5=====transform.position======== 
+[16:07:13.0606][967][Info]: (1.85, 0.00, 4.65)rig.velocity 
+[16:07:13.0606][967][Info]: (1.85, 0.00, 4.65)ControllerUpdate 
+[16:07:13.0786][968][Info]: 5=====transform.position======== 
+[16:07:13.0786][968][Info]: (-3.34, 0.00, 3.72)rig.velocity 
+[16:07:13.0786][968][Info]: (-3.34, 0.00, 3.72)ControllerUpdate 
+[16:07:13.1076][969][Info]: 5=====transform.position======== 
+[16:07:13.1076][969][Info]: (-1.63, 0.00, 4.73)rig.velocity 
+[16:07:13.1076][969][Info]: (-1.63, 0.00, 4.73)ControllerUpdate 
+[16:07:13.1076][970][Info]: 5=====transform.position======== 
+[16:07:13.1196][970][Info]: (-3.60, 0.00, 3.47)rig.velocity 
+[16:07:13.1196][970][Info]: (-3.60, 0.00, 3.47)ControllerUpdate 
+[16:07:13.1396][972][Info]: 5=====transform.position======== 
+[16:07:13.1396][972][Info]: (-5.00, 0.00, -0.19)rig.velocity 
+[16:07:13.1396][972][Info]: (-5.00, 0.00, -0.19)ControllerUpdate 
+[16:07:13.1586][974][Info]: 5=====transform.position======== 
+[16:07:13.1586][974][Info]: (-5.00, 0.00, -0.19)rig.velocity 
+[16:07:13.1586][974][Info]: (-5.00, 0.00, -0.19)ControllerUpdate 
+[16:07:13.1736][975][Info]: 5=====transform.position======== 
+[16:07:13.1736][975][Info]: (-5.00, 0.00, -0.09)rig.velocity 
+[16:07:13.1736][975][Info]: (-5.00, 0.00, -0.09)ControllerUpdate 
+[16:07:13.1976][977][Info]: 5=====transform.position======== 
+[16:07:13.1976][977][Info]: (-3.71, 0.00, -3.35)rig.velocity 
+[16:07:13.1976][977][Info]: (-3.71, 0.00, -3.35)ControllerUpdate 
+[16:07:13.2216][979][Info]: 5=====transform.position======== 
+[16:07:13.2216][979][Info]: (-2.20, 0.00, -4.49)rig.velocity 
+[16:07:13.2216][979][Info]: (-2.20, 0.00, -4.49)ControllerUpdate 
+[16:07:13.2346][980][Info]: 5=====transform.position======== 
+[16:07:13.2346][980][Info]: (-2.07, 0.00, -4.55)rig.velocity 
+[16:07:13.2346][980][Info]: (-2.07, 0.00, -4.55)ControllerUpdate 
+[16:07:13.2575][982][Info]: 5=====transform.position======== 
+[16:07:13.2575][982][Info]: (4.90, 0.00, 1.00)rig.velocity 
+[16:07:13.2595][982][Info]: (4.90, 0.00, 1.00)ControllerUpdate 
+[16:07:13.2785][984][Info]: 5=====transform.position======== 
+[16:07:13.2785][984][Info]: (-1.45, 0.00, -4.79)rig.velocity 
+[16:07:13.2785][984][Info]: (-1.45, 0.00, -4.79)ControllerUpdate 
+[16:07:13.2985][986][Info]: 5=====transform.position======== 
+[16:07:13.2985][986][Info]: (-3.96, 0.00, -3.05)rig.velocity 
+[16:07:13.2985][986][Info]: (-3.96, 0.00, -3.05)ControllerUpdate 
+[16:07:13.3235][988][Info]: 5=====transform.position======== 
+[16:07:13.3235][988][Info]: (-4.86, 0.00, -1.18)rig.velocity 
+[16:07:13.3235][988][Info]: (-4.86, 0.00, -1.18)ControllerUpdate 
+[16:07:13.3385][989][Info]: 5=====transform.position======== 
+[16:07:13.3385][989][Info]: (-5.00, 0.00, 0.00)rig.velocity 
+[16:07:13.3385][989][Info]: (-5.00, 0.00, 0.00)ControllerUpdate 
+[16:07:13.3595][991][Info]: 5=====transform.position======== 
+[16:07:13.3595][991][Info]: (-4.12, 0.00, 2.83)rig.velocity 
+[16:07:13.3595][991][Info]: (-4.12, 0.00, 2.83)ControllerUpdate 
+[16:07:13.3795][993][Info]: 3=====transform.position======== 
+[16:07:13.3795][993][Info]: (-2.07, 0.00, 2.17)rig.velocity 
+[16:07:13.3795][993][Info]: (-2.07, 0.00, 2.17)ControllerUpdate 
+[16:07:13.3925][994][Info]: 1=====transform.position======== 
+[16:07:13.3925][994][Info]: (-0.59, 0.00, 0.81)rig.velocity 
+[16:07:13.3925][994][Info]: (-0.59, 0.00, 0.81)ControllerUpdate 
+[16:07:13.4155][996][Info]: 3=====transform.position======== 
+[16:07:13.4165][996][Info]: (-2.80, 0.00, 1.07)rig.velocity 
+[16:07:13.4165][996][Info]: (-2.80, 0.00, 1.07)ControllerUpdate 
+[16:07:13.4405][998][Info]: 5=====transform.position======== 
+[16:07:13.4405][998][Info]: (-3.67, 0.00, 3.40)rig.velocity 
+[16:07:13.4405][998][Info]: (-3.67, 0.00, 3.40)ControllerUpdate 
+[16:07:13.4595][1000][Info]: 5=====transform.position======== 
+[16:07:13.4595][1000][Info]: (-4.41, 0.00, 2.36)rig.velocity 
+[16:07:13.4595][1000][Info]: (-4.41, 0.00, 2.36)ControllerUpdate 
+[16:07:13.4845][1002][Info]: 5=====transform.position======== 
+[16:07:13.4845][1002][Info]: (-4.42, 0.00, 2.33)rig.velocity 
+[16:07:13.4845][1002][Info]: (-4.42, 0.00, 2.33)ControllerUpdate 
+[16:07:13.4995][1003][Info]: 5=====transform.position======== 
+[16:07:13.4995][1003][Info]: (-4.43, 0.00, 2.32)rig.velocity 
+[16:07:13.4995][1003][Info]: (-4.43, 0.00, 2.32)ControllerUpdate 
+[16:07:13.5205][1005][Info]: 5=====transform.position======== 
+[16:07:13.5205][1005][Info]: (-4.44, 0.00, 2.30)rig.velocity 
+[16:07:13.5205][1005][Info]: (-4.44, 0.00, 2.30)ControllerUpdate 
+[16:07:13.5395][1007][Info]: 5=====transform.position======== 
+[16:07:13.5395][1007][Info]: (-4.45, 0.00, 2.29)rig.velocity 
+[16:07:13.5415][1007][Info]: (-4.45, 0.00, 2.29)ControllerUpdate 
+[16:07:13.5585][1009][Info]: 5=====transform.position======== 
+[16:07:13.5585][1009][Info]: (-4.45, 0.00, 2.27)rig.velocity 
+[16:07:13.5585][1009][Info]: (-4.45, 0.00, 2.27)ControllerUpdate 
+[16:07:13.5794][1011][Info]: 5=====transform.position======== 
+[16:07:13.5794][1011][Info]: (-4.46, 0.00, 2.26)rig.velocity 
+[16:07:13.5794][1011][Info]: (-4.46, 0.00, 2.26)ControllerUpdate 
+[16:07:13.5994][1013][Info]: 5=====transform.position======== 
+[16:07:13.5994][1013][Info]: (-4.46, 0.00, 2.25)rig.velocity 
+[16:07:13.5994][1013][Info]: (-4.46, 0.00, 2.25)ControllerUpdate 
+[16:07:13.6194][1015][Info]: 5=====transform.position======== 
+[16:07:13.6194][1015][Info]: (-4.47, 0.00, 2.24)rig.velocity 
+[16:07:13.6194][1015][Info]: (-4.47, 0.00, 2.24)ControllerUpdate 
+[16:07:13.6364][1016][Info]: 5=====transform.position======== 
+[16:07:13.6555][1016][Info]: (-4.47, 0.00, 2.24)rig.velocity 
+[16:07:13.6555][1016][Info]: (-4.47, 0.00, 2.24)ControllerUpdate 
+[16:07:13.6705][1017][Info]: 5=====transform.position======== 
+[16:07:13.6705][1017][Info]: (-4.47, 0.00, 2.23)rig.velocity 
+[16:07:13.6705][1017][Info]: (-4.47, 0.00, 2.23)ControllerUpdate 
+[16:07:13.6875][1018][Info]: 5=====transform.position======== 
+[16:07:13.6875][1018][Info]: (-4.48, 0.00, 2.23)rig.velocity 
+[16:07:13.6875][1018][Info]: (-4.48, 0.00, 2.23)ControllerUpdate 
+[16:07:13.6994][1019][Info]: 5=====transform.position======== 
+[16:07:13.6994][1019][Info]: (-4.48, 0.00, 2.22)rig.velocity 
+[16:07:13.6994][1019][Info]: (-4.48, 0.00, 2.22)ControllerUpdate 
+[16:07:13.7194][1021][Info]: 5=====transform.position======== 
+[16:07:13.7194][1021][Info]: (-4.49, 0.00, 2.21)rig.velocity 
+[16:07:13.7194][1021][Info]: (-4.49, 0.00, 2.21)ControllerUpdate 
+[16:07:13.7335][1022][Info]: 5=====transform.position======== 
+[16:07:13.7335][1022][Info]: (-4.49, 0.00, 2.21)rig.velocity 
+[16:07:13.7335][1022][Info]: (-4.49, 0.00, 2.21)ControllerUpdate 
+[16:07:13.7614][1025][Info]: 5=====transform.position======== 
+[16:07:13.7614][1025][Info]: (-4.49, 0.00, 2.20)rig.velocity 
+[16:07:13.7614][1025][Info]: (-4.49, 0.00, 2.20)ControllerUpdate 
+[16:07:13.7614][1026][Info]: 5=====transform.position======== 
+[16:07:13.7614][1026][Info]: (-4.49, 0.00, 2.20)rig.velocity 
+[16:07:13.7755][1026][Info]: (-4.49, 0.00, 2.20)ControllerUpdate 
+[16:07:13.7945][1028][Info]: 5=====transform.position======== 
+[16:07:13.7945][1028][Info]: (-4.49, 0.00, 2.19)rig.velocity 
+[16:07:13.7945][1028][Info]: (-4.49, 0.00, 2.19)ControllerUpdate 
+[16:07:13.8234][1030][Info]: 5=====transform.position======== 
+[16:07:13.8234][1030][Info]: (-4.49, 0.00, 2.19)rig.velocity 
+[16:07:13.8234][1030][Info]: (-4.49, 0.00, 2.19)ControllerUpdate 
+[16:07:13.8384][1031][Info]: 5=====transform.position======== 
+[16:07:13.8384][1031][Info]: (-4.50, 0.00, 2.19)rig.velocity 
+[16:07:13.8384][1031][Info]: (-4.50, 0.00, 2.19)ControllerUpdate 
+[16:07:13.8594][1033][Info]: 5=====transform.position======== 
+[16:07:13.8594][1033][Info]: (-4.50, 0.00, 2.18)rig.velocity 
+[16:07:13.8594][1033][Info]: (-4.50, 0.00, 2.18)ControllerUpdate 
+[16:07:13.8795][1035][Info]: 5=====transform.position======== 
+[16:07:13.8795][1035][Info]: (-4.50, 0.00, 2.18)rig.velocity 
+[16:07:13.8795][1035][Info]: (-4.50, 0.00, 2.18)ControllerUpdate 
+[16:07:13.8934][1036][Info]: 5=====transform.position======== 
+[16:07:13.8934][1036][Info]: (-4.50, 0.00, 2.18)rig.velocity 
+[16:07:13.8934][1036][Info]: (-4.50, 0.00, 2.18)ControllerUpdate 
+[16:07:13.9134][1038][Info]: 5=====transform.position======== 
+[16:07:13.9134][1038][Info]: (-4.50, 0.00, 2.18)rig.velocity 
+[16:07:13.9134][1038][Info]: (-4.50, 0.00, 2.18)ControllerUpdate 
+[16:07:13.9354][1040][Info]: 5=====transform.position======== 
+[16:07:13.9354][1040][Info]: (-4.50, 0.00, 2.18)rig.velocity 
+[16:07:13.9354][1040][Info]: (-4.50, 0.00, 2.18)ControllerUpdate 
+[16:07:13.9614][1042][Info]: 5=====transform.position======== 
+[16:07:13.9624][1042][Info]: (-4.50, 0.00, 2.17)rig.velocity 
+[16:07:13.9624][1042][Info]: (-4.50, 0.00, 2.17)ControllerUpdate 
+[16:07:13.9624][1043][Info]: 5=====transform.position======== 
+[16:07:13.9624][1043][Info]: (-4.50, 0.00, 2.17)rig.velocity 
+[16:07:13.9784][1043][Info]: (-4.50, 0.00, 2.17)ControllerUpdate 
+[16:07:13.9994][1045][Info]: 5=====transform.position======== 
+[16:07:13.9994][1045][Info]: (-4.50, 0.00, 2.17)rig.velocity 
+[16:07:13.9994][1045][Info]: (-4.50, 0.00, 2.17)ControllerUpdate 
+[16:07:14.0154][1046][Info]: 3=====transform.position======== 
+[16:07:14.0154][1046][Info]: (-2.70, 0.00, 1.30)rig.velocity 
+[16:07:14.0154][1046][Info]: (-2.70, 0.00, 1.30)ControllerUpdate 
+[16:07:14.0454][1048][Info]: 1=====transform.position======== 
+[16:07:14.0454][1048][Info]: (-0.90, 0.00, 0.43)rig.velocity 
+[16:07:14.0454][1048][Info]: (-0.90, 0.00, 0.43)ControllerUpdate 
+[16:07:14.0578][1049][Info]: 0=====transform.position======== 
+[16:07:15.0551][1161][Info]: 2=====transform.position======== 
+[16:07:15.0741][1163][Info]: 4=====transform.position======== 
+[16:07:15.0741][1163][Info]: (-3.60, 0.00, 1.73)rig.velocity 
+[16:07:15.0741][1163][Info]: (-3.60, 0.00, 1.73)ControllerUpdate 
+[16:07:15.0941][1165][Info]: 5=====transform.position======== 
+[16:07:15.0941][1165][Info]: (-4.51, 0.00, 2.16)rig.velocity 
+[16:07:15.0941][1165][Info]: (-4.51, 0.00, 2.16)ControllerUpdate 
+[16:07:15.1141][1167][Info]: 5=====transform.position======== 
+[16:07:15.1141][1167][Info]: (-4.51, 0.00, 2.15)rig.velocity 
+[16:07:15.1141][1167][Info]: (-4.51, 0.00, 2.15)ControllerUpdate 
+[16:07:15.1341][1169][Info]: 5=====transform.position======== 
+[16:07:15.1351][1169][Info]: (-4.52, 0.00, 2.14)rig.velocity 
+[16:07:15.1351][1169][Info]: (-4.52, 0.00, 2.14)ControllerUpdate 
+[16:07:15.1541][1171][Info]: 5=====transform.position======== 
+[16:07:15.1541][1171][Info]: (-4.52, 0.00, 2.14)rig.velocity 
+[16:07:15.1541][1171][Info]: (-4.52, 0.00, 2.14)ControllerUpdate 
+[16:07:15.1741][1173][Info]: 5=====transform.position======== 
+[16:07:15.1741][1173][Info]: (-4.52, 0.00, 2.13)rig.velocity 
+[16:07:15.1741][1173][Info]: (-4.52, 0.00, 2.13)ControllerUpdate 
+[16:07:15.2011][1175][Info]: 5=====transform.position======== 
+[16:07:15.2011][1175][Info]: (-4.53, 0.00, 2.13)rig.velocity 
+[16:07:15.2011][1175][Info]: (-4.53, 0.00, 2.13)ControllerUpdate 
+[16:07:15.2151][1176][Info]: 5=====transform.position======== 
+[16:07:15.2151][1176][Info]: (-4.53, 0.00, 2.12)rig.velocity 
+[16:07:15.2151][1176][Info]: (-4.53, 0.00, 2.12)ControllerUpdate 
+[16:07:15.2346][1178][Info]: 5=====transform.position======== 
+[16:07:15.2346][1178][Info]: (-4.70, 0.00, -1.71)rig.velocity 
+[16:07:15.2346][1178][Info]: (-4.70, 0.00, -1.71)ControllerUpdate 
+[16:07:15.2606][1180][Info]: 5=====transform.position======== 
+[16:07:15.2606][1180][Info]: (-3.74, 0.00, -3.31)rig.velocity 
+[16:07:15.2606][1180][Info]: (-3.74, 0.00, -3.31)ControllerUpdate 
+[16:07:15.2606][1181][Info]: 5=====transform.position======== 
+[16:07:15.2606][1181][Info]: (-4.91, 0.00, -0.94)rig.velocity 
+[16:07:15.2756][1181][Info]: (-4.91, 0.00, -0.94)ControllerUpdate 
+[16:07:15.2936][1183][Info]: 5=====transform.position======== 
+[16:07:15.2936][1183][Info]: (-3.77, 0.00, -3.28)rig.velocity 
+[16:07:15.2936][1183][Info]: (-3.77, 0.00, -3.28)ControllerUpdate 
+[16:07:15.3144][1185][Info]: 5=====transform.position======== 
+[16:07:15.3144][1185][Info]: (-1.85, 0.00, -4.65)rig.velocity 
+[16:07:15.3144][1185][Info]: (-1.85, 0.00, -4.65)ControllerUpdate 
+[16:07:15.3384][1187][Info]: 5=====transform.position======== 
+[16:07:15.3384][1187][Info]: (0.33, 0.00, -4.99)rig.velocity 
+[16:07:15.3384][1187][Info]: (0.33, 0.00, -4.99)ControllerUpdate 
+[16:07:15.3554][1188][Info]: 5=====transform.position======== 
+[16:07:15.3554][1188][Info]: (0.74, 0.00, -4.95)rig.velocity 
+[16:07:15.3554][1188][Info]: (0.74, 0.00, -4.95)ControllerUpdate 
+[16:07:15.3764][1190][Info]: 5=====transform.position======== 
+[16:07:15.3764][1190][Info]: (0.99, 0.00, -4.90)rig.velocity 
+[16:07:15.3764][1190][Info]: (0.99, 0.00, -4.90)ControllerUpdate 
+[16:07:15.3984][1192][Info]: 5=====transform.position======== 
+[16:07:15.3984][1192][Info]: (2.58, 0.00, -4.28)rig.velocity 
+[16:07:15.4004][1192][Info]: (2.58, 0.00, -4.28)ControllerUpdate 
+[16:07:15.4184][1194][Info]: 5=====transform.position======== 
+[16:07:15.4184][1194][Info]: (2.98, 0.00, -4.02)rig.velocity 
+[16:07:15.4184][1194][Info]: (2.98, 0.00, -4.02)ControllerUpdate 
+[16:07:15.4374][1196][Info]: 5=====transform.position======== 
+[16:07:15.4374][1196][Info]: (3.42, 0.00, -3.65)rig.velocity 
+[16:07:15.4374][1196][Info]: (3.42, 0.00, -3.65)ControllerUpdate 
+[16:07:15.4626][1198][Info]: 5=====transform.position======== 
+[16:07:15.4626][1198][Info]: (3.80, 0.00, -3.25)rig.velocity 
+[16:07:15.4626][1198][Info]: (3.80, 0.00, -3.25)ControllerUpdate 
+[16:07:15.4626][1199][Info]: 5=====transform.position======== 
+[16:07:15.4786][1199][Info]: (4.00, 0.00, -3.00)rig.velocity 
+[16:07:15.4786][1199][Info]: (4.00, 0.00, -3.00)ControllerUpdate 
+[16:07:15.4946][1200][Info]: 5=====transform.position======== 
+[16:07:15.4946][1200][Info]: (4.21, 0.00, -2.70)rig.velocity 
+[16:07:15.4946][1200][Info]: (4.21, 0.00, -2.70)ControllerUpdate 
+[16:07:15.5206][1202][Info]: 5=====transform.position======== 
+[16:07:15.5206][1202][Info]: (4.63, 0.00, -1.88)rig.velocity 
+[16:07:15.5206][1202][Info]: (4.63, 0.00, -1.88)ControllerUpdate 
+[16:07:15.5336][1203][Info]: 5=====transform.position======== 
+[16:07:15.5336][1203][Info]: (4.72, 0.00, -1.66)rig.velocity 
+[16:07:15.5336][1203][Info]: (4.72, 0.00, -1.66)ControllerUpdate 
+[16:07:15.5536][1205][Info]: 5=====transform.position======== 
+[16:07:15.5536][1205][Info]: (4.92, 0.00, -0.88)rig.velocity 
+[16:07:15.5536][1205][Info]: (4.92, 0.00, -0.88)ControllerUpdate 
+[16:07:15.5736][1207][Info]: 5=====transform.position======== 
+[16:07:15.5736][1207][Info]: (4.99, 0.00, -0.32)rig.velocity 
+[16:07:15.5736][1207][Info]: (4.99, 0.00, -0.32)ControllerUpdate 
+[16:07:15.5926][1209][Info]: 5=====transform.position======== 
+[16:07:15.5926][1209][Info]: (4.99, 0.00, 0.25)rig.velocity 
+[16:07:15.5926][1209][Info]: (4.99, 0.00, 0.25)ControllerUpdate 
+[16:07:15.6206][1212][Info]: 5=====transform.position======== 
+[16:07:15.6206][1212][Info]: (4.87, 0.00, 1.13)rig.velocity 
+[16:07:15.6206][1212][Info]: (4.87, 0.00, 1.13)ControllerUpdate 
+[16:07:15.6206][1213][Info]: 5=====transform.position======== 
+[16:07:15.6346][1213][Info]: (4.86, 0.00, 1.16)rig.velocity 
+[16:07:15.6346][1213][Info]: (4.86, 0.00, 1.16)ControllerUpdate 
+[16:07:15.6606][1215][Info]: 5=====transform.position======== 
+[16:07:15.6606][1215][Info]: (4.62, 0.00, 1.92)rig.velocity 
+[16:07:15.6606][1215][Info]: (4.62, 0.00, 1.92)ControllerUpdate 
+[16:07:15.6766][1216][Info]: 5=====transform.position======== 
+[16:07:15.6766][1216][Info]: (4.44, 0.00, 2.30)rig.velocity 
+[16:07:15.6766][1216][Info]: (4.44, 0.00, 2.30)ControllerUpdate 
+[16:07:15.6976][1218][Info]: 5=====transform.position======== 
+[16:07:15.6976][1218][Info]: (4.02, 0.00, 2.97)rig.velocity 
+[16:07:15.6976][1218][Info]: (4.02, 0.00, 2.97)ControllerUpdate 
+[16:07:15.7186][1220][Info]: 5=====transform.position======== 
+[16:07:15.7186][1220][Info]: (3.67, 0.00, 3.40)rig.velocity 
+[16:07:15.7186][1220][Info]: (3.67, 0.00, 3.40)ControllerUpdate 
+[16:07:15.7396][1222][Info]: 5=====transform.position======== 
+[16:07:15.7396][1222][Info]: (3.23, 0.00, 3.82)rig.velocity 
+[16:07:15.7396][1222][Info]: (3.23, 0.00, 3.82)ControllerUpdate 
+[16:07:15.7606][1224][Info]: 5=====transform.position======== 
+[16:07:15.7606][1224][Info]: (2.76, 0.00, 4.17)rig.velocity 
+[16:07:15.7606][1224][Info]: (2.76, 0.00, 4.17)ControllerUpdate 
+[16:07:15.7606][1225][Info]: 5=====transform.position======== 
+[16:07:15.7606][1225][Info]: (2.47, 0.00, 4.35)rig.velocity 
+[16:07:15.7755][1225][Info]: (2.47, 0.00, 4.35)ControllerUpdate 
+[16:07:15.7976][1227][Info]: 5=====transform.position======== 
+[16:07:15.7976][1227][Info]: (1.89, 0.00, 4.63)rig.velocity 
+[16:07:15.7976][1227][Info]: (1.89, 0.00, 4.63)ControllerUpdate 
+[16:07:15.8135][1228][Info]: 5=====transform.position======== 
+[16:07:15.8135][1228][Info]: (1.59, 0.00, 4.74)rig.velocity 
+[16:07:15.8135][1228][Info]: (1.59, 0.00, 4.74)ControllerUpdate 
+[16:07:15.8335][1230][Info]: 5=====transform.position======== 
+[16:07:15.8335][1230][Info]: (0.82, 0.00, 4.93)rig.velocity 
+[16:07:15.8335][1230][Info]: (0.82, 0.00, 4.93)ControllerUpdate 
+[16:07:15.8555][1232][Info]: 5=====transform.position======== 
+[16:07:15.8555][1232][Info]: (0.27, 0.00, 4.99)rig.velocity 
+[16:07:15.8555][1232][Info]: (0.27, 0.00, 4.99)ControllerUpdate 
+[16:07:15.8795][1234][Info]: 5=====transform.position======== 
+[16:07:15.8795][1234][Info]: (-0.34, 0.00, 4.99)rig.velocity 
+[16:07:15.8795][1234][Info]: (-0.34, 0.00, 4.99)ControllerUpdate 
+[16:07:15.9025][1236][Info]: 5=====transform.position======== 
+[16:07:15.9025][1236][Info]: (-1.01, 0.00, 4.90)rig.velocity 
+[16:07:15.9025][1236][Info]: (-1.01, 0.00, 4.90)ControllerUpdate 
+[16:07:15.9025][1237][Info]: 5=====transform.position======== 
+[16:07:15.9165][1237][Info]: (2.47, 0.00, 4.35)rig.velocity 
+[16:07:15.9165][1237][Info]: (2.47, 0.00, 4.35)ControllerUpdate 
+[16:07:15.9375][1239][Info]: 3=====transform.position======== 
+[16:07:15.9375][1239][Info]: (0.49, 0.00, 2.96)rig.velocity 
+[16:07:15.9375][1239][Info]: (0.49, 0.00, 2.96)ControllerUpdate 
+[16:07:15.9595][1240][Info]: 1=====transform.position======== 
+[16:07:15.9595][1240][Info]: (0.33, 0.00, 0.95)rig.velocity 
+[16:07:15.9625][1240][Info]: (0.33, 0.00, 0.95)ControllerUpdate 
+[16:07:15.9815][1241][Info]: 0=====transform.position======== 

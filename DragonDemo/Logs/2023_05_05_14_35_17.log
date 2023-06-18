@@ -1,0 +1,12 @@
+[14:35:18.8876][1][Info]: enter Launch procedure 
+[14:35:18.9886][1][Info]: ===>加载配置 
+[14:35:20.9618][1][Info]: ===>开始解析BuffConfig 
+[14:35:20.9767][1][Info]: <===解析BuffConfig完毕 
+[14:35:20.9767][1][Info]: ===>开始解析SkillConfig 
+[14:35:21.0277][1][Info]: <===解析SkillConfig完毕 
+[14:35:21.0517][1][Info]: <===配置加载完毕 
+[14:35:21.2437][1][Info]: enter Init Procedure 
+[14:35:21.2497][1][Warn]: Not found awake system:<PlayerComponent> 
+[14:35:24.8123][335][Info]: 登录 
+[14:35:24.8123][335][Info]: 1001 
+[14:35:24.8323][335][Info]: 大厅阶段 

@@ -1,0 +1,12 @@
+[14:22:18.2049][1][Info]: enter Launch procedure 
+[14:22:18.3730][1][Info]: ===>加载配置 
+[14:22:20.0239][1][Info]: ===>开始解析BuffConfig 
+[14:22:20.0319][1][Info]: <===解析BuffConfig完毕 
+[14:22:20.0319][1][Info]: ===>开始解析SkillConfig 
+[14:22:20.0669][1][Info]: <===解析SkillConfig完毕 
+[14:22:20.0829][1][Info]: <===配置加载完毕 
+[14:22:20.1529][1][Info]: enter Init Procedure 
+[14:22:20.1689][1][Warn]: Not found awake system:<PlayerComponent> 
+[14:22:23.2039][240][Info]: 登录 
+[14:22:23.2039][240][Info]: 1001 
+[14:22:23.2189][240][Error]: Change Procedure Failed, Can't find Proecedure:$LobbyProcedure 
