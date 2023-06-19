@@ -1,9 +1,0 @@
-6
-0
-{"aniPath":"sdfa/as","skillType":0,"triggerTime":2.0}
-1
-{"audioPath":"SS//SXX","audioVolume":0.542,"skillType":1,"triggerTime":2.0}
-2
-{"effectPath":"TEXIKAO/TTT","bindPoint":3,"skillType":2,"triggerTime":1.0}
-2
-{"effectPath":"A/B","bindPoint":1,"skillType":2,"triggerTime":2.0}

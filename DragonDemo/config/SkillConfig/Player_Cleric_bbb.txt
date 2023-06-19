@@ -1,7 +1,0 @@
-5
-0
-{"animationName":"szcj","skillType":0,"triggerTime":2.0}
-2
-{"effectPath":"RoundHitBlue","bindPoint":3,"skillType":2,"triggerTime":2.5}
-1
-{"audioPath":"etfx_explosion_rocket","audioVolume":1.0,"skillType":1,"triggerTime":3.0}
