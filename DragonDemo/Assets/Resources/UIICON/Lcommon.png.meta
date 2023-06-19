@@ -1,0 +1,5437 @@
+fileFormatVersion: 2
+guid: 0418789dc9c49514e8d40f1ee8f7b270
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lcommon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 853
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3e1932c2e0db24ebc57d79641a653d
+      internalID: -100182205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 842
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03cbd488736baf459720aa01df9c62f
+      internalID: -291611085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 837
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42274159f7bfd634ab07e64e3d1c5f43
+      internalID: 818968514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 834
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8593dc7aa469fee4fb75dbc33c8ec3e6
+      internalID: 1906940402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 833
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee68862acf89d540821379d2496774d
+      internalID: -1210101869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 830
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944ca6c1893b73a4286ca22bb604d279
+      internalID: -502450524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 819
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ef9f530cb843b41918662022a6187e
+      internalID: 1691112991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_7
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 814
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505b164ed217094488afc16f9a797e47
+      internalID: 600456269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 811
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8143901ebfd1a95458b9853c7506c87d
+      internalID: -1818995923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_9
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 810
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7505cee1f8253904c94e2d389ee08698
+      internalID: -345518335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 815
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abeaefa6872d6dc41bf04bd75d26d902
+      internalID: 569518530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 806
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7f8c64a9c50a14fb8781bf6e37d649
+      internalID: 134549819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 798
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638a71e0480949d4e8faf605c5eac57b
+      internalID: 2024486160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_13
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 789
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea0e55b2c31a7747af37cf344412567
+      internalID: -1261154761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_14
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 786
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e01faf32655e64f8b59483a87641aa
+      internalID: -60044502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 786
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0170d99076d010943b75eb523b1e3a0d
+      internalID: -112789077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_16
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 792
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bd12f5b1c061843bd2932e14a131ce
+      internalID: 232276313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_17
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 805
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0013a66c9ed9244aa9ea60b2106ce72
+      internalID: -884160841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 781
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc3781d604dbd1408a4295b3ad6c99b
+      internalID: 985434031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_19
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 773
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2315e7f00dc6cbb4c927f847b534b625
+      internalID: 764774381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_20
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 792
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069e2378b7fab3840b378da0fad3e67d
+      internalID: -619665908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_21
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 780
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f198b11d19cfdf4478e4ff18489f8b0b
+      internalID: -1040099971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_22
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 782
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5baee0dd10c1fd249924882a1726c081
+      internalID: 48368804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 740
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077f857eb4942154ab83d123214b9199
+      internalID: 753316947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_24
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 745
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1e4820341c8414e9db19fdfea0e28e
+      internalID: -274869946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 764
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534ff2c04073a7d44829860853905cdf
+      internalID: -1037367164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_26
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 759
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90705f4d04f48d4995fdb06058c8a93
+      internalID: 1133563854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_27
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 759
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d622480b3164d49a35cb8a768ac0d8
+      internalID: -27759026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_28
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 761
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8bb663b4a1a1848a5e1cd7e8ea3243
+      internalID: -1532192778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_29
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 751
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01d2451ca3864d43951096849775344
+      internalID: 169761086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_30
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 751
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ede1d780c58795498cd769a87bcf843
+      internalID: -1694168384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_31
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 763
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bded152a16e0aea48a25b107074046d6
+      internalID: -1473961338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_32
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 732
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ffb3dd4fc876944a495190d5972d9e
+      internalID: -1225636063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 745
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2530d32f70d900342a15939e07b00af5
+      internalID: 1776172447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_34
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 731
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776f89ea64560a44b813a45e81945b13
+      internalID: 62280162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_35
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 731
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594494da204e54e44a69dcd823546b69
+      internalID: -460779515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_36
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 728
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007fa1a0f9089b74685c5126325ac37a
+      internalID: -1180121678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_37
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 728
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa44fe228a6b33f41bc6ef617888c05b
+      internalID: 409605857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_38
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 724
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a26ddfd0af63534ba03be002677bd32
+      internalID: -874253619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_39
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 724
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940bdbbada0a6d046a955fecb9d56096
+      internalID: -1682323939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_40
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 720
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901d25634567b1e49a122fff61b47e7a
+      internalID: 452063522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_41
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 732
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89898cb3f80fb2469c890bb50b94caf
+      internalID: 1693709620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_42
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 719
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0360cb7aad7a24384b659fd63ddb15
+      internalID: 1672394317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 692
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c1e898d33d1574d9aad6ee51d74e39
+      internalID: 1007621190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_44
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 704
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38adeac84e8c4b3469772d2be64eff0a
+      internalID: -470451757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_45
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 694
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c81be7b689a5d44eb210adf188375c3
+      internalID: -450548791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_46
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 691
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac53203a4133bbb48b6bda1980744000
+      internalID: 1507538854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_47
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 687
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d577783a867c448984b0e1e0fbd64e
+      internalID: -1646171419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_48
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 700
+        width: 51
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd1a7fe7cdfae24eb153707142d1d91
+      internalID: 2032113473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_49
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 700
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd9d0f1d998cc843ac470791270a6a5
+      internalID: -1473002553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_50
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 678
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6be4ce49e9edd47872f49f61f3b9dd
+      internalID: -732957671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_51
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 693
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82587763ed29c5a48b0b65b880c0cde4
+      internalID: 2072690214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_52
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 673
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dafd5880df92d641b062b5a560ea65c
+      internalID: -709264512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 643
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4186b727be27e45b9e1c64f3268567
+      internalID: 541543389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_54
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 645
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecd7bac81a633640afd26a2ebfc0863
+      internalID: 99085037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_55
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 646
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081ffbd7bd190594a8e2c7d9346b222b
+      internalID: -1996400046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_56
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 660
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e53556f8c00e54e93303d9e8e56850
+      internalID: 1315170305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_57
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 642
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bbe188ac57c2d4fb572116bc789bc7
+      internalID: -345599881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_58
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 684
+        width: 87
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541f23f6e3a96f84a93ed296b7c2ced6
+      internalID: -2081813522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_59
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 654
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81da3508e3de3514987167116881240c
+      internalID: 1711585053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_60
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 661
+        width: 61
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed1a85bf7f374144ab0fc2910231164
+      internalID: 1940503246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_61
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 661
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198eb2ea32777d84d8d72f1f4fe96d60
+      internalID: -1151448037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_62
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 639
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8906207080c924d9975281fe58fe6a
+      internalID: -1801163755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_63
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 613
+        width: 25
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca7e1649b774874fbe2ff5503ab7822
+      internalID: 1255356811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_64
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 648
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfa2baf1fa563145af715de18efdf46
+      internalID: -1224684887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_65
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 642
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f955074733016643ba5dbaa0304a845
+      internalID: -318571950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_66
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 590
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d048f7a718e122b418251d864b933bf4
+      internalID: -1482177471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_67
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 596
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a376fae29c4486541b710c53eeb99b02
+      internalID: 558436504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_68
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 601
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bd906b5d4d28a48a8763a444374ea5
+      internalID: -1386361176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_69
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 601
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fa25f0ffb9ab54e9ab185a0e26c2a0
+      internalID: 380621250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 581
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e36c7576c09d3c4e8a2ccd83d9e6686
+      internalID: 1771359074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_71
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 639
+        width: 74
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28379be1443407041849fedf916bfbb8
+      internalID: 882980226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_72
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 613
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b74a9ba2a895149b7ab76d0a586991
+      internalID: 641419230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_73
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 607
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2991580631c485478ffba8ec09b5e1d
+      internalID: -716154410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_74
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 607
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8186e79bb38a964a92c7301b5162ea5
+      internalID: -859155380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_75
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 622
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f416f2f52e4b0d41a5edc7c7bf4e53c
+      internalID: 1522989295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_76
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 609
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae96aa235b65dc4e9a5edec59f11480
+      internalID: 255020163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_77
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 608
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d11d7b2c6de8f469ba293b05d89879
+      internalID: -425076073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_78
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 582
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d19d74c1467ad744ace123df9cf7d3f
+      internalID: 930814544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_79
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 581
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c1854ebf40bfb4ca24df072263a9ba
+      internalID: -58407585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_80
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 608
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6caf428dc3278264e94200b54a87f0be
+      internalID: 40874912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_81
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 600
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdec95a641622b43b8315092d38f1a9
+      internalID: -970771338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_82
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 597
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8f4a3de2fe84d4a9821d41e14b3fd2
+      internalID: -1505255271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_83
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 615
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e727fbacb2bfa494088bd9ab84fa7208
+      internalID: 1026096413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_84
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 615
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8653ad39b4979fa409bace1e62c6f0ba
+      internalID: 1988977005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_85
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 614
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09423d0da612ac9449feb8f93d7df974
+      internalID: -210563587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_86
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 547
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd112e21fb7e3a4aa828e8037afb7b1
+      internalID: -2028456437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_87
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 581
+        width: 80
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8b7b76a62b470469c23bc736a2e862
+      internalID: -1718793421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_88
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 561
+        width: 110
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b991147af36af043819461f87976a88
+      internalID: -1045800465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_89
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 582
+        width: 82
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c9d3afc67983843b9bd8f8f8e279b7
+      internalID: -508747385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_90
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 565
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4549736210216d148989ac274b5ba378
+      internalID: 922045937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_91
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 581
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac382e1633e88d24abf22ce6d2219e38
+      internalID: -134897290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_92
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 567
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6915fb01a18652b4aac1f4c0ab44bf83
+      internalID: 1737172796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_93
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 587
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b7de9734931ce43a384575554bea56
+      internalID: 867161989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_94
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 599
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a2975543228ea46b9015a459654359
+      internalID: 382316778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_95
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 599
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f40e0872253ce6409626444550776d4
+      internalID: -1701394796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_96
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 599
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd7fc957e8527c4c8df147e4f2c64f6
+      internalID: -979384366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_97
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 599
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d0f3faca03182449668b52026a0b17
+      internalID: -1640488916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_98
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 599
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58efb53422e7e1b468624720376a45a3
+      internalID: 1181547774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_99
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 599
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2800c900779e6ed40b8873de8da8609d
+      internalID: 292370877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_100
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 599
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2b57bbaefb6f34581948764771b2fb
+      internalID: -1344837261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_101
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 599
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20adeb4f35c27c94399a66651ffd7197
+      internalID: 1926835103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_102
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 599
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d314b6eee75ec418e5549acf74a73f
+      internalID: -539203093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_103
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 599
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a165d9a739f300c418af1d514fd421f6
+      internalID: -792374360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_104
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 599
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6247ee86a91b53c459540fbb8ca6fa19
+      internalID: 1366756597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_105
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 599
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead9c4b9d869463408443e46223046a4
+      internalID: 1057601713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_106
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 599
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e19f1e4366db264ca14b6bd60900847
+      internalID: -1489522221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_107
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 599
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1985406f59a8245aab877450ad25e4
+      internalID: 1855095963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_108
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 599
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc44d2ac8e849147b9b0240b4c10e07
+      internalID: -1762147727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_109
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 599
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29652a9537bb8ad4594bbac76472a325
+      internalID: 2018033238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_110
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 594
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d5c73742388074a948107fb80a6fba
+      internalID: 1138746834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_111
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 593
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b86b95db5352904b8c3c5e5486b7787
+      internalID: -577056612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_112
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 593
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82f8b060d86100479cb052660974b94
+      internalID: 1595770252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_113
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 594
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b89695801d25bd42b983286b4327f56
+      internalID: 1129733548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 527
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18370f4251feea342ab00d5de74d44b3
+      internalID: 100622508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_115
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 558
+        width: 72
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a996d90d96bea04499b9be828864907f
+      internalID: -1436815706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_116
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 582
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8392bae6f587daf45a5f53ed3a37424c
+      internalID: -186494651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_117
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 587
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094d5e4481714984894d35515acae404
+      internalID: 1359661525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_118
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 562
+        width: 104
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25be4be7586244f4ea9a629da5ed277b
+      internalID: 1574804915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_119
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 565
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13342a00c30030c45af08557ff6f4671
+      internalID: 1837903671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_120
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 565
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b5f9787425ae64d940a97b7ac0ad0f
+      internalID: 1110975480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_121
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 565
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e2c7ec3c1d208479654b5fc21fd9e2
+      internalID: -590970329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_122
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 562
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60900f6ab07f81c4bb08d6caeea85d38
+      internalID: 1218644636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_123
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 559
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47aca62a4eef3343bbd9516306c4b13
+      internalID: -1574275639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_124
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 547
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cb61b551b4b3f4eb1454b1296a8b1c
+      internalID: -1228358132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_125
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 571
+        width: 74
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fffa8c9a6e76f646a10303fdcaf6bda
+      internalID: 1598805891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_126
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 571
+        width: 61
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779f52849d69cc24e9c6e5f83c7c9dc1
+      internalID: -1607952665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_127
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 562
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5053f9f36b880449f7e8f599b18380
+      internalID: 1079580438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_128
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 569
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3394eb53db7664eb8bb803851dcd25
+      internalID: -471873182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_129
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 562
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fba2baa173e7e4099ff663077b9788
+      internalID: 1114255451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_130
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 560
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250b8686471787944af4003f93d6eb96
+      internalID: -309632317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_131
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 560
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f86e0fba96900a418700bd90e11fc10
+      internalID: 457076306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_132
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 560
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7d7b42652e8854e8a3c3cb106bdb20
+      internalID: -863481269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_133
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 560
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1676239d1d22b246a26a89dbc2ac8ea
+      internalID: 1336389953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_134
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 565
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa411d612056fff43a8bf1cdca0105db
+      internalID: 1126919130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_135
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 527
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92d7be60946b5743ac038e958cf33a6
+      internalID: -1501570778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_136
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 567
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bb0ef3b9ddbb64bacb45fd617aad47
+      internalID: 1855527078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_137
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 546
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439f71765c5308143bffb4ad8c788f92
+      internalID: -998020466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_138
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 547
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42972846472ed846b2fb31b69ed9c19
+      internalID: 2057439559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_139
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 532
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b22de4f2117dc4aad1b7bde5ff3011
+      internalID: 571357680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_140
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 562
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37516a0df80b87468cbb24a0aa416b4
+      internalID: -1090257375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_141
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 524
+        width: 66
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824091a367472b240bc2e842fe8d3fc9
+      internalID: -1803600847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_142
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 520
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9132e2815cd2d244e97962f6abee5114
+      internalID: 840535740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_143
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 543
+        width: 75
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b2dc954667f2844a94e609e2d00013
+      internalID: 1611723213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_144
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 532
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859a01a1077b3be4f8198a7eda778313
+      internalID: -187437418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_145
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 527
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc5750b1b31c4c4fb6c3f56fa93c85c
+      internalID: 819049337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_146
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 492
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd7f9f4b2d27444aa20c11db9a81a03
+      internalID: 1967702189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_147
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 548
+        width: 52
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9505a8a8386f04dbd255ac5997beaa
+      internalID: 141544854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_148
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 541
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae28bace71ed4fb4ca4c011a18ed7029
+      internalID: 1899043768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_149
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 548
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e03e3a42ea58240b91e70b09efb719
+      internalID: 1256697651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_150
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 541
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd3e5d7e3f183c4db32ab86b024819c
+      internalID: 1086403011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_151
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 539
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609b674648461344c93c3894a7c47c2b
+      internalID: 1074773052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_152
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 539
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b916139ad60274e941b9f039410bf5
+      internalID: 495549675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_153
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 539
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad2737408b60cd4db97f8bfd982ae21
+      internalID: 745067236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_154
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 539
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8bf198b83f1d246b54487ec3030f3f
+      internalID: 495647453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_155
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 540
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc5248f80544ec4589ac3e22540287a
+      internalID: 1416342021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_156
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 521
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b4676e3e25298408106214c51493f6
+      internalID: -1513316184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_157
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 518
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ae52bbb0a1ccb41a312ee936d7a115
+      internalID: 626826804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_158
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 515
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8858f2046dd28e74da910e7a2e69d1f2
+      internalID: -1510146963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_159
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 492
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4204ee01f843bbc45b5b2d2f9e84ee0b
+      internalID: -2070799285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_160
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 492
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9266a25a43eef8347834446e08b752eb
+      internalID: 2039329698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_161
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 541
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61579713104217e4c92f0e52e1424803
+      internalID: 11859677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_162
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 457
+        width: 28
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561f32e76f12ebe45a9b2bd2391a1839
+      internalID: 938627685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_163
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 521
+        width: 76
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699ffa6d8ddb20e4e8fdf381972a42bf
+      internalID: 985236857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_164
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 520
+        width: 70
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ce85c3245150b449c810813c7500e3
+      internalID: -957778789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 454
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cefe39734a88a94692cc1d10227db0d
+      internalID: 491039610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_166
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 525
+        width: 40
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8242889ac514d469b4cc49a0170982
+      internalID: -703851847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_167
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 525
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b52511228c4634aa44d4edfb83107c
+      internalID: -497619506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_168
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 504
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57ee4ae62411514f9a0b834750a90dc
+      internalID: -1199608245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_169
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 463
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b428d90550ee5f4e8eba71baad5dddc
+      internalID: 1936148541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_170
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 520
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681ecd22e2b1c8746a72e45e84d82477
+      internalID: -2122449594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_171
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 471
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c8bc282771cde47a7ba316cdc96900
+      internalID: 1868022663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_172
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 451
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 30, y: 28, z: 29, w: 27}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5908b92cdc9f9d144bda495d4069c7a4
+      internalID: -492044356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_173
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 463
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b883135abe0d149a1fb27387d34e47
+      internalID: 1262330269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_174
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 457
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a131aefac56861740bfa7206ff5360f4
+      internalID: -781758543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_175
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 504
+        width: 120
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a53487151819e4d8b4e763fc5d46a1
+      internalID: 922585281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_176
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 474
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed3fce825b5b0b40b5db96b7f809696
+      internalID: 1352259226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_177
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 474
+        width: 8
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09d32194632a6741b3f6d5705035cfa
+      internalID: 387650834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_178
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 470
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c77ba84c3d7d8c4b952281487fd4b09
+      internalID: -756390248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_179
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 475
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36c2dc5eaaa5d2409b2ec9ae66b0c28
+      internalID: 1391212748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_180
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 475
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 14, y: 16, z: 14, w: 13}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c6d015c333a2b43a6fe0895b5e9ea4
+      internalID: 2135431565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_181
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 454
+        width: 140
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e35076de9a5a00438556e23491ee4ec
+      internalID: -751389872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_182
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 454
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f952bcba0272b9049a5b501c7fb06b39
+      internalID: -1307501615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_183
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 469
+        width: 102
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0997c2db3ff944095416973a93e693
+      internalID: -740356676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_184
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 459
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6e9e14a854f254a82cbd8a3965c4ef
+      internalID: -1341806286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_185
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 459
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012359b976720fc40a0be149fc24c7d3
+      internalID: 1779557152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_186
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 459
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5823f29ca532f4c43bd7e332583fc961
+      internalID: -1532670983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_187
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 459
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fd8a3605f8199428a2f8d926c682bb
+      internalID: -607152472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_188
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 428
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1c31806710ce94da4f709b1dd36a7d
+      internalID: -873702108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_189
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 410
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eca737f76db8734f82dba2da6e0cd8f
+      internalID: 1832495508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_190
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 410
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b017e683bebec6545b5dcb115e49ec3b
+      internalID: 650300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_191
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 452
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fda16417753f14889ebcfbdbfe7a71
+      internalID: -28091918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_192
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 402
+        width: 94
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4985fcb6386644248a522068c1a5a3af
+      internalID: 1830958155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_193
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 454
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f894ffe7f09134eb9fbb9688a288e1
+      internalID: -978212276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_194
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 389
+        width: 89
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 27, z: 29, w: 27}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aaa69bafddb2f847810e5df756c520b
+      internalID: -567378645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_195
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 390
+        width: 94
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3811c67b1b4ff294db8b8c16f8840569
+      internalID: -43468088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_196
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 428
+        width: 126
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d205e43eda44724896f691987ccedf4
+      internalID: -1393277202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_197
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 429
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5da80d8be84e14cbbb98bc7fe62bf3
+      internalID: 55152304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_198
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 428
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66b975ef64c4264ea48b5bba10fa9f9
+      internalID: 1884764565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_199
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 379
+        width: 128
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f123b326d2ae7c742ad8b0b31642060a
+      internalID: 677970389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_200
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 379
+        width: 128
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9e233dd2e37ce469b92b232f67fe9b
+      internalID: 217307918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_201
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 379
+        width: 89
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6baa7399cb8602f42a05d0a36191120f
+      internalID: -2038360370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_202
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb07c0f9bb3d64840848946962229653
+      internalID: -989891095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_203
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 419
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0d8e4397071574e99652b351e1b699
+      internalID: 778269807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_204
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 410
+        width: 248
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec83cedf2e166048943d8eecb8f6c24
+      internalID: -1727767472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_205
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 402
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0086f9ec89393449325b74bafd94f4
+      internalID: 758415726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_206
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 391
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b7dd1c94ef9ab44abab2f42cc6fbba
+      internalID: 192564733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_207
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 369
+        width: 310
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4390a6a154dd36044933a0bfb12b52be
+      internalID: 1324778686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_208
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 353
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e5d70532e355943918eeffcafe1d2a
+      internalID: 429964892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_209
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 379
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49edce73f274352469f3136f469e6e3e
+      internalID: -1017480831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_210
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 314
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4120a4e265bcebb468a949ea0c778aea
+      internalID: -1642875268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_211
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 310
+        width: 206
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090be0bd078edb44ca07e4d130cfcc96
+      internalID: -2076589409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_212
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 372
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6aa879e48b16f49ab2819afaea96e0
+      internalID: -1516674392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_213
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 310
+        width: 222
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4b1ad7951ca7349b2a1028c1f0ad89
+      internalID: 982716518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_214
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 353
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31d1d1b061ea9b4bbe7ff815b1d44f9
+      internalID: -671441618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_215
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 353
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802edd9ebd9067c489a175ef8f7fe9f1
+      internalID: 1090913979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_216
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 354
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f917d20994c3447409e5b3cd4bb9f511
+      internalID: -1016986834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_217
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 251
+        width: 204
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c940a8b7cdbe7d84ba937c7ca2877583
+      internalID: -2138439499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_218
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 322
+        width: 62
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdef1574361e76d4fbe9e53db7a56d36
+      internalID: -1744373512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_219
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 314
+        width: 98
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f145fb087300de4faf7a92ebaa1304d
+      internalID: -1534415625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_220
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 235
+        width: 101
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277ee122cd1cab6468abbd0da1fdeed3
+      internalID: 2131758754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_221
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 251
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0787aac3171e641a6042f6ce3f2dd2
+      internalID: 1396614675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_222
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 223
+        width: 204
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9941dafeed7c8dd4dbd8e61418a78fe3
+      internalID: -1113464837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_223
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 230
+        width: 206
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f1616f05e93eb47948c330615293eb
+      internalID: 897395888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_224
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 230
+        width: 206
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58e7717551769948b1faceb6368f995
+      internalID: 34344452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 268
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d4ddc0d0030734cb338bc415576c9e
+      internalID: 1465534790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_226
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e27456e7a994743a11fe9798bf3cf2
+      internalID: 2075396187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_227
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 154
+        width: 304
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bcc8e7844438c419e60be5f0fa6437
+      internalID: 58573978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_228
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 214
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143f6f798012219429a837a4deca65fa
+      internalID: 1646640794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_229
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 214
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466096197cc5f2c49b7465d219e99830
+      internalID: -467627609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_230
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 214
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cb728c00ae232419bed08a0614fbcd
+      internalID: -819426661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_231
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 214
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4276ca8db63be247a211737ecacaee1
+      internalID: 604234502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_232
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 121
+        width: 198
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7d8d9f1b5869549af7c829879a2c97
+      internalID: 547453160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_233
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 207
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006095177e56f79428a251ffd903767f
+      internalID: -1065229960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_234
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 135
+        width: 125
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ea4f6ff997c1b44b4823ac6e285ffa
+      internalID: 1850786696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_235
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 0
+        width: 196
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64e859d1774c414aba38dff32a28a1f
+      internalID: 853275417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_236
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 147
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b2018e743f1c449a429e20e06d4fb9
+      internalID: 1232733067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_237
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 135
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907ed3618a8435546bc22b2314d89716
+      internalID: -945560446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_238
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 0
+        width: 177
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199c80e4771fbc04d8d4174dd5e15c2d
+      internalID: 1542633662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_239
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 0
+        width: 207
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad419ec888f3b545b45542ea0e741e8
+      internalID: 238976234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lcommon_240
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 160
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c72676b60e85aa409803013e821c7f4
+      internalID: 1406694209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 05c6f02d0707e714389c3cf8461626b5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Lcommon_27: -27759026
+      Lcommon_232: 547453160
+      Lcommon_155: 1416342021
+      Lcommon_84: 1988977005
+      Lcommon_211: -2076589409
+      Lcommon_14: -60044502
+      Lcommon_240: 1406694209
+      Lcommon_11: 134549819
+      Lcommon_43: 1007621190
+      Lcommon_197: 55152304
+      Lcommon_2: 818968514
+      Lcommon_96: -979384366
+      Lcommon_159: -2070799285
+      Lcommon_70: 1771359074
+      Lcommon_8: -1818995923
+      Lcommon_34: 62280162
+      Lcommon_97: -1640488916
+      Lcommon_33: 1776172447
+      Lcommon_100: -1344837261
+      Lcommon_228: 1646640794
+      Lcommon_28: -1532192778
+      Lcommon_59: 1711585053
+      Lcommon_180: 2135431565
+      Lcommon_139: 571357680
+      Lcommon_88: -1045800465
+      Lcommon_52: -709264512
+      Lcommon_99: 292370877
+      Lcommon_7: 600456269
+      Lcommon_119: 1837903671
+      Lcommon_183: -740356676
+      Lcommon_224: 34344452
+      Lcommon_235: 853275417
+      Lcommon_118: 1574804915
+      Lcommon_134: 1126919130
+      Lcommon_144: -187437418
+      Lcommon_133: 1336389953
+      Lcommon_90: 922045937
+      Lcommon_171: 1868022663
+      Lcommon_26: 1133563854
+      Lcommon_220: 2131758754
+      Lcommon_10: 569518530
+      Lcommon_219: -1534415625
+      Lcommon_147: 141544854
+      Lcommon_15: -112789077
+      Lcommon_105: 1057601713
+      Lcommon_198: 1884764565
+      Lcommon_107: 1855095963
+      Lcommon_98: 1181547774
+      Lcommon_115: -1436815706
+      Lcommon_186: -1532670983
+      Lcommon_22: 48368804
+      Lcommon_117: 1359661525
+      Lcommon_185: 1779557152
+      Lcommon_82: -1505255271
+      Lcommon_120: 1110975480
+      Lcommon_223: 897395888
+      Lcommon_64: -1224684887
+      Lcommon_173: 1262330269
+      Lcommon_112: 1595770252
+      Lcommon_123: -1574275639
+      Lcommon_156: -1513316184
+      Lcommon_131: 457076306
+      Lcommon_13: -1261154761
+      Lcommon_72: 641419230
+      Lcommon_20: -619665908
+      Lcommon_234: 1850786696
+      Lcommon_174: -781758543
+      Lcommon_176: 1352259226
+      Lcommon_154: 495647453
+      Lcommon_191: -28091918
+      Lcommon_94: 382316778
+      Lcommon_18: 985434031
+      Lcommon_4: -1210101869
+      Lcommon_54: 99085037
+      Lcommon_164: -957778789
+      Lcommon_31: -1473961338
+      Lcommon_233: -1065229960
+      Lcommon_76: 255020163
+      Lcommon_89: -508747385
+      Lcommon_167: -497619506
+      Lcommon_63: 1255356811
+      Lcommon_91: -134897290
+      Lcommon_168: -1199608245
+      Lcommon_68: -1386361176
+      Lcommon_189: 1832495508
+      Lcommon_102: -539203093
+      Lcommon_58: -2081813522
+      Lcommon_104: 1366756597
+      Lcommon_45: -450548791
+      Lcommon_237: -945560446
+      Lcommon_110: 1138746834
+      Lcommon_126: -1607952665
+      Lcommon_86: -2028456437
+      Lcommon_222: -1113464837
+      Lcommon_163: 985236857
+      Lcommon_121: -590970329
+      Lcommon_213: 982716518
+      Lcommon_5: -502450524
+      Lcommon_3: 1906940402
+      Lcommon_39: -1682323939
+      Lcommon_24: -274869946
+      Lcommon_212: -1516674392
+      Lcommon_85: -210563587
+      Lcommon_214: -671441618
+      Lcommon_127: 1079580438
+      Lcommon_192: 1830958155
+      Lcommon_92: 1737172796
+      Lcommon_194: -567378645
+      Lcommon_141: -1803600847
+      Lcommon_150: 1086403011
+      Lcommon_239: 238976234
+      Lcommon_196: -1393277202
+      Lcommon_74: -859155380
+      Lcommon_75: 1522989295
+      Lcommon_217: -2138439499
+      Lcommon_60: 1940503246
+      Lcommon_238: 1542633662
+      Lcommon_37: 409605857
+      Lcommon_140: -1090257375
+      Lcommon_103: -792374360
+      Lcommon_21: -1040099971
+      Lcommon_93: 867161989
+      Lcommon_46: 1507538854
+      Lcommon_38: -874253619
+      Lcommon_25: -1037367164
+      Lcommon_231: 604234502
+      Lcommon_41: 1693709620
+      Lcommon_135: -1501570778
+      Lcommon_210: -1642875268
+      Lcommon_122: 1218644636
+      Lcommon_205: 758415726
+      Lcommon_23: 753316947
+      Lcommon_182: -1307501615
+      Lcommon_209: -1017480831
+      Lcommon_53: 541543389
+      Lcommon_49: -1473002553
+      Lcommon_177: 387650834
+      Lcommon_138: 2057439559
+      Lcommon_129: 1114255451
+      Lcommon_229: -467627609
+      Lcommon_95: -1701394796
+      Lcommon_165: 491039610
+      Lcommon_116: -186494651
+      Lcommon_80: 40874912
+      Lcommon_17: -884160841
+      Lcommon_124: -1228358132
+      Lcommon_157: 626826804
+      Lcommon_67: 558436504
+      Lcommon_206: 192564733
+      Lcommon_108: -1762147727
+      Lcommon_187: -607152472
+      Lcommon_87: -1718793421
+      Lcommon_130: -309632317
+      Lcommon_132: -863481269
+      Lcommon_44: -470451757
+      Lcommon_29: 169761086
+      Lcommon_81: -970771338
+      Lcommon_142: 840535740
+      Lcommon_151: 1074773052
+      Lcommon_181: -751389872
+      Lcommon_202: -989891095
+      Lcommon_1: -291611085
+      Lcommon_61: -1151448037
+      Lcommon_193: -978212276
+      Lcommon_162: 938627685
+      Lcommon_66: -1482177471
+      Lcommon_47: -1646171419
+      Lcommon_101: 1926835103
+      Lcommon_199: 677970389
+      Lcommon_62: -1801163755
+      Lcommon_152: 495549675
+      Lcommon_175: 922585281
+      Lcommon_221: 1396614675
+      Lcommon_78: 930814544
+      Lcommon_208: 429964892
+      Lcommon_111: -577056612
+      Lcommon_166: -703851847
+      Lcommon_136: 1855527078
+      Lcommon_35: -460779515
+      Lcommon_146: 1967702189
+      Lcommon_153: 745067236
+      Lcommon_169: 1936148541
+      Lcommon_200: 217307918
+      Lcommon_109: 2018033238
+      Lcommon_216: -1016986834
+      Lcommon_106: -1489522221
+      Lcommon_148: 1899043768
+      Lcommon_161: 11859677
+      Lcommon_160: 2039329698
+      Lcommon_114: 100622508
+      Lcommon_6: 1691112991
+      Lcommon_69: 380621250
+      Lcommon_201: -2038360370
+      Lcommon_36: -1180121678
+      Lcommon_50: -732957671
+      Lcommon_170: -2122449594
+      Lcommon_236: 1232733067
+      Lcommon_128: -471873182
+      Lcommon_9: -345518335
+      Lcommon_71: 882980226
+      Lcommon_73: -716154410
+      Lcommon_125: 1598805891
+      Lcommon_83: 1026096413
+      Lcommon_0: -100182205
+      Lcommon_207: 1324778686
+      Lcommon_227: 58573978
+      Lcommon_218: -1744373512
+      Lcommon_57: -345599881
+      Lcommon_190: 650300104
+      Lcommon_145: 819049337
+      Lcommon_149: 1256697651
+      Lcommon_143: 1611723213
+      Lcommon_19: 764774381
+      Lcommon_79: -58407585
+      Lcommon_158: -1510146963
+      Lcommon_178: -756390248
+      Lcommon_42: 1672394317
+      Lcommon_203: 778269807
+      Lcommon_184: -1341806286
+      Lcommon_204: -1727767472
+      Lcommon_32: -1225636063
+      Lcommon_226: 2075396187
+      Lcommon_56: 1315170305
+      Lcommon_40: 452063522
+      Lcommon_55: -1996400046
+      Lcommon_48: 2032113473
+      Lcommon_215: 1090913979
+      Lcommon_188: -873702108
+      Lcommon_195: -43468088
+      Lcommon_179: 1391212748
+      Lcommon_172: -492044356
+      Lcommon_225: 1465534790
+      Lcommon_230: -819426661
+      Lcommon_12: 2024486160
+      Lcommon_137: -998020466
+      Lcommon_51: 2072690214
+      Lcommon_77: -425076073
+      Lcommon_16: 232276313
+      Lcommon_30: -1694168384
+      Lcommon_65: -318571950
+      Lcommon_113: 1129733548
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
