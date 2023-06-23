@@ -10,6 +10,7 @@ namespace XMainClient
 		{
 			Protocol.RegistProtocol(new PtcG2C_NotifyAccountData());
 			Protocol.RegistProtocol(new PtcT2C_LoginChallenge());
+			Protocol.RegistProtocol(new PtcG2C_SelectRoleNtf());
 			//Protocol.RegistProtocol(new PtcT2C_KeepAlivePingReq());
 			//Protocol.RegistProtocol(new PtcT2C_ErrorNotify());
 			//Protocol.RegistProtocol(new PtcG2C_EnterSceneNtf());

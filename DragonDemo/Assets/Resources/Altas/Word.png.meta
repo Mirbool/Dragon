@@ -1,0 +1,3675 @@
+fileFormatVersion: 2
+guid: 4945fd54b5bd81a4693f1c38ea1d1e44
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 706120866574832881
+    second: Word_0
+  - first:
+      213: -5718360364946318603
+    second: Word_1
+  - first:
+      213: -1954966445569198566
+    second: Word_2
+  - first:
+      213: -6079060629293531672
+    second: Word_3
+  - first:
+      213: 6208839354668831733
+    second: Word_4
+  - first:
+      213: -8375743071074350293
+    second: Word_5
+  - first:
+      213: -3006081492870563846
+    second: Word_6
+  - first:
+      213: -3847289404143935026
+    second: Word_7
+  - first:
+      213: 3528395928464865466
+    second: Word_8
+  - first:
+      213: 5415414835235110341
+    second: Word_9
+  - first:
+      213: -1370894092886735007
+    second: Word_10
+  - first:
+      213: 4891223519237488328
+    second: Word_11
+  - first:
+      213: 3525139768661892066
+    second: Word_12
+  - first:
+      213: -5343375371662714392
+    second: Word_13
+  - first:
+      213: -9156609236343113205
+    second: Word_14
+  - first:
+      213: -3182632383789546572
+    second: Word_15
+  - first:
+      213: -3603615495462072030
+    second: Word_16
+  - first:
+      213: -275074050140617838
+    second: Word_17
+  - first:
+      213: 1314519394031627640
+    second: Word_18
+  - first:
+      213: -2587023389479036630
+    second: Word_19
+  - first:
+      213: 9184028786501245201
+    second: Word_20
+  - first:
+      213: -4656051030303039857
+    second: Word_21
+  - first:
+      213: -8040527003044222887
+    second: Word_22
+  - first:
+      213: -6215658682416049392
+    second: Word_23
+  - first:
+      213: 4883527162459964018
+    second: Word_24
+  - first:
+      213: -8720511657263119949
+    second: Word_25
+  - first:
+      213: -2907296906659479705
+    second: Word_26
+  - first:
+      213: -1435750777965145931
+    second: Word_27
+  - first:
+      213: 1668315752841602632
+    second: Word_28
+  - first:
+      213: 1462602102426953643
+    second: Word_29
+  - first:
+      213: 7744279040641243481
+    second: Word_30
+  - first:
+      213: -4348729870565194066
+    second: Word_31
+  - first:
+      213: -2905464386786777665
+    second: Word_32
+  - first:
+      213: -6917162589431589152
+    second: Word_33
+  - first:
+      213: -1012563632920716046
+    second: Word_34
+  - first:
+      213: -6681116546668968978
+    second: Word_35
+  - first:
+      213: 554816013168240381
+    second: Word_36
+  - first:
+      213: 4336375189015871913
+    second: Word_37
+  - first:
+      213: 2008997612593433353
+    second: Word_38
+  - first:
+      213: -1548042492261703098
+    second: Word_39
+  - first:
+      213: 1155554512837588006
+    second: Word_40
+  - first:
+      213: -1005622414510858439
+    second: Word_41
+  - first:
+      213: -2360832597045636949
+    second: Word_42
+  - first:
+      213: 1863719266899243228
+    second: Word_43
+  - first:
+      213: -2953109848351795514
+    second: Word_44
+  - first:
+      213: -5686391220401220944
+    second: Word_45
+  - first:
+      213: 7810715483064299306
+    second: Word_46
+  - first:
+      213: 1831836559592373860
+    second: Word_47
+  - first:
+      213: -7629790432805059890
+    second: Word_48
+  - first:
+      213: 3125857967620222623
+    second: Word_49
+  - first:
+      213: 2597691370863763047
+    second: Word_50
+  - first:
+      213: 2476566604701850602
+    second: Word_51
+  - first:
+      213: 383195974011123854
+    second: Word_52
+  - first:
+      213: -7339567364566512752
+    second: Word_53
+  - first:
+      213: -8564499244951207612
+    second: Word_54
+  - first:
+      213: -8705479325733995110
+    second: Word_55
+  - first:
+      213: 906778810259567991
+    second: Word_56
+  - first:
+      213: -6940951564406161199
+    second: Word_57
+  - first:
+      213: 4872146191186657696
+    second: Word_58
+  - first:
+      213: 4812625724690620265
+    second: Word_59
+  - first:
+      213: 4131985568160656467
+    second: Word_60
+  - first:
+      213: 3702983115150935880
+    second: Word_61
+  - first:
+      213: -3819856679477319431
+    second: Word_62
+  - first:
+      213: 3518170397946300811
+    second: Word_63
+  - first:
+      213: 2935503597932747348
+    second: Word_64
+  - first:
+      213: -7520700934596056704
+    second: Word_65
+  - first:
+      213: 2104312353746844119
+    second: Word_66
+  - first:
+      213: 5927501628745607410
+    second: Word_67
+  - first:
+      213: 1907103271933273640
+    second: Word_68
+  - first:
+      213: 8769994085936210677
+    second: Word_69
+  - first:
+      213: 5489530875857638516
+    second: Word_70
+  - first:
+      213: -7917792549157454462
+    second: Word_71
+  - first:
+      213: 1798001797478428597
+    second: Word_72
+  - first:
+      213: 3348881805826725484
+    second: Word_73
+  - first:
+      213: -6324614740305827228
+    second: Word_74
+  - first:
+      213: 4563766317499690972
+    second: Word_75
+  - first:
+      213: -8282861549835492153
+    second: Word_76
+  - first:
+      213: 4168111483479937033
+    second: Word_77
+  - first:
+      213: -7457258714760126088
+    second: Word_78
+  - first:
+      213: -6845094151492791262
+    second: Word_79
+  - first:
+      213: 2560451372691614788
+    second: Word_80
+  - first:
+      213: -1570642277220133579
+    second: Word_81
+  - first:
+      213: -1933038013185652066
+    second: Word_82
+  - first:
+      213: -1451865908180440319
+    second: Word_83
+  - first:
+      213: -5031124196463057952
+    second: Word_84
+  - first:
+      213: 1451581271632161100
+    second: Word_85
+  - first:
+      213: -4238506077132442677
+    second: Word_86
+  - first:
+      213: -655366334082961403
+    second: Word_87
+  - first:
+      213: -8533282539377872649
+    second: Word_88
+  - first:
+      213: 4853217248231407972
+    second: Word_89
+  - first:
+      213: -4012976967514088881
+    second: Word_90
+  - first:
+      213: 6857073071417193984
+    second: Word_91
+  - first:
+      213: 6820254527955846992
+    second: Word_92
+  - first:
+      213: 3669165818873855680
+    second: Word_93
+  - first:
+      213: -3386639882371292503
+    second: Word_94
+  - first:
+      213: 1748575856292623355
+    second: Word_95
+  - first:
+      213: -7298962064688119146
+    second: Word_96
+  - first:
+      213: -8067955620836616780
+    second: Word_97
+  - first:
+      213: 7671012912016869059
+    second: Word_98
+  - first:
+      213: 4232054117915369585
+    second: Word_99
+  - first:
+      213: -6496036528604916232
+    second: Word_100
+  - first:
+      213: -8094142985572082998
+    second: Word_101
+  - first:
+      213: 3904973707048602642
+    second: Word_102
+  - first:
+      213: -7645209397223918200
+    second: Word_103
+  - first:
+      213: 5216673567007797834
+    second: Word_104
+  - first:
+      213: 6533957375802704871
+    second: Word_105
+  - first:
+      213: 2321104132501614126
+    second: Word_106
+  - first:
+      213: 3655070874140498560
+    second: Word_107
+  - first:
+      213: -1039812106144631407
+    second: Word_108
+  - first:
+      213: -5257030132481912617
+    second: Word_109
+  - first:
+      213: 5597834020235043111
+    second: Word_110
+  - first:
+      213: 9180801377817475528
+    second: Word_111
+  - first:
+      213: 5164467102044028569
+    second: Word_112
+  - first:
+      213: -1421475456175676537
+    second: Word_113
+  - first:
+      213: -6483167611628284249
+    second: Word_114
+  - first:
+      213: 4490914023276357023
+    second: Word_115
+  - first:
+      213: -7213344495846294355
+    second: Word_116
+  - first:
+      213: 1265380286320730787
+    second: Word_117
+  - first:
+      213: -3469706312335322307
+    second: Word_118
+  - first:
+      213: -5567889812556469953
+    second: Word_119
+  - first:
+      213: -1242003676281929542
+    second: Word_120
+  - first:
+      213: 4027814502660943154
+    second: Word_121
+  - first:
+      213: 8928309231607885959
+    second: Word_122
+  - first:
+      213: -4313932952649754851
+    second: Word_123
+  - first:
+      213: 4959712840534422244
+    second: Word_124
+  - first:
+      213: -5365909456299159393
+    second: Word_125
+  - first:
+      213: 6318209927985455286
+    second: Word_126
+  - first:
+      213: -5051248533539874541
+    second: Word_127
+  - first:
+      213: 161649623566777365
+    second: Word_128
+  - first:
+      213: -1868195512090363314
+    second: Word_129
+  - first:
+      213: -5394768290039442347
+    second: Word_130
+  - first:
+      213: -4452088216128349344
+    second: Word_131
+  - first:
+      213: 2270830423897161922
+    second: Word_132
+  - first:
+      213: 2980145966900996198
+    second: Word_133
+  - first:
+      213: 155475315544332208
+    second: Word_134
+  - first:
+      213: 5570745660042196380
+    second: Word_135
+  - first:
+      213: -3254241538143527974
+    second: Word_136
+  - first:
+      213: -2705127072337486022
+    second: Word_137
+  - first:
+      213: -5835071944172665091
+    second: Word_138
+  - first:
+      213: -75337384948251776
+    second: Word_139
+  - first:
+      213: -320678274232446802
+    second: Word_140
+  - first:
+      213: -5948976274494592824
+    second: Word_141
+  - first:
+      213: -2229046214449107553
+    second: Word_142
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Word_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 455
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f41facdf25acc900800000000000000
+      internalID: 706120866574832881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 455
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa93b59b8d44a0b0800000000000000
+      internalID: -5718360364946318603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 487
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a163a0820609ed4e0800000000000000
+      internalID: -1954966445569198566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 486
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed75eed096d2aba0800000000000000
+      internalID: -6079060629293531672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 489
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3508a4f7a3a2650800000000000000
+      internalID: 6208839354668831733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_5
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 482
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b8caead0263cb80800000000000000
+      internalID: -8375743071074350293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_6
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 482
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7f2932fc04846d0800000000000000
+      internalID: -3006081492870563846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_7
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 479
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec160e5bbaeab9ac0800000000000000
+      internalID: -3847289404143935026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_8
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 480
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab83517176167f030800000000000000
+      internalID: 3528395928464865466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_10
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 475
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1670ec8f51b99fce0800000000000000
+      internalID: -1370894092886735007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_11
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 475
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cebf2d30ed11e340800000000000000
+      internalID: 4891223519237488328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_12
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 466
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebd1be41ffcbe030800000000000000
+      internalID: 3525139768661892066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_13
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 465
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9197ee86488d5b0800000000000000
+      internalID: -5343375371662714392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_14
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 468
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a35b0d9603de080800000000000000
+      internalID: -9156609236343113205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_15
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 461
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3c19195b405d3d0800000000000000
+      internalID: -3182632383789546572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_16
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 461
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221d3e5bcc26dfdc0800000000000000
+      internalID: -3603615495462072030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_17
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 458
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293c07adb9dbe2cf0800000000000000
+      internalID: -275074050140617838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_18
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 458
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ded9b9c6c1e3210800000000000000
+      internalID: 1314519394031627640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_19
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 458
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2999741feb091cd0800000000000000
+      internalID: -2587023389479036630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_20
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 454
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1195e52b589347f70800000000000000
+      internalID: 9184028786501245201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_21
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 454
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e12bab142626fb0800000000000000
+      internalID: -4656051030303039857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_22
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 392
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958ec909a4f4a6090800000000000000
+      internalID: -8040527003044222887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_23
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 445
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013d48d3c5b8db9a0800000000000000
+      internalID: -6215658682416049392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_24
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 444
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272c5698416c5c340800000000000000
+      internalID: 4883527162459964018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_25
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 447
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1cd29d9d48af680800000000000000
+      internalID: -8720511657263119949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_26
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 440
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f38fdedd437a7d0800000000000000
+      internalID: -2907296906659479705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_27
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 440
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0956d3640331ce0800000000000000
+      internalID: -1435750777965145931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_28
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 437
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846ef4d865c072710800000000000000
+      internalID: 1668315752841602632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_29
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 437
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7e5eaecd43c4410800000000000000
+      internalID: 1462602102426953643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_30
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 437
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9599ceaa1c4397b60800000000000000
+      internalID: 7744279040641243481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_31
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 435
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6c4d8293536a3c0800000000000000
+      internalID: -4348729870565194066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_32
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 424
+        width: 65
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5a606b887bda7d0800000000000000
+      internalID: -2905464386786777665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_33
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 423
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e61f4b064d4100a0800000000000000
+      internalID: -6917162589431589152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_34
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 426
+        width: 51
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc184b9db6a2f1f0800000000000000
+      internalID: -1012563632920716046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_35
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 420
+        width: 61
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3cfcc16e7e743a0800000000000000
+      internalID: -6681116546668968978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_36
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 416
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df66794793a13b700800000000000000
+      internalID: 554816013168240381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_37
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 416
+        width: 49
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1cb126246ed2c30800000000000000
+      internalID: 4336375189015871913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_38
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 416
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b4d3d3fa461eb10800000000000000
+      internalID: 2008997612593433353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_39
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 403
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642e78f1e8f348ae0800000000000000
+      internalID: -1548042492261703098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_40
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 402
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624b84005ba590010800000000000000
+      internalID: 1155554512837588006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_41
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 405
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fd8e4fdbf4b02f0800000000000000
+      internalID: -1005622414510858439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_42
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 399
+        width: 64
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba09eeed243ac3fd0800000000000000
+      internalID: -2360832597045636949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_43
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 395
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0b4908cc24dd910800000000000000
+      internalID: 1863719266899243228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_44
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 395
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6984a3d327407d0800000000000000
+      internalID: -2953109848351795514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_45
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 395
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2d5161051e511b0800000000000000
+      internalID: -5686391220401220944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_46
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 382
+        width: 65
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fe0b1595c356c60800000000000000
+      internalID: 7810715483064299306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_47
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 381
+        width: 65
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46eb31d35adfb6910800000000000000
+      internalID: 1831836559592373860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_48
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 384
+        width: 65
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec20bf5960a8d1690800000000000000
+      internalID: -7629790432805059890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_49
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 378
+        width: 65
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ee3529247416b20800000000000000
+      internalID: 3125857967620222623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_50
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 374
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e9e64e98adc0420800000000000000
+      internalID: 2597691370863763047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_51
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 374
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb59df94388e5220800000000000000
+      internalID: 2476566604701850602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_52
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 374
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88fa4645b2615500800000000000000
+      internalID: 383195974011123854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_53
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 327
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b86fd5e5e942a90800000000000000
+      internalID: -7339567364566512752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_54
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 361
+        width: 66
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44105993059c42980800000000000000
+      internalID: -8564499244951207612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_55
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 360
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d3e164dacef2780800000000000000
+      internalID: -8705479325733995110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_56
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 363
+        width: 65
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7757f5b0686859c00800000000000000
+      internalID: 906778810259567991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_57
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 357
+        width: 65
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d00160b359ccaf90800000000000000
+      internalID: -6940951564406161199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_58
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 353
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1047ba5275d9340800000000000000
+      internalID: 4872146191186657696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_59
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 353
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f57152991e9c240800000000000000
+      internalID: 4812625724690620265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_60
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 353
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ca1476bf2c75930800000000000000
+      internalID: 4131985568160656467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_61
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 340
+        width: 66
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84747d32683a36330800000000000000
+      internalID: 3702983115150935880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_62
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 339
+        width: 67
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8e9d6a6942dfac0800000000000000
+      internalID: -3819856679477319431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_63
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 342
+        width: 66
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8942ec365d03d030800000000000000
+      internalID: 3518170397946300811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_64
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 336
+        width: 66
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a99a728f00db820800000000000000
+      internalID: 2935503597932747348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_65
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 332
+        width: 65
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089247ba85a11a790800000000000000
+      internalID: -7520700934596056704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_66
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 332
+        width: 65
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9fb85cfe4043d10800000000000000
+      internalID: 2104312353746844119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_67
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 332
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f86eea7357b24250800000000000000
+      internalID: 5927501628745607410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_68
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 319
+        width: 67
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82661915254677a10800000000000000
+      internalID: 1907103271933273640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_69
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 318
+        width: 67
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2218ed72745b970800000000000000
+      internalID: 8769994085936210677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_70
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 321
+        width: 67
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474980f2f3bbe2c40800000000000000
+      internalID: 5489530875857638516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_71
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 315
+        width: 67
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d3c3670a95e1290800000000000000
+      internalID: -7917792549157454462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_72
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 311
+        width: 67
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf273ccb19c3f810800000000000000
+      internalID: 1798001797478428597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_73
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 311
+        width: 51
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66121f524e997e20800000000000000
+      internalID: 3348881805826725484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_74
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 262
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a2fd627647a38a0800000000000000
+      internalID: -6324614740305827228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_75
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 298
+        width: 67
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf26703941c55f30800000000000000
+      internalID: 4563766317499690972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_76
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 297
+        width: 67
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4605e0e4d5d0d80800000000000000
+      internalID: -8282861549835492153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_77
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 300
+        width: 66
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9005c058f4b18d930800000000000000
+      internalID: 4168111483479937033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_78
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 300
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871698c85be728890800000000000000
+      internalID: -7457258714760126088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_79
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 294
+        width: 67
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2241b26d2275101a0800000000000000
+      internalID: -6845094151492791262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_80
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 290
+        width: 67
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ce1f525fc888320800000000000000
+      internalID: 2560451372691614788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_81
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 290
+        width: 51
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5355515ab25f33ae0800000000000000
+      internalID: -1570642277220133579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_82
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 277
+        width: 68
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a0ebe2b287c25e0800000000000000
+      internalID: -1933038013185652066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_83
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 277
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ba76916afe9dbe0800000000000000
+      internalID: -1451865908180440319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_84
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 276
+        width: 68
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e362f8033bdd2ab0800000000000000
+      internalID: -5031124196463057952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_85
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 279
+        width: 67
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49ae3ac97d052410800000000000000
+      internalID: 1451581271632161100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_86
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 273
+        width: 67
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3bf2eed2dcd25c0800000000000000
+      internalID: -4238506077132442677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_87
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 269
+        width: 68
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5003c3b9acba7e6f0800000000000000
+      internalID: -655366334082961403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_88
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 224
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0b650edb0b39980800000000000000
+      internalID: -8533282539377872649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_89
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 256
+        width: 68
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461c1a2bf571a5340800000000000000
+      internalID: 4853217248231407972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_90
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 255
+        width: 68
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a9f7fa5ba0f48c0800000000000000
+      internalID: -4012976967514088881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_91
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 258
+        width: 68
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006f7bcc0a7392f50800000000000000
+      internalID: 6857073071417193984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_92
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 228
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057ce80ab5966ae50800000000000000
+      internalID: 6820254527955846992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_93
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 224
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce3bf74fde7be230800000000000000
+      internalID: 3669165818873855680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_94
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 245
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2a61d58fc3001d0800000000000000
+      internalID: -3386639882371292503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_95
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 197
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf375291a70344810800000000000000
+      internalID: 1748575856292623355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_96
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 235
+        width: 68
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69286397ca0e4ba90800000000000000
+      internalID: -7298962064688119146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_97
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 234
+        width: 68
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5da64db1dd80090800000000000000
+      internalID: -8067955620836616780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_98
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 237
+        width: 67
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c64338c999e47a60800000000000000
+      internalID: 7671012912016869059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_99
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 237
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17023904cc64bba30800000000000000
+      internalID: 4232054117915369585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_100
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 224
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5da88d13179d5a0800000000000000
+      internalID: -6496036528604916232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_101
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 214
+        width: 67
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca91c7d6d3dbaf80800000000000000
+      internalID: -8094142985572082998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_102
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 214
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c4fd9a5e0413630800000000000000
+      internalID: 3904973707048602642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_103
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 213
+        width: 68
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8857dfc2f82c6e590800000000000000
+      internalID: -7645209397223918200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_104
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 192
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a427ba658f8556840800000000000000
+      internalID: 5216673567007797834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_105
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 192
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3834a6d974daa50800000000000000
+      internalID: 6533957375802704871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_106
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 186
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e237829e7363020800000000000000
+      internalID: 2321104132501614126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_107
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 178
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a550a389b69b230800000000000000
+      internalID: 3655070874140498560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_108
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 186
+        width: 84
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195391c0668d191f0800000000000000
+      internalID: -1039812106144631407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_109
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 193
+        width: 68
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d014eb82f64b07b0800000000000000
+      internalID: -5257030132481912617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_110
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 192
+        width: 78
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721e4bff1608fad40800000000000000
+      internalID: 5597834020235043111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_111
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 132
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c93a3e0632c86f70800000000000000
+      internalID: 9180801377817475528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_112
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 130
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e768f777fdba740800000000000000
+      internalID: 5164467102044028569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_113
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 130
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78366b99a97e54ce0800000000000000
+      internalID: -1421475456175676537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_114
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 172
+        width: 78
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6149118692706a0800000000000000
+      internalID: -6483167611628284249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_115
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 172
+        width: 70
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f952532a28ee25e30800000000000000
+      internalID: 4490914023276357023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_116
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 171
+        width: 80
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacff82266d05eb90800000000000000
+      internalID: -7213344495846294355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_117
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 127
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2ede78aa88f8110800000000000000
+      internalID: 1265380286320730787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_118
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 127
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3392520e7029dfc0800000000000000
+      internalID: -3469706312335322307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_119
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 151
+        width: 80
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f392e0627b1eab2b0800000000000000
+      internalID: -5567889812556469953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_120
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 151
+        width: 80
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab08c71ac3483cee0800000000000000
+      internalID: -1242003676281929542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_121
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 130
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23da54c23fba5e730800000000000000
+      internalID: 4027814502660943154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_122
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 130
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78034d221f9b7eb70800000000000000
+      internalID: 8928309231607885959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_123
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 130
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d179574f5d4d124c0800000000000000
+      internalID: -4313932952649754851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_124
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 130
+        width: 77
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e27ffffc8074d440800000000000000
+      internalID: 4959712840534422244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_125
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 67
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90116087c57885b0800000000000000
+      internalID: -5365909456299159393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_126
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 66
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b06be5447acea750800000000000000
+      internalID: 6318209927985455286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_127
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 67
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319942ea83c56e9b0800000000000000
+      internalID: -5051248533539874541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_128
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 66
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cf5c6e97b4e3200800000000000000
+      internalID: 161649623566777365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_129
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 66
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4affd27416d216e0800000000000000
+      internalID: -1868195512090363314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_130
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 67
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55458aaa2dee125b0800000000000000
+      internalID: -5394768290039442347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_131
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 65
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b97f80b510732c0800000000000000
+      internalID: -4452088216128349344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_132
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 108
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c04a893d3c938f10800000000000000
+      internalID: 2270830423897161922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_133
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 65
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66862f7a7fa9b5920800000000000000
+      internalID: 2980145966900996198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_134
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b79c5ac9fb582200800000000000000
+      internalID: 155475315544332208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_135
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 2
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c953dd8a9a34f4d40800000000000000
+      internalID: 5570745660042196380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_136
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb52a1109c96d2d0800000000000000
+      internalID: -3254241538143527974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_137
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f18059245757ad0800000000000000
+      internalID: -2705127072337486022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_138
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df68db87bf8a50fa0800000000000000
+      internalID: -5835071944172665091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_139
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0834adb2c0954fef0800000000000000
+      internalID: -75337384948251776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_140
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 2
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea090310fc8bc8bf0800000000000000
+      internalID: -320678274232446802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_141
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 43
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8e58de89df07da0800000000000000
+      internalID: -5948976274494592824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Word_142
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 0
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9de4d72746d011e0800000000000000
+      internalID: -2229046214449107553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 000fd3cd0e9556f46b75f62aedae0172
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Word_95: 1748575856292623355
+      Word_41: -1005622414510858439
+      Word_64: 2935503597932747348
+      Word_8: 3528395928464865466
+      Word_25: -8720511657263119949
+      Word_15: -3182632383789546572
+      Word_20: 9184028786501245201
+      Word_58: 4872146191186657696
+      Word_120: -1242003676281929542
+      Word_88: -8533282539377872649
+      Word_10: -1370894092886735007
+      Word_21: -4656051030303039857
+      Word_0: 706120866574832881
+      Word_122: 8928309231607885959
+      Word_71: -7917792549157454462
+      Word_17: -275074050140617838
+      Word_73: 3348881805826725484
+      Word_112: 5164467102044028569
+      Word_53: -7339567364566512752
+      Word_97: -8067955620836616780
+      Word_100: -6496036528604916232
+      Word_123: -4313932952649754851
+      Word_117: 1265380286320730787
+      Word_141: -5948976274494592824
+      Word_12: 3525139768661892066
+      Word_69: 8769994085936210677
+      Word_106: 2321104132501614126
+      Word_13: -5343375371662714392
+      Word_85: 1451581271632161100
+      Word_70: 5489530875857638516
+      Word_66: 2104312353746844119
+      Word_134: 155475315544332208
+      Word_80: 2560451372691614788
+      Word_43: 1863719266899243228
+      Word_76: -8282861549835492153
+      Word_108: -1039812106144631407
+      Word_38: 2008997612593433353
+      Word_46: 7810715483064299306
+      Word_78: -7457258714760126088
+      Word_81: -1570642277220133579
+      Word_83: -1451865908180440319
+      Word_128: 161649623566777365
+      Word_50: 2597691370863763047
+      Word_61: 3702983115150935880
+      Word_51: 2476566604701850602
+      Word_65: -7520700934596056704
+      Word_39: -1548042492261703098
+      Word_132: 2270830423897161922
+      Word_93: 3669165818873855680
+      Word_45: -5686391220401220944
+      Word_104: 5216673567007797834
+      Word_7: -3847289404143935026
+      Word_56: 906778810259567991
+      Word_98: 7671012912016869059
+      Word_68: 1907103271933273640
+      Word_42: -2360832597045636949
+      Word_130: -5394768290039442347
+      Word_138: -5835071944172665091
+      Word_55: -8705479325733995110
+      Word_6: -3006081492870563846
+      Word_121: 4027814502660943154
+      Word_5: -8375743071074350293
+      Word_48: -7629790432805059890
+      Word_22: -8040527003044222887
+      Word_14: -9156609236343113205
+      Word_86: -4238506077132442677
+      Word_142: -2229046214449107553
+      Word_105: 6533957375802704871
+      Word_72: 1798001797478428597
+      Word_11: 4891223519237488328
+      Word_115: 4490914023276357023
+      Word_32: -2905464386786777665
+      Word_133: 2980145966900996198
+      Word_60: 4131985568160656467
+      Word_125: -5365909456299159393
+      Word_127: -5051248533539874541
+      Word_37: 4336375189015871913
+      Word_1: -5718360364946318603
+      Word_75: 4563766317499690972
+      Word_101: -8094142985572082998
+      Word_110: 5597834020235043111
+      Word_28: 1668315752841602632
+      Word_87: -655366334082961403
+      Word_124: 4959712840534422244
+      Word_84: -5031124196463057952
+      Word_99: 4232054117915369585
+      Word_131: -4452088216128349344
+      Word_135: 5570745660042196380
+      Word_47: 1831836559592373860
+      Word_139: -75337384948251776
+      Word_52: 383195974011123854
+      Word_33: -6917162589431589152
+      Word_36: 554816013168240381
+      Word_62: -3819856679477319431
+      Word_77: 4168111483479937033
+      Word_114: -6483167611628284249
+      Word_116: -7213344495846294355
+      Word_113: -1421475456175676537
+      Word_49: 3125857967620222623
+      Word_136: -3254241538143527974
+      Word_91: 6857073071417193984
+      Word_92: 6820254527955846992
+      Word_35: -6681116546668968978
+      Word_94: -3386639882371292503
+      Word_74: -6324614740305827228
+      Word_19: -2587023389479036630
+      Word_27: -1435750777965145931
+      Word_24: 4883527162459964018
+      Word_111: 9180801377817475528
+      Word_118: -3469706312335322307
+      Word_79: -6845094151492791262
+      Word_89: 4853217248231407972
+      Word_29: 1462602102426953643
+      Word_137: -2705127072337486022
+      Word_82: -1933038013185652066
+      Word_26: -2907296906659479705
+      Word_57: -6940951564406161199
+      Word_109: -5257030132481912617
+      Word_103: -7645209397223918200
+      Word_2: -1954966445569198566
+      Word_4: 6208839354668831733
+      Word_102: 3904973707048602642
+      Word_16: -3603615495462072030
+      Word_34: -1012563632920716046
+      Word_90: -4012976967514088881
+      Word_119: -5567889812556469953
+      Word_63: 3518170397946300811
+      Word_18: 1314519394031627640
+      Word_126: 6318209927985455286
+      Word_40: 1155554512837588006
+      Word_107: 3655070874140498560
+      Word_67: 5927501628745607410
+      Word_3: -6079060629293531672
+      Word_54: -8564499244951207612
+      Word_59: 4812625724690620265
+      Word_129: -1868195512090363314
+      Word_23: -6215658682416049392
+      Word_30: 7744279040641243481
+      Word_44: -2953109848351795514
+      Word_140: -320678274232446802
+      Word_96: -7298962064688119146
+      Word_31: -4348729870565194066
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

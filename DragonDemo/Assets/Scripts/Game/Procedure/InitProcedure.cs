@@ -9,13 +9,14 @@ using UnityEngine.UIElements;
 
 public class InitProcedure : BaseProcedure
 {
-
     public override async Task OnEnterProcedure(object value)
     {
         UnityLog.Info("enter Init Procedure");
 
         ///附加游戏 的各个模块的组件，
-       PlayerComponent pm=  GameManager.ECS.World.AddNewComponent<PlayerComponent>();
+        PlayerComponent pm=  GameManager.ECS.World.AddNewComponent<PlayerComponent>();
+        SelectRoleComponent sm =  GameManager.ECS.World.AddNewComponent<SelectRoleComponent>();
+        
         GameManager.ECS.World.AddNewComponent<ServerCommponent>();
 
       

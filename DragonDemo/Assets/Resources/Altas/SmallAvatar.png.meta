@@ -1,0 +1,3672 @@
+fileFormatVersion: 2
+guid: 8b4f29f4a1d2edf459c0994654ad7ae5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4112983071918119338
+    second: SmallAvatar_0
+  - first:
+      213: -1798279580998858613
+    second: SmallAvatar_1
+  - first:
+      213: -8779638264956983647
+    second: SmallAvatar_2
+  - first:
+      213: -3803191802377083367
+    second: SmallAvatar_3
+  - first:
+      213: -3591094407239823956
+    second: SmallAvatar_4
+  - first:
+      213: 6461618034733990761
+    second: SmallAvatar_5
+  - first:
+      213: 2575604014972722417
+    second: SmallAvatar_6
+  - first:
+      213: 2439591537721236842
+    second: SmallAvatar_7
+  - first:
+      213: -3652384491771486071
+    second: SmallAvatar_8
+  - first:
+      213: 8584648359475246275
+    second: SmallAvatar_9
+  - first:
+      213: 2494335835794252404
+    second: SmallAvatar_10
+  - first:
+      213: 3712895251839674609
+    second: SmallAvatar_11
+  - first:
+      213: -1555202579805405412
+    second: SmallAvatar_12
+  - first:
+      213: 2991498704580069617
+    second: SmallAvatar_13
+  - first:
+      213: 4675678063130490047
+    second: SmallAvatar_14
+  - first:
+      213: -3339700746274613994
+    second: SmallAvatar_15
+  - first:
+      213: -834275421523188924
+    second: SmallAvatar_16
+  - first:
+      213: -8618859706325509255
+    second: SmallAvatar_17
+  - first:
+      213: 5087547948997994415
+    second: SmallAvatar_18
+  - first:
+      213: 3828379816948845202
+    second: SmallAvatar_19
+  - first:
+      213: 4637865193333726112
+    second: SmallAvatar_20
+  - first:
+      213: 304264178115968962
+    second: SmallAvatar_21
+  - first:
+      213: 7096302935684663682
+    second: SmallAvatar_22
+  - first:
+      213: -5529618922758423345
+    second: SmallAvatar_23
+  - first:
+      213: -5159632198034144355
+    second: SmallAvatar_24
+  - first:
+      213: -7358333809691662889
+    second: SmallAvatar_25
+  - first:
+      213: 6492512280042901872
+    second: SmallAvatar_26
+  - first:
+      213: 7167077862365666909
+    second: SmallAvatar_27
+  - first:
+      213: -3579303040372063981
+    second: SmallAvatar_28
+  - first:
+      213: -819837510014512890
+    second: SmallAvatar_29
+  - first:
+      213: 4049487221927784539
+    second: SmallAvatar_30
+  - first:
+      213: -7018037280680888759
+    second: SmallAvatar_31
+  - first:
+      213: 5942411275327628325
+    second: SmallAvatar_32
+  - first:
+      213: -3881156165375222649
+    second: SmallAvatar_33
+  - first:
+      213: 265444493262092206
+    second: SmallAvatar_34
+  - first:
+      213: 3006000246839024300
+    second: SmallAvatar_35
+  - first:
+      213: 873485687329899680
+    second: SmallAvatar_36
+  - first:
+      213: -1687900014243474364
+    second: SmallAvatar_37
+  - first:
+      213: 5511452299530808599
+    second: SmallAvatar_38
+  - first:
+      213: 5031583377281842067
+    second: SmallAvatar_39
+  - first:
+      213: -7658071440037186032
+    second: SmallAvatar_40
+  - first:
+      213: -1021100511553173579
+    second: SmallAvatar_41
+  - first:
+      213: 1440931577491190568
+    second: SmallAvatar_42
+  - first:
+      213: -7987924379454655729
+    second: SmallAvatar_43
+  - first:
+      213: 5365978435393114485
+    second: SmallAvatar_44
+  - first:
+      213: -8505961517333575099
+    second: SmallAvatar_45
+  - first:
+      213: 7883970717623881999
+    second: SmallAvatar_46
+  - first:
+      213: -7656026638406599996
+    second: SmallAvatar_47
+  - first:
+      213: 2743966487925434264
+    second: SmallAvatar_48
+  - first:
+      213: -6929006933741562496
+    second: SmallAvatar_49
+  - first:
+      213: -5280098107481139252
+    second: SmallAvatar_50
+  - first:
+      213: -250367636633368467
+    second: SmallAvatar_51
+  - first:
+      213: 7424817091652148441
+    second: SmallAvatar_52
+  - first:
+      213: -790317411335048090
+    second: SmallAvatar_53
+  - first:
+      213: 4618641436460591971
+    second: SmallAvatar_54
+  - first:
+      213: 1822551487395076275
+    second: SmallAvatar_55
+  - first:
+      213: 5318053908965843639
+    second: SmallAvatar_56
+  - first:
+      213: -7419272618706117190
+    second: SmallAvatar_57
+  - first:
+      213: 3970366615126195821
+    second: SmallAvatar_58
+  - first:
+      213: -1110683396684559424
+    second: SmallAvatar_59
+  - first:
+      213: 5360556762977983167
+    second: SmallAvatar_60
+  - first:
+      213: -47953657788446374
+    second: SmallAvatar_61
+  - first:
+      213: -8592232884052763350
+    second: SmallAvatar_62
+  - first:
+      213: -4424880916934019343
+    second: SmallAvatar_63
+  - first:
+      213: 3875962730912644431
+    second: SmallAvatar_64
+  - first:
+      213: -9033192186732926737
+    second: SmallAvatar_65
+  - first:
+      213: -4234324876175934017
+    second: SmallAvatar_66
+  - first:
+      213: 1687294600913106138
+    second: SmallAvatar_67
+  - first:
+      213: 105622189521332133
+    second: SmallAvatar_68
+  - first:
+      213: 308316325397325906
+    second: SmallAvatar_69
+  - first:
+      213: 3837847544231188121
+    second: SmallAvatar_70
+  - first:
+      213: -5389697751084707691
+    second: SmallAvatar_71
+  - first:
+      213: -6888546486999918985
+    second: SmallAvatar_72
+  - first:
+      213: 470737618083701641
+    second: SmallAvatar_73
+  - first:
+      213: -605248302172912313
+    second: SmallAvatar_74
+  - first:
+      213: -292281620322285114
+    second: SmallAvatar_75
+  - first:
+      213: -3719685014028939154
+    second: SmallAvatar_76
+  - first:
+      213: 9060395777808191997
+    second: SmallAvatar_77
+  - first:
+      213: 2288797733472082131
+    second: SmallAvatar_78
+  - first:
+      213: -165887946413649638
+    second: SmallAvatar_79
+  - first:
+      213: 6040728242249224265
+    second: SmallAvatar_80
+  - first:
+      213: -2377815696394615351
+    second: SmallAvatar_81
+  - first:
+      213: 6061704825035152462
+    second: SmallAvatar_82
+  - first:
+      213: -1798327685340478062
+    second: SmallAvatar_83
+  - first:
+      213: -6551103886237398418
+    second: SmallAvatar_84
+  - first:
+      213: 7780789470297243024
+    second: SmallAvatar_85
+  - first:
+      213: -2852202965561896122
+    second: SmallAvatar_86
+  - first:
+      213: 6570756931415065905
+    second: SmallAvatar_87
+  - first:
+      213: 6872079939662027698
+    second: SmallAvatar_88
+  - first:
+      213: 6285503001702673648
+    second: SmallAvatar_89
+  - first:
+      213: 4639522797156373369
+    second: SmallAvatar_90
+  - first:
+      213: 1837867640198801352
+    second: SmallAvatar_91
+  - first:
+      213: -1687589551916415889
+    second: SmallAvatar_92
+  - first:
+      213: -4897520327051430873
+    second: SmallAvatar_93
+  - first:
+      213: -6237469495275814899
+    second: SmallAvatar_94
+  - first:
+      213: 6605622144415653118
+    second: SmallAvatar_95
+  - first:
+      213: -3889578321329185540
+    second: SmallAvatar_96
+  - first:
+      213: -6283489303065692110
+    second: SmallAvatar_97
+  - first:
+      213: 39063722490123121
+    second: SmallAvatar_98
+  - first:
+      213: 3390738838847185085
+    second: SmallAvatar_99
+  - first:
+      213: -4530979800777236716
+    second: SmallAvatar_100
+  - first:
+      213: 965409312270890944
+    second: SmallAvatar_101
+  - first:
+      213: -725622512102450349
+    second: SmallAvatar_102
+  - first:
+      213: 200564620154718679
+    second: SmallAvatar_103
+  - first:
+      213: -3894580607232729725
+    second: SmallAvatar_104
+  - first:
+      213: 3258714381416640818
+    second: SmallAvatar_105
+  - first:
+      213: 3507276503075314118
+    second: SmallAvatar_106
+  - first:
+      213: -2982931180846418473
+    second: SmallAvatar_107
+  - first:
+      213: -7337377217620432334
+    second: SmallAvatar_108
+  - first:
+      213: 4824679884910739805
+    second: SmallAvatar_109
+  - first:
+      213: -7827216905939636490
+    second: SmallAvatar_110
+  - first:
+      213: 5317409942084168021
+    second: SmallAvatar_111
+  - first:
+      213: -6263740208373591686
+    second: SmallAvatar_112
+  - first:
+      213: 2066460772076438391
+    second: SmallAvatar_113
+  - first:
+      213: 7423437867506120773
+    second: SmallAvatar_114
+  - first:
+      213: -8481914814590921342
+    second: SmallAvatar_115
+  - first:
+      213: 2216942926048762800
+    second: SmallAvatar_116
+  - first:
+      213: 7743936506145344397
+    second: SmallAvatar_117
+  - first:
+      213: -4113241178375094134
+    second: SmallAvatar_118
+  - first:
+      213: -379852903847685826
+    second: SmallAvatar_119
+  - first:
+      213: 7313883044015598025
+    second: SmallAvatar_120
+  - first:
+      213: -3282449055472827725
+    second: SmallAvatar_121
+  - first:
+      213: -4049252217129035031
+    second: SmallAvatar_122
+  - first:
+      213: -6128122884050394593
+    second: SmallAvatar_123
+  - first:
+      213: 5171909718620369083
+    second: SmallAvatar_124
+  - first:
+      213: -6340698713959575416
+    second: SmallAvatar_125
+  - first:
+      213: 1147008697477183034
+    second: SmallAvatar_126
+  - first:
+      213: -7455818903959903760
+    second: SmallAvatar_127
+  - first:
+      213: -4006380968194839564
+    second: SmallAvatar_128
+  - first:
+      213: -6712683308230167705
+    second: SmallAvatar_129
+  - first:
+      213: -7091486631195560759
+    second: SmallAvatar_130
+  - first:
+      213: 5438406867624083391
+    second: SmallAvatar_131
+  - first:
+      213: 6251072793228670638
+    second: SmallAvatar_132
+  - first:
+      213: -6958459417018956446
+    second: SmallAvatar_133
+  - first:
+      213: -4000933544750983010
+    second: SmallAvatar_134
+  - first:
+      213: 3542492399382746089
+    second: SmallAvatar_135
+  - first:
+      213: 3866135562041855354
+    second: SmallAvatar_136
+  - first:
+      213: -1232659448637108727
+    second: SmallAvatar_137
+  - first:
+      213: -4546520338714236322
+    second: SmallAvatar_138
+  - first:
+      213: 7792235250810047953
+    second: SmallAvatar_139
+  - first:
+      213: 5831488495632224448
+    second: SmallAvatar_140
+  - first:
+      213: -3196928884629534954
+    second: SmallAvatar_141
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SmallAvatar_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 948
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9dfd8ff40441930800000000000000
+      internalID: 4112983071918119338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 948
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8889bfaf3a3b07e0800000000000000
+      internalID: -1798279580998858613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 948
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6efc8b385782680800000000000000
+      internalID: -8779638264956983647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 948
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916e2a6b439583bc0800000000000000
+      internalID: -3803191802377083367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 948
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad049db9aed92ec0800000000000000
+      internalID: -3591094407239823956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 948
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963c3921e574ca950800000000000000
+      internalID: 6461618034733990761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_6
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 948
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcd48a94326eb320800000000000000
+      internalID: 2575604014972722417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_7
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1005
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d5ceaf39b2bd120800000000000000
+      internalID: 2439591537721236842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_8
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 948
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980a0d8e7af105dc0800000000000000
+      internalID: -3652384491771486071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_9
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 948
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c47924133cc22770800000000000000
+      internalID: 8584648359475246275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_10
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 948
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4722b032a39ad9220800000000000000
+      internalID: 2494335835794252404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 869
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8632e4f8ad68330800000000000000
+      internalID: 3712895251839674609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_12
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 869
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f7de45e7fca6ae0800000000000000
+      internalID: -1555202579805405412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_13
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 869
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f84980e830f38920800000000000000
+      internalID: 2991498704580069617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_14
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 869
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4baf4fc6853e040800000000000000
+      internalID: 4675678063130490047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_15
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 869
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615d132addff6a1d0800000000000000
+      internalID: -3339700746274613994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_16
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 869
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443654f9cee0c64f0800000000000000
+      internalID: -834275421523188924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_17
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 869
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b5a8303c8a36880800000000000000
+      internalID: -8618859706325509255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_18
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 869
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7eac597e99a9640800000000000000
+      internalID: 5087547948997994415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 790
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ac28ee823212530800000000000000
+      internalID: 3828379816948845202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_20
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 790
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab1ec422d10d5040800000000000000
+      internalID: 4637865193333726112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_21
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 790
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf7a7e68a6f83400800000000000000
+      internalID: 304264178115968962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_22
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 790
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289cb041ce12b7260800000000000000
+      internalID: 7096302935684663682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_23
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 790
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccb4bd03e8d243b0800000000000000
+      internalID: -5529618922758423345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_24
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 790
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93c1805add4568b0800000000000000
+      internalID: -5159632198034144355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_25
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 790
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5e49ed262f1e990800000000000000
+      internalID: -7358333809691662889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_26
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 790
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07191d715890a1a50800000000000000
+      internalID: 6492512280042901872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 711
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e1fdfc753967360800000000000000
+      internalID: 7167077862365666909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_28
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 711
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311c52749d2c35ec0800000000000000
+      internalID: -3579303040372063981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_29
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 711
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6015b0ad02a5f94f0800000000000000
+      internalID: -819837510014512890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_30
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 711
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b503d795c2ba23830800000000000000
+      internalID: 4049487221927784539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_31
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 711
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9463190c64cea9e90800000000000000
+      internalID: -7018037280680888759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_32
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 711
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524ed27129fa77250800000000000000
+      internalID: 5942411275327628325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_33
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 711
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c1ef4e70d532ac0800000000000000
+      internalID: -3881156165375222649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_34
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 711
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea778783c5c0fa300800000000000000
+      internalID: 265444493262092206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 632
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa939b4c4577b920800000000000000
+      internalID: 3006000246839024300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_36
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 632
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4cfadca9e3f1c00800000000000000
+      internalID: 873485687329899680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_37
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 632
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44414a241ef5398e0800000000000000
+      internalID: -1687900014243474364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_38
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 632
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d2b0e5aac9c7c40800000000000000
+      internalID: 5511452299530808599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_39
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 632
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bf4a45c66c3d540800000000000000
+      internalID: 5031583377281842067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_40
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 632
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016f408799019b590800000000000000
+      internalID: -7658071440037186032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_41
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 632
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b747e8ae7254d1f0800000000000000
+      internalID: -1021100511553173579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_42
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 632
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8237106a2a73ff310800000000000000
+      internalID: 1440931577491190568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 553
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f033ce54911352190800000000000000
+      internalID: -7987924379454655729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_44
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 553
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5715302f4f8c77a40800000000000000
+      internalID: 5365978435393114485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_45
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 553
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a80360111c4f980800000000000000
+      internalID: -8505961517333575099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_46
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 553
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f019d8bb89d796d60800000000000000
+      internalID: 7883970717623881999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_47
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 553
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cab8d2f55450c590800000000000000
+      internalID: -7656026638406599996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_48
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 553
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8972f5c8bf6841620800000000000000
+      internalID: 2743966487925434264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_49
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 553
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0859d1cb7e837df90800000000000000
+      internalID: -6929006933741562496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_50
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 553
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7df541fb259b6b0800000000000000
+      internalID: -5280098107481139252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_51
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 553
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68c63306f3868cf0800000000000000
+      internalID: -250367636633368467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 474
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcdc267ecf3a0760800000000000000
+      internalID: 7424817091652148441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_53
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 474
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664719d608a3805f0800000000000000
+      internalID: -790317411335048090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_54
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 474
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b22257ae5b81040800000000000000
+      internalID: 4618641436460591971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_55
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 474
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b81b07ebe00b4910800000000000000
+      internalID: 1822551487395076275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_56
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 474
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2694c9ad58dc940800000000000000
+      internalID: 5318053908965843639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_57
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 474
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd5d3ebcd2790990800000000000000
+      internalID: -7419272618706117190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_58
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 474
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ebaaa8663991730800000000000000
+      internalID: 3970366615126195821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_59
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 474
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb41bad55f0690f0800000000000000
+      internalID: -1110683396684559424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_60
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 474
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbade9779f5846a40800000000000000
+      internalID: 5360556762977983167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_61
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 474
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59c6ddf662a55ff0800000000000000
+      internalID: -47953657788446374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_62
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 474
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2dda9e27b142c880800000000000000
+      internalID: -8592232884052763350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_63
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 474
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f63eb4004aa792c0800000000000000
+      internalID: -4424880916934019343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 395
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d73ba619f2ac530800000000000000
+      internalID: 3875962730912644431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_65
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 395
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe823f9e097a3a280800000000000000
+      internalID: -9033192186732926737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_66
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 395
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdfee3a5f7ac35c0800000000000000
+      internalID: -4234324876175934017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_67
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 395
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad43cd6ff797a6710800000000000000
+      internalID: 1687294600913106138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_68
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 395
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a761de52de377100800000000000000
+      internalID: 105622189521332133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_69
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 395
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258e2cd701c574400800000000000000
+      internalID: 308316325397325906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_70
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 395
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9965108f106c24530800000000000000
+      internalID: 3837847544231188121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_71
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 395
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590dfd38372f335b0800000000000000
+      internalID: -5389697751084707691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_72
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 395
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776da979777f660a0800000000000000
+      internalID: -6888546486999918985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_73
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 395
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983ea4c9e55688600800000000000000
+      internalID: 470737618083701641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_74
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 395
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745431c30e9b997f0800000000000000
+      internalID: -605248302172912313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_75
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 395
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c980563a6b91fbf0800000000000000
+      internalID: -292281620322285114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 316
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60167eff26016cc0800000000000000
+      internalID: -3719685014028939154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_77
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 316
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1d4b4b4fdfcbd70800000000000000
+      internalID: 9060395777808191997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_78
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 316
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8925a796173cf10800000000000000
+      internalID: 2288797733472082131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_79
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 316
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11de79aac5a2bdf0800000000000000
+      internalID: -165887946413649638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_80
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 316
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9405fe7c45af4d350800000000000000
+      internalID: 6040728242249224265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_81
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 316
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c50d0be83d400fd0800000000000000
+      internalID: -2377815696394615351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_82
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 316
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4cdd7d0c608f1450800000000000000
+      internalID: 6061704825035152462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_83
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 316
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295c7858f7e0b07e0800000000000000
+      internalID: -1798327685340478062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_84
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 316
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a832689bdc515a0800000000000000
+      internalID: -6551103886237398418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_85
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 316
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dba218ccaeafb60800000000000000
+      internalID: 7780789470297243024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_86
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 316
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6431e52b380fa68d0800000000000000
+      internalID: -2852202965561896122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_87
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 316
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1354e62ad94003b50800000000000000
+      internalID: 6570756931415065905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_88
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 285
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb94a79b488e5f50800000000000000
+      internalID: 6872079939662027698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 237
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fca3239da79a3750800000000000000
+      internalID: 6285503001702673648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_90
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 237
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97315db1765e26040800000000000000
+      internalID: 4639522797156373369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_91
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 237
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c72c3e91ea618910800000000000000
+      internalID: 1837867640198801352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_92
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 237
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f648c576e3a7498e0800000000000000
+      internalID: -1687589551916415889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_93
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 237
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72438d1f533880cb0800000000000000
+      internalID: -4897520327051430873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_94
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 237
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0000c4aa8e0079a0800000000000000
+      internalID: -6237469495275814899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_95
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 237
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc595e9752ebab50800000000000000
+      internalID: 6605622144415653118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_96
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 237
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc1d17ef11750ac0800000000000000
+      internalID: -3889578321329185540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_97
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 237
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2387dcc25cf8cc8a0800000000000000
+      internalID: -6283489303065692110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_98
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 237
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173d0a6af38ca8000800000000000000
+      internalID: 39063722490123121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_99
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 237
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db06b9f42035e0f20800000000000000
+      internalID: 3390738838847185085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_100
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 237
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fd33a90e9be11c0800000000000000
+      internalID: -4530979800777236716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_101
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 228
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7b2c097a2d56d00800000000000000
+      internalID: 965409312270890944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 158
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b5b157b221ee5f0800000000000000
+      internalID: -725622512102450349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_103
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 158
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d945da957c88c200800000000000000
+      internalID: 200564620154718679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_104
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 158
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d94c4729ba3f9c0800000000000000
+      internalID: -3894580607232729725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_105
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 158
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231bbc8e677493d20800000000000000
+      internalID: 3258714381416640818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_106
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 158
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9d0eea5695ca030800000000000000
+      internalID: 3507276503075314118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_107
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 158
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5763035ef7a96d0800000000000000
+      internalID: -2982931180846418473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_108
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 158
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23aa0b0bb466c2a90800000000000000
+      internalID: -7337377217620432334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_109
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 158
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51c3170bc4b4f240800000000000000
+      internalID: 4824679884910739805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_110
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 158
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe2985c1b3206390800000000000000
+      internalID: -7827216905939636490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_111
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 158
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559ae036b2c3bc940800000000000000
+      internalID: 5317409942084168021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_112
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 158
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a719f8a9779b219a0800000000000000
+      internalID: -6263740208373591686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_113
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 158
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77345e5af1b8dac10800000000000000
+      internalID: 2066460772076438391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_114
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 171
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548b2e0d869550760800000000000000
+      internalID: 7423437867506120773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2855f2d4a6f2a4a80800000000000000
+      internalID: -8481914814590921342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_116
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 79
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb937a68d924ce10800000000000000
+      internalID: 2216942926048762800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_117
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 79
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b09f3293df77b60800000000000000
+      internalID: 7743936506145344397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_118
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 79
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80817fe0f4dae6c0800000000000000
+      internalID: -4113241178375094134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_119
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 79
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e311247ebcd7abaf0800000000000000
+      internalID: -379852903847685826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_120
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 79
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c96d4fb0e1208560800000000000000
+      internalID: 7313883044015598025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_121
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 79
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2c937a9f56272d0800000000000000
+      internalID: -3282449055472827725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_122
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 79
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea9f08ff8a2ec7c0800000000000000
+      internalID: -4049252217129035031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_123
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 79
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12eb3484b884faa0800000000000000
+      internalID: -6128122884050394593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_124
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 79
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0f1c4bc7056c740800000000000000
+      internalID: 5171909718620369083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_125
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 79
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880d9a63d105108a0800000000000000
+      internalID: -6340698713959575416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_126
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 79
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36396f455efaef00800000000000000
+      internalID: 1147008697477183034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_127
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 114
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1e3df953c978890800000000000000
+      internalID: -7455818903959903760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb6cd37cb97668c0800000000000000
+      internalID: -4006380968194839564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_129
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7633f33b812c7d2a0800000000000000
+      internalID: -6712683308230167705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_130
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 0
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c438223b7af59d90800000000000000
+      internalID: -7091486631195560759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_131
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 0
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf37c07b3a197b40800000000000000
+      internalID: 5438406867624083391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_132
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 0
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6f089f59540c650800000000000000
+      internalID: 6251072793228670638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_133
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 0
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2650d9817069e6f90800000000000000
+      internalID: -6958459417018956446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_134
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 0
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e985c2f8324d978c0800000000000000
+      internalID: -4000933544750983010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_135
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 0
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3dabc7116792130800000000000000
+      internalID: 3542492399382746089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_136
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 0
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d820d5fc547a530800000000000000
+      internalID: 3866135562041855354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_137
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 0
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ec4fa23c6b4eee0800000000000000
+      internalID: -1232659448637108727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_138
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 0
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a69d627d387e0c0800000000000000
+      internalID: -4546520338714236322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_139
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 0
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd4fc2fca4932c60800000000000000
+      internalID: 7792235250810047953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_140
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 57
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c09fe5e3eb9de050800000000000000
+      internalID: 5831488495632224448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallAvatar_141
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61788731e1a32a3d0800000000000000
+      internalID: -3196928884629534954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a9c3d70c89c634042820fe1099bae394
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SmallAvatar_114: 7423437867506120773
+      SmallAvatar_39: 5031583377281842067
+      SmallAvatar_118: -4113241178375094134
+      SmallAvatar_24: -5159632198034144355
+      SmallAvatar_3: -3803191802377083367
+      SmallAvatar_15: -3339700746274613994
+      SmallAvatar_18: 5087547948997994415
+      SmallAvatar_88: 6872079939662027698
+      SmallAvatar_20: 4637865193333726112
+      SmallAvatar_30: 4049487221927784539
+      SmallAvatar_21: 304264178115968962
+      SmallAvatar_61: -47953657788446374
+      SmallAvatar_85: 7780789470297243024
+      SmallAvatar_74: -605248302172912313
+      SmallAvatar_59: -1110683396684559424
+      SmallAvatar_128: -4006380968194839564
+      SmallAvatar_97: -6283489303065692110
+      SmallAvatar_137: -1232659448637108727
+      SmallAvatar_32: 5942411275327628325
+      SmallAvatar_55: 1822551487395076275
+      SmallAvatar_116: 2216942926048762800
+      SmallAvatar_70: 3837847544231188121
+      SmallAvatar_75: -292281620322285114
+      SmallAvatar_46: 7883970717623881999
+      SmallAvatar_29: -819837510014512890
+      SmallAvatar_129: -6712683308230167705
+      SmallAvatar_78: 2288797733472082131
+      SmallAvatar_66: -4234324876175934017
+      SmallAvatar_42: 1440931577491190568
+      SmallAvatar_103: 200564620154718679
+      SmallAvatar_104: -3894580607232729725
+      SmallAvatar_0: 4112983071918119338
+      SmallAvatar_64: 3875962730912644431
+      SmallAvatar_17: -8618859706325509255
+      SmallAvatar_19: 3828379816948845202
+      SmallAvatar_73: 470737618083701641
+      SmallAvatar_91: 1837867640198801352
+      SmallAvatar_65: -9033192186732926737
+      SmallAvatar_93: -4897520327051430873
+      SmallAvatar_31: -7018037280680888759
+      SmallAvatar_130: -7091486631195560759
+      SmallAvatar_89: 6285503001702673648
+      SmallAvatar_131: 5438406867624083391
+      SmallAvatar_11: 3712895251839674609
+      SmallAvatar_90: 4639522797156373369
+      SmallAvatar_99: 3390738838847185085
+      SmallAvatar_132: 6251072793228670638
+      SmallAvatar_135: 3542492399382746089
+      SmallAvatar_5: 6461618034733990761
+      SmallAvatar_68: 105622189521332133
+      SmallAvatar_95: 6605622144415653118
+      SmallAvatar_84: -6551103886237398418
+      SmallAvatar_34: 265444493262092206
+      SmallAvatar_79: -165887946413649638
+      SmallAvatar_40: -7658071440037186032
+      SmallAvatar_9: 8584648359475246275
+      SmallAvatar_28: -3579303040372063981
+      SmallAvatar_43: -7987924379454655729
+      SmallAvatar_101: 965409312270890944
+      SmallAvatar_124: 5171909718620369083
+      SmallAvatar_1: -1798279580998858613
+      SmallAvatar_26: 6492512280042901872
+      SmallAvatar_102: -725622512102450349
+      SmallAvatar_16: -834275421523188924
+      SmallAvatar_38: 5511452299530808599
+      SmallAvatar_57: -7419272618706117190
+      SmallAvatar_138: -4546520338714236322
+      SmallAvatar_121: -3282449055472827725
+      SmallAvatar_7: 2439591537721236842
+      SmallAvatar_98: 39063722490123121
+      SmallAvatar_134: -4000933544750983010
+      SmallAvatar_6: 2575604014972722417
+      SmallAvatar_52: 7424817091652148441
+      SmallAvatar_37: -1687900014243474364
+      SmallAvatar_108: -7337377217620432334
+      SmallAvatar_10: 2494335835794252404
+      SmallAvatar_71: -5389697751084707691
+      SmallAvatar_81: -2377815696394615351
+      SmallAvatar_96: -3889578321329185540
+      SmallAvatar_35: 3006000246839024300
+      SmallAvatar_44: 5365978435393114485
+      SmallAvatar_49: -6929006933741562496
+      SmallAvatar_51: -250367636633368467
+      SmallAvatar_117: 7743936506145344397
+      SmallAvatar_45: -8505961517333575099
+      SmallAvatar_94: -6237469495275814899
+      SmallAvatar_23: -5529618922758423345
+      SmallAvatar_14: 4675678063130490047
+      SmallAvatar_25: -7358333809691662889
+      SmallAvatar_139: 7792235250810047953
+      SmallAvatar_62: -8592232884052763350
+      SmallAvatar_69: 308316325397325906
+      SmallAvatar_126: 1147008697477183034
+      SmallAvatar_22: 7096302935684663682
+      SmallAvatar_83: -1798327685340478062
+      SmallAvatar_50: -5280098107481139252
+      SmallAvatar_112: -6263740208373591686
+      SmallAvatar_115: -8481914814590921342
+      SmallAvatar_41: -1021100511553173579
+      SmallAvatar_4: -3591094407239823956
+      SmallAvatar_80: 6040728242249224265
+      SmallAvatar_63: -4424880916934019343
+      SmallAvatar_106: 3507276503075314118
+      SmallAvatar_13: 2991498704580069617
+      SmallAvatar_56: 5318053908965843639
+      SmallAvatar_12: -1555202579805405412
+      SmallAvatar_123: -6128122884050394593
+      SmallAvatar_33: -3881156165375222649
+      SmallAvatar_48: 2743966487925434264
+      SmallAvatar_53: -790317411335048090
+      SmallAvatar_58: 3970366615126195821
+      SmallAvatar_77: 9060395777808191997
+      SmallAvatar_60: 5360556762977983167
+      SmallAvatar_120: 7313883044015598025
+      SmallAvatar_47: -7656026638406599996
+      SmallAvatar_141: -3196928884629534954
+      SmallAvatar_67: 1687294600913106138
+      SmallAvatar_8: -3652384491771486071
+      SmallAvatar_100: -4530979800777236716
+      SmallAvatar_107: -2982931180846418473
+      SmallAvatar_86: -2852202965561896122
+      SmallAvatar_127: -7455818903959903760
+      SmallAvatar_54: 4618641436460591971
+      SmallAvatar_122: -4049252217129035031
+      SmallAvatar_133: -6958459417018956446
+      SmallAvatar_72: -6888546486999918985
+      SmallAvatar_111: 5317409942084168021
+      SmallAvatar_119: -379852903847685826
+      SmallAvatar_109: 4824679884910739805
+      SmallAvatar_113: 2066460772076438391
+      SmallAvatar_140: 5831488495632224448
+      SmallAvatar_76: -3719685014028939154
+      SmallAvatar_136: 3866135562041855354
+      SmallAvatar_27: 7167077862365666909
+      SmallAvatar_125: -6340698713959575416
+      SmallAvatar_92: -1687589551916415889
+      SmallAvatar_36: 873485687329899680
+      SmallAvatar_105: 3258714381416640818
+      SmallAvatar_110: -7827216905939636490
+      SmallAvatar_87: 6570756931415065905
+      SmallAvatar_2: -8779638264956983647
+      SmallAvatar_82: 6061704825035152462
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

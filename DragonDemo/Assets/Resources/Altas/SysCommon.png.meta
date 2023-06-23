@@ -1,0 +1,7947 @@
+fileFormatVersion: 2
+guid: 8aaf3a0c3808eb745bfd99c0cd1c7b11
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2920599401510884095
+    second: SysCommon_0
+  - first:
+      213: 2276869928549979905
+    second: SysCommon_1
+  - first:
+      213: 551914503892889999
+    second: SysCommon_2
+  - first:
+      213: 3476878198004406717
+    second: SysCommon_3
+  - first:
+      213: -3751953565911815292
+    second: SysCommon_4
+  - first:
+      213: 7708777693155155448
+    second: SysCommon_5
+  - first:
+      213: 1982466627201755347
+    second: SysCommon_6
+  - first:
+      213: 8795362774694048730
+    second: SysCommon_7
+  - first:
+      213: 1512621781821766078
+    second: SysCommon_8
+  - first:
+      213: -3138925711997663536
+    second: SysCommon_9
+  - first:
+      213: 3657107596542987474
+    second: SysCommon_10
+  - first:
+      213: -1617759985145871723
+    second: SysCommon_11
+  - first:
+      213: 3627486886009464813
+    second: SysCommon_12
+  - first:
+      213: 9202925043008287573
+    second: SysCommon_13
+  - first:
+      213: -1538086964388479909
+    second: SysCommon_14
+  - first:
+      213: -7187028386262139746
+    second: SysCommon_15
+  - first:
+      213: -4381247175384618998
+    second: SysCommon_16
+  - first:
+      213: 6079855275306436225
+    second: SysCommon_17
+  - first:
+      213: -5004578142857623837
+    second: SysCommon_18
+  - first:
+      213: 7726860870435303516
+    second: SysCommon_19
+  - first:
+      213: 125428395694359662
+    second: SysCommon_20
+  - first:
+      213: -5482985210564514107
+    second: SysCommon_21
+  - first:
+      213: -2332773972444620525
+    second: SysCommon_22
+  - first:
+      213: 8847036965630723944
+    second: SysCommon_23
+  - first:
+      213: -5202459809691570156
+    second: SysCommon_24
+  - first:
+      213: -1763468282597083150
+    second: SysCommon_25
+  - first:
+      213: 8349933250209016132
+    second: SysCommon_26
+  - first:
+      213: 90207474394938134
+    second: SysCommon_27
+  - first:
+      213: -936498102411408412
+    second: SysCommon_28
+  - first:
+      213: 506357999156833920
+    second: SysCommon_29
+  - first:
+      213: -6341848249553359021
+    second: SysCommon_30
+  - first:
+      213: -2670804514078990429
+    second: SysCommon_31
+  - first:
+      213: 417920548045462004
+    second: SysCommon_32
+  - first:
+      213: 394363885666368613
+    second: SysCommon_33
+  - first:
+      213: 4241686639740044752
+    second: SysCommon_34
+  - first:
+      213: -658045628783194220
+    second: SysCommon_35
+  - first:
+      213: 8784801905582859667
+    second: SysCommon_36
+  - first:
+      213: -5571889045125282828
+    second: SysCommon_37
+  - first:
+      213: 3586103034621650332
+    second: SysCommon_38
+  - first:
+      213: 5597584575993259786
+    second: SysCommon_39
+  - first:
+      213: 7051623753887558011
+    second: SysCommon_40
+  - first:
+      213: 8115226999513995455
+    second: SysCommon_41
+  - first:
+      213: 6203287777335604295
+    second: SysCommon_42
+  - first:
+      213: -6468054704098667787
+    second: SysCommon_43
+  - first:
+      213: 6286539460722790583
+    second: SysCommon_44
+  - first:
+      213: -4522538636729548788
+    second: SysCommon_45
+  - first:
+      213: 4235125152453821720
+    second: SysCommon_46
+  - first:
+      213: 4226980942031336561
+    second: SysCommon_47
+  - first:
+      213: -3761748302659278184
+    second: SysCommon_48
+  - first:
+      213: 6015540229590076556
+    second: SysCommon_49
+  - first:
+      213: -2572413137799911034
+    second: SysCommon_50
+  - first:
+      213: -8012659199585444584
+    second: SysCommon_51
+  - first:
+      213: 2758895235690599853
+    second: SysCommon_52
+  - first:
+      213: 7665845438498744944
+    second: SysCommon_53
+  - first:
+      213: 1574069953985763957
+    second: SysCommon_54
+  - first:
+      213: -8091239564709811608
+    second: SysCommon_55
+  - first:
+      213: 3862879368889732540
+    second: SysCommon_56
+  - first:
+      213: 8454730748023832300
+    second: SysCommon_57
+  - first:
+      213: -996378655139842438
+    second: SysCommon_58
+  - first:
+      213: 5583693441640190394
+    second: SysCommon_59
+  - first:
+      213: 9147080016667265480
+    second: SysCommon_60
+  - first:
+      213: 1749244301686218575
+    second: SysCommon_61
+  - first:
+      213: -4065692881613838187
+    second: SysCommon_62
+  - first:
+      213: -5790050163164042094
+    second: SysCommon_63
+  - first:
+      213: 6025438640893568095
+    second: SysCommon_64
+  - first:
+      213: 4210835870397329335
+    second: SysCommon_65
+  - first:
+      213: 2125790763804079838
+    second: SysCommon_66
+  - first:
+      213: 4966339939319902565
+    second: SysCommon_67
+  - first:
+      213: -6617359964202142503
+    second: SysCommon_68
+  - first:
+      213: -8008956856915771012
+    second: SysCommon_69
+  - first:
+      213: 8758222136662505556
+    second: SysCommon_70
+  - first:
+      213: 8158954262056829706
+    second: SysCommon_71
+  - first:
+      213: -9077017804829219983
+    second: SysCommon_72
+  - first:
+      213: -3337976597063381705
+    second: SysCommon_73
+  - first:
+      213: -8140768927629265788
+    second: SysCommon_74
+  - first:
+      213: -3305101741621651248
+    second: SysCommon_75
+  - first:
+      213: -1802192336134297122
+    second: SysCommon_76
+  - first:
+      213: -5337579478322953984
+    second: SysCommon_77
+  - first:
+      213: -6447588519000702777
+    second: SysCommon_78
+  - first:
+      213: 7411043077692635115
+    second: SysCommon_79
+  - first:
+      213: -4785993903267230949
+    second: SysCommon_80
+  - first:
+      213: 9194529563666170189
+    second: SysCommon_81
+  - first:
+      213: -6358879812390633374
+    second: SysCommon_82
+  - first:
+      213: -5919242088681163929
+    second: SysCommon_83
+  - first:
+      213: -6102386910967531098
+    second: SysCommon_84
+  - first:
+      213: -602330217084139393
+    second: SysCommon_85
+  - first:
+      213: 904727101083711261
+    second: SysCommon_86
+  - first:
+      213: -5995400062436537417
+    second: SysCommon_87
+  - first:
+      213: -5172426618628040623
+    second: SysCommon_88
+  - first:
+      213: -2557868486347470758
+    second: SysCommon_89
+  - first:
+      213: -5172297735644015512
+    second: SysCommon_90
+  - first:
+      213: 7644260414112131093
+    second: SysCommon_91
+  - first:
+      213: -8268606450553176463
+    second: SysCommon_92
+  - first:
+      213: -4903965735700615164
+    second: SysCommon_93
+  - first:
+      213: 8109057987739219256
+    second: SysCommon_94
+  - first:
+      213: -813485724187157299
+    second: SysCommon_95
+  - first:
+      213: 6293777768653388261
+    second: SysCommon_96
+  - first:
+      213: -5718088516537615052
+    second: SysCommon_97
+  - first:
+      213: -3058237197986066137
+    second: SysCommon_98
+  - first:
+      213: -5030552570676952879
+    second: SysCommon_99
+  - first:
+      213: 8989788172246854271
+    second: SysCommon_100
+  - first:
+      213: -5154456108047441169
+    second: SysCommon_101
+  - first:
+      213: 80218646822546679
+    second: SysCommon_102
+  - first:
+      213: -1022520656165770852
+    second: SysCommon_103
+  - first:
+      213: 6387279728139794608
+    second: SysCommon_104
+  - first:
+      213: -3056172577335860877
+    second: SysCommon_105
+  - first:
+      213: -95757427269068848
+    second: SysCommon_106
+  - first:
+      213: 2722505288696410655
+    second: SysCommon_107
+  - first:
+      213: 2054567838875506909
+    second: SysCommon_108
+  - first:
+      213: 4326727180688943703
+    second: SysCommon_109
+  - first:
+      213: 8967464357291529655
+    second: SysCommon_110
+  - first:
+      213: -1796004943031252371
+    second: SysCommon_111
+  - first:
+      213: 9215514159421297891
+    second: SysCommon_112
+  - first:
+      213: 6805856363763575343
+    second: SysCommon_113
+  - first:
+      213: -1947249824529237434
+    second: SysCommon_114
+  - first:
+      213: 7079269785043616765
+    second: SysCommon_115
+  - first:
+      213: 4407073613539643645
+    second: SysCommon_116
+  - first:
+      213: 5567805338784647681
+    second: SysCommon_117
+  - first:
+      213: 8360681163900772104
+    second: SysCommon_118
+  - first:
+      213: 5665302374512652018
+    second: SysCommon_119
+  - first:
+      213: -5302999881243647079
+    second: SysCommon_120
+  - first:
+      213: -9182069628463188446
+    second: SysCommon_121
+  - first:
+      213: -4759448122015841387
+    second: SysCommon_122
+  - first:
+      213: -4453675779017990398
+    second: SysCommon_123
+  - first:
+      213: 3322720773836679293
+    second: SysCommon_124
+  - first:
+      213: 8133939869551828181
+    second: SysCommon_125
+  - first:
+      213: 6970664435297788146
+    second: SysCommon_126
+  - first:
+      213: 6126133328829757128
+    second: SysCommon_127
+  - first:
+      213: 4243441587569936596
+    second: SysCommon_128
+  - first:
+      213: -8139625536602049307
+    second: SysCommon_129
+  - first:
+      213: 2181940839385592245
+    second: SysCommon_130
+  - first:
+      213: -6142362001830200672
+    second: SysCommon_131
+  - first:
+      213: 8618467429989007847
+    second: SysCommon_132
+  - first:
+      213: 4063609520005562451
+    second: SysCommon_133
+  - first:
+      213: 4322513575158986011
+    second: SysCommon_134
+  - first:
+      213: -5527409508964781373
+    second: SysCommon_135
+  - first:
+      213: -4297002904049386749
+    second: SysCommon_136
+  - first:
+      213: -916227274633771136
+    second: SysCommon_137
+  - first:
+      213: 8211093638640154578
+    second: SysCommon_138
+  - first:
+      213: 7845318937888873409
+    second: SysCommon_139
+  - first:
+      213: -829056293374067600
+    second: SysCommon_140
+  - first:
+      213: 562099144072946842
+    second: SysCommon_141
+  - first:
+      213: 8646696463869139763
+    second: SysCommon_142
+  - first:
+      213: 958489807011996481
+    second: SysCommon_143
+  - first:
+      213: 6294228158633736991
+    second: SysCommon_144
+  - first:
+      213: 4998315283678511958
+    second: SysCommon_145
+  - first:
+      213: -9091520760792133090
+    second: SysCommon_146
+  - first:
+      213: -5555764325861488580
+    second: SysCommon_147
+  - first:
+      213: 9023505867214072838
+    second: SysCommon_148
+  - first:
+      213: 5158667509611469400
+    second: SysCommon_149
+  - first:
+      213: -5506385830773993232
+    second: SysCommon_150
+  - first:
+      213: 2844887303995025856
+    second: SysCommon_151
+  - first:
+      213: 1640797696349192081
+    second: SysCommon_152
+  - first:
+      213: 3183066935779104679
+    second: SysCommon_153
+  - first:
+      213: -2835137352430194467
+    second: SysCommon_154
+  - first:
+      213: -4313293275663057771
+    second: SysCommon_155
+  - first:
+      213: -6881137459532338106
+    second: SysCommon_156
+  - first:
+      213: 3596585527453048543
+    second: SysCommon_157
+  - first:
+      213: -3034688921940096182
+    second: SysCommon_158
+  - first:
+      213: 888631215586118305
+    second: SysCommon_159
+  - first:
+      213: 559322709836815444
+    second: SysCommon_160
+  - first:
+      213: -8896425762330411426
+    second: SysCommon_161
+  - first:
+      213: -6630003326152549594
+    second: SysCommon_162
+  - first:
+      213: -8654572164189587761
+    second: SysCommon_163
+  - first:
+      213: -4037635411545383676
+    second: SysCommon_164
+  - first:
+      213: -8034207605348610494
+    second: SysCommon_165
+  - first:
+      213: -4198150331863172605
+    second: SysCommon_166
+  - first:
+      213: 7121690945745605170
+    second: SysCommon_167
+  - first:
+      213: 2631828494117306020
+    second: SysCommon_168
+  - first:
+      213: 3163711489431793107
+    second: SysCommon_169
+  - first:
+      213: 3665456051019956479
+    second: SysCommon_170
+  - first:
+      213: 51882526584602519
+    second: SysCommon_171
+  - first:
+      213: -4214185001061948570
+    second: SysCommon_172
+  - first:
+      213: -165630968396565102
+    second: SysCommon_173
+  - first:
+      213: 6361624972874115209
+    second: SysCommon_174
+  - first:
+      213: 9182319995327173644
+    second: SysCommon_175
+  - first:
+      213: 1284517006814116614
+    second: SysCommon_176
+  - first:
+      213: 8544347919860823135
+    second: SysCommon_177
+  - first:
+      213: -4655578033252366402
+    second: SysCommon_178
+  - first:
+      213: 2070699977757284542
+    second: SysCommon_179
+  - first:
+      213: 750881103610751621
+    second: SysCommon_180
+  - first:
+      213: 395802815488406071
+    second: SysCommon_181
+  - first:
+      213: -6268552643624720363
+    second: SysCommon_182
+  - first:
+      213: -4121473503401801290
+    second: SysCommon_183
+  - first:
+      213: 5237756501707859960
+    second: SysCommon_184
+  - first:
+      213: 7015670033346735046
+    second: SysCommon_185
+  - first:
+      213: -2616945761536594263
+    second: SysCommon_186
+  - first:
+      213: -2690389295786662666
+    second: SysCommon_187
+  - first:
+      213: -8549364826215634179
+    second: SysCommon_188
+  - first:
+      213: 3045597516025326095
+    second: SysCommon_189
+  - first:
+      213: 8566647688941727405
+    second: SysCommon_190
+  - first:
+      213: 4619663976731421265
+    second: SysCommon_191
+  - first:
+      213: -8581484634149251557
+    second: SysCommon_192
+  - first:
+      213: -6481814700060364614
+    second: SysCommon_193
+  - first:
+      213: 1579177682219409980
+    second: SysCommon_194
+  - first:
+      213: 6768783502148616543
+    second: SysCommon_195
+  - first:
+      213: -1358323027482266661
+    second: SysCommon_196
+  - first:
+      213: -6947999897989238565
+    second: SysCommon_197
+  - first:
+      213: -7787969880625785758
+    second: SysCommon_198
+  - first:
+      213: -2344370844461138890
+    second: SysCommon_199
+  - first:
+      213: -4336564748163659960
+    second: SysCommon_200
+  - first:
+      213: -1685731105161515931
+    second: SysCommon_201
+  - first:
+      213: -6648132041101961468
+    second: SysCommon_202
+  - first:
+      213: 6781800240263901981
+    second: SysCommon_203
+  - first:
+      213: 5026123568199240938
+    second: SysCommon_204
+  - first:
+      213: -7348778495497327475
+    second: SysCommon_205
+  - first:
+      213: 8524595831830629460
+    second: SysCommon_206
+  - first:
+      213: -8759571305964202711
+    second: SysCommon_207
+  - first:
+      213: 5536962114291208453
+    second: SysCommon_208
+  - first:
+      213: -944178088356619561
+    second: SysCommon_209
+  - first:
+      213: -7396779885861841151
+    second: SysCommon_210
+  - first:
+      213: 17887745331824512
+    second: SysCommon_211
+  - first:
+      213: -8447535677765322247
+    second: SysCommon_212
+  - first:
+      213: 5915905562863073967
+    second: SysCommon_213
+  - first:
+      213: 4579348924178815467
+    second: SysCommon_214
+  - first:
+      213: 3520598392879537139
+    second: SysCommon_215
+  - first:
+      213: -8658210318651696517
+    second: SysCommon_216
+  - first:
+      213: -6284257975105338565
+    second: SysCommon_217
+  - first:
+      213: 4810888577231936611
+    second: SysCommon_218
+  - first:
+      213: 1608093418475108218
+    second: SysCommon_219
+  - first:
+      213: 3414360152439419607
+    second: SysCommon_220
+  - first:
+      213: -8652160831033893537
+    second: SysCommon_221
+  - first:
+      213: -4027501477981859779
+    second: SysCommon_222
+  - first:
+      213: 697802647367430258
+    second: SysCommon_223
+  - first:
+      213: 6652754636641533047
+    second: SysCommon_224
+  - first:
+      213: -6526850285009399781
+    second: SysCommon_225
+  - first:
+      213: 7638528255333752084
+    second: SysCommon_226
+  - first:
+      213: 1448988576386228792
+    second: SysCommon_227
+  - first:
+      213: 3513880192078329736
+    second: SysCommon_228
+  - first:
+      213: 8283218149842429494
+    second: SysCommon_229
+  - first:
+      213: 6719834863056097509
+    second: SysCommon_230
+  - first:
+      213: -7177503072287680557
+    second: SysCommon_231
+  - first:
+      213: -8201166307983937955
+    second: SysCommon_232
+  - first:
+      213: -6566693846802046728
+    second: SysCommon_233
+  - first:
+      213: -9149456809107788298
+    second: SysCommon_234
+  - first:
+      213: 1708949354751742139
+    second: SysCommon_235
+  - first:
+      213: 4320291196771231847
+    second: SysCommon_236
+  - first:
+      213: 3218522420885556860
+    second: SysCommon_237
+  - first:
+      213: -8852838720435236788
+    second: SysCommon_238
+  - first:
+      213: 8683946435260907802
+    second: SysCommon_239
+  - first:
+      213: 39710834676631415
+    second: SysCommon_240
+  - first:
+      213: 3703203143789349728
+    second: SysCommon_241
+  - first:
+      213: -9148315674937414647
+    second: SysCommon_242
+  - first:
+      213: -9136221289762606851
+    second: SysCommon_243
+  - first:
+      213: 3623366738719660380
+    second: SysCommon_244
+  - first:
+      213: -568295331649433635
+    second: SysCommon_245
+  - first:
+      213: -8107107085525560009
+    second: SysCommon_246
+  - first:
+      213: 1826081398763074902
+    second: SysCommon_247
+  - first:
+      213: 4401590939608705343
+    second: SysCommon_248
+  - first:
+      213: 7673511813006124112
+    second: SysCommon_249
+  - first:
+      213: -1089983734862124710
+    second: SysCommon_250
+  - first:
+      213: 5562376136519633984
+    second: SysCommon_251
+  - first:
+      213: 2467627915975350065
+    second: SysCommon_252
+  - first:
+      213: -4969664662990085530
+    second: SysCommon_253
+  - first:
+      213: 1217586247899208594
+    second: SysCommon_254
+  - first:
+      213: -5306448315395853425
+    second: SysCommon_255
+  - first:
+      213: 3552899991954159638
+    second: SysCommon_256
+  - first:
+      213: -3112267887761720928
+    second: SysCommon_257
+  - first:
+      213: 6755459078883213985
+    second: SysCommon_258
+  - first:
+      213: -8850116462336077579
+    second: SysCommon_259
+  - first:
+      213: 5905813016095614009
+    second: SysCommon_260
+  - first:
+      213: 1068446487835046886
+    second: SysCommon_261
+  - first:
+      213: -6282635079299810041
+    second: SysCommon_262
+  - first:
+      213: 3756940823012936544
+    second: SysCommon_263
+  - first:
+      213: -3425231596326442059
+    second: SysCommon_264
+  - first:
+      213: 7456319228539258286
+    second: SysCommon_265
+  - first:
+      213: -4157741403816646909
+    second: SysCommon_266
+  - first:
+      213: 8276574995036681885
+    second: SysCommon_267
+  - first:
+      213: 8511950841113105099
+    second: SysCommon_268
+  - first:
+      213: 2175326763762443340
+    second: SysCommon_269
+  - first:
+      213: 1687763898274997310
+    second: SysCommon_270
+  - first:
+      213: -6167604351894658646
+    second: SysCommon_271
+  - first:
+      213: 4154406955577648560
+    second: SysCommon_272
+  - first:
+      213: 7473495337408875220
+    second: SysCommon_273
+  - first:
+      213: -9120122048664645570
+    second: SysCommon_274
+  - first:
+      213: -2498661926067739565
+    second: SysCommon_275
+  - first:
+      213: 6373639968183320602
+    second: SysCommon_276
+  - first:
+      213: 7155906182609205946
+    second: SysCommon_277
+  - first:
+      213: -5665684278840105022
+    second: SysCommon_278
+  - first:
+      213: 7083618856206475600
+    second: SysCommon_279
+  - first:
+      213: -4145825608997979505
+    second: SysCommon_280
+  - first:
+      213: -2908708525370827883
+    second: SysCommon_281
+  - first:
+      213: -2896177662072083082
+    second: SysCommon_282
+  - first:
+      213: 3490400459045439849
+    second: SysCommon_283
+  - first:
+      213: 1849512798317562873
+    second: SysCommon_284
+  - first:
+      213: -6284422704843553957
+    second: SysCommon_285
+  - first:
+      213: 5623256394471057589
+    second: SysCommon_286
+  - first:
+      213: 4759960625484614783
+    second: SysCommon_287
+  - first:
+      213: 1741994400662097906
+    second: SysCommon_288
+  - first:
+      213: -1766046162147617646
+    second: SysCommon_289
+  - first:
+      213: -2009292884166851758
+    second: SysCommon_290
+  - first:
+      213: 174956060658995561
+    second: SysCommon_291
+  - first:
+      213: 7244131665066586282
+    second: SysCommon_292
+  - first:
+      213: 8063333793707493753
+    second: SysCommon_293
+  - first:
+      213: -8040939325030293347
+    second: SysCommon_294
+  - first:
+      213: 821890184943557222
+    second: SysCommon_295
+  - first:
+      213: -3257523906164408748
+    second: SysCommon_296
+  - first:
+      213: 372438474719880854
+    second: SysCommon_297
+  - first:
+      213: 8742246466758509216
+    second: SysCommon_298
+  - first:
+      213: -6063810716867474715
+    second: SysCommon_299
+  - first:
+      213: -3600975799781097576
+    second: SysCommon_300
+  - first:
+      213: 5069907704044497666
+    second: SysCommon_301
+  - first:
+      213: 5301597428807028537
+    second: SysCommon_302
+  - first:
+      213: -2658346470100795887
+    second: SysCommon_303
+  - first:
+      213: -2288877425265848021
+    second: SysCommon_304
+  - first:
+      213: 2018917778897631720
+    second: SysCommon_305
+  - first:
+      213: 8313784742618196699
+    second: SysCommon_306
+  - first:
+      213: 6383273265203068615
+    second: SysCommon_307
+  - first:
+      213: -3949759779230875924
+    second: SysCommon_308
+  - first:
+      213: -6445808253782016923
+    second: SysCommon_309
+  - first:
+      213: -465082422760184906
+    second: SysCommon_310
+  - first:
+      213: 780926967050402460
+    second: SysCommon_311
+  - first:
+      213: -2925634333614400615
+    second: SysCommon_312
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SysCommon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 986
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10da9bd7152f777d0800000000000000
+      internalID: -2920599401510884095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 971
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1079dfaf221199f10800000000000000
+      internalID: 2276869928549979905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 970
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81fbee215bc8a700800000000000000
+      internalID: 551914503892889999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 990
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db95a5fbc4a504030800000000000000
+      internalID: 3476878198004406717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 990
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48be01a4c126eebc0800000000000000
+      internalID: -3751953565911815292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_5
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 980
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdd7f418741bfa60800000000000000
+      internalID: 7708777693155155448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 989
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d86d65d4e2238b10800000000000000
+      internalID: 1982466627201755347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_7
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 990
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3355008d76f0a70800000000000000
+      internalID: 8795362774694048730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_8
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 988
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb931011f79edf410800000000000000
+      internalID: 1512621781821766078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_9
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 988
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d60a0812bb4074d0800000000000000
+      internalID: -3138925711997663536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_10
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 990
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcc35d9bf7a0c230800000000000000
+      internalID: 3657107596542987474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_11
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 983
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5920a816ddf8c89e0800000000000000
+      internalID: -1617759985145871723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_12
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 980
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de76bf38a1c675230800000000000000
+      internalID: 3627486886009464813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_13
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 967
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5533e03419b57bf70800000000000000
+      internalID: 9202925043008287573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_14
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 986
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c37f51e0e97aae0800000000000000
+      internalID: -1538086964388479909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_15
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 986
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c323ed2cb824c90800000000000000
+      internalID: -7187028386262139746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_16
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 990
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08240628eea233c0800000000000000
+      internalID: -4381247175384618998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_17
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 961
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186cc62192cff5450800000000000000
+      internalID: 6079855275306436225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_18
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 966
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e68948c1ba2c8ab0800000000000000
+      internalID: -5004578142857623837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 939
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c507923e5035b3b60800000000000000
+      internalID: 7726860870435303516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 969
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e640c1a167c9db100800000000000000
+      internalID: 125428395694359662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_21
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 944
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cee497400688e3b0800000000000000
+      internalID: -5482985210564514107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_22
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 956
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319592f7e6250afd0800000000000000
+      internalID: -2332773972444620525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_23
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 957
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8674b232f3df6ca70800000000000000
+      internalID: 8847036965630723944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_24
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 957
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410761ded562dc7b0800000000000000
+      internalID: -5202459809691570156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_25
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 954
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7f123b0f6e687e0800000000000000
+      internalID: -1763468282597083150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_26
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 956
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4496eec1d0ce0e370800000000000000
+      internalID: 8349933250209016132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_27
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 964
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b3563583b704100800000000000000
+      internalID: 90207474394938134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_28
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 964
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebc0f800f3e003f0800000000000000
+      internalID: -936498102411408412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_29
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 983
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08eabecdae1f60700800000000000000
+      internalID: 506357999156833920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_30
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 983
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f60f91e9a3df7a0800000000000000
+      internalID: -6341848249553359021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_31
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 961
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afdfc9e1756fead0800000000000000
+      internalID: -2670804514078990429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_32
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 954
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f916923680ccc500800000000000000
+      internalID: 417920548045462004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_33
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 961
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cf2655ddf097500800000000000000
+      internalID: 394363885666368613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_34
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 949
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5c932868f7dda30800000000000000
+      internalID: 4241686639740044752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_35
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 946
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f0162bcf62ed6f0800000000000000
+      internalID: -658045628783194220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_36
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 951
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395e07c0ac2e9e970800000000000000
+      internalID: 8784801905582859667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_37
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 949
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3ca614f6caca2b0800000000000000
+      internalID: -5571889045125282828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_38
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 967
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95e292c5b564c130800000000000000
+      internalID: 3586103034621650332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_39
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 973
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07a84cb38d9ead40800000000000000
+      internalID: 5597584575993259786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_40
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 973
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79ac2c61766cd160800000000000000
+      internalID: 7051623753887558011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_41
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 960
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8d0b1b5f31f9070800000000000000
+      internalID: 8115226999513995455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_42
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 924
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7447c97fd51861650800000000000000
+      internalID: 6203287777335604295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_43
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 921
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2976e048adc36a0800000000000000
+      internalID: -6468054704098667787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_44
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 934
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b09bdef4564e3750800000000000000
+      internalID: 6286539460722790583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_45
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 963
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0081c24217bc31c0800000000000000
+      internalID: -4522538636729548788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_46
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 963
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815055333ef26ca30800000000000000
+      internalID: 4235125152453821720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_47
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 946
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174bf1275c049aa30800000000000000
+      internalID: 4226980942031336561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_48
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 923
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89aa09d69d59bcbc0800000000000000
+      internalID: -3761748302659278184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_49
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 920
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cc9c497fd7b7350800000000000000
+      internalID: 6015540229590076556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_50
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 916
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68963e161e3fc4cd0800000000000000
+      internalID: -2572413137799911034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_51
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 921
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d917e29e05dc090800000000000000
+      internalID: -8012659199585444584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_52
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 924
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da51bdf7990994620800000000000000
+      internalID: 2758895235690599853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_53
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 923
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a24c89fcd826a60800000000000000
+      internalID: 7665845438498744944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_54
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 917
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57adfea884838d510800000000000000
+      internalID: 1574069953985763957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_55
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 920
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86aa2e03c7426bf80800000000000000
+      internalID: -8091239564709811608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_56
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 934
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd8bd0d154bb9530800000000000000
+      internalID: 3862879368889732540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_57
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 931
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee788bf1dc355570800000000000000
+      internalID: 8454730748023832300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_58
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 930
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76bb9664e62c22f0800000000000000
+      internalID: -996378655139842438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_59
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 930
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab154abf9934d7d40800000000000000
+      internalID: 5583693441640190394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_60
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 930
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9c685dfc4f0fe70800000000000000
+      internalID: 9147080016667265480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_61
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 932
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f126bac60964810800000000000000
+      internalID: 1749244301686218575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_62
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 928
+        width: 130
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598a2997dd1c397c0800000000000000
+      internalID: -4065692881613838187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_63
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 914
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c2ae8bd0c95afa0800000000000000
+      internalID: -5790050163164042094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 890
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54af5e0588ae9350800000000000000
+      internalID: 6025438640893568095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_65
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 898
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf61860ae4ef6a30800000000000000
+      internalID: 4210835870397329335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_66
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 899
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6395fcf63508d10800000000000000
+      internalID: 2125790763804079838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_67
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 918
+        width: 8
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5617ffcacdbfbe440800000000000000
+      internalID: 4966339939319902565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_68
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 915
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4f6de3c2a6a24a0800000000000000
+      internalID: -6617359964202142503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_69
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 903
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c714b120c287ad090800000000000000
+      internalID: -8008956856915771012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_70
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 898
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4583bb751a47b8970800000000000000
+      internalID: 8758222136662505556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_71
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 911
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a038e806cad6a3170800000000000000
+      internalID: 8158954262056829706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_72
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 924
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173224b0664f70280800000000000000
+      internalID: -9077017804829219983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_73
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 917
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d487768ff1da1d0800000000000000
+      internalID: -3337976597063381705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_74
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 897
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484be1ebacd260f80800000000000000
+      internalID: -8140768927629265788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_75
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 879
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8dd182a7be122d0800000000000000
+      internalID: -3305101741621651248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_76
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 906
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9a8c36e935df6e0800000000000000
+      internalID: -1802192336134297122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_77
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 877
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00145228ebb1de5b0800000000000000
+      internalID: -5337579478322953984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_78
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 877
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0831b17609586a0800000000000000
+      internalID: -6447588519000702777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_79
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 874
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7bcfce96059d660800000000000000
+      internalID: 7411043077692635115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_80
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 874
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b429af6ebb49db0800000000000000
+      internalID: -4785993903267230949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_81
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 885
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4146276ce7899f70800000000000000
+      internalID: 9194529563666170189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_82
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 884
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260cd0d5088b0c7a0800000000000000
+      internalID: -6358879812390633374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_83
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 884
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7633e9c8ea0aadda0800000000000000
+      internalID: -5919242088681163929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_84
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 881
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a979c1bf67ff4ba0800000000000000
+      internalID: -6102386910967531098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_85
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 873
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78473ddbd714a7f0800000000000000
+      internalID: -602330217084139393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_86
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 890
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1773c6418c3e8c00800000000000000
+      internalID: 904727101083711261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_87
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 886
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb8d10886f0ccca0800000000000000
+      internalID: -5995400062436537417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_88
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 898
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15896e12569d738b0800000000000000
+      internalID: -5172426618628040623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_89
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 911
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58c711f920a08cd0800000000000000
+      internalID: -2557868486347470758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_90
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 897
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864916a0d9e4838b0800000000000000
+      internalID: -5172297735644015512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_91
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 878
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518ebb9785ed51a60800000000000000
+      internalID: 7644260414112131093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_92
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 885
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e364ffd32004d80800000000000000
+      internalID: -8268606450553176463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_93
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 871
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400b0ec452d91fbb0800000000000000
+      internalID: -4903965735700615164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_94
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 838
+        width: 50
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 22, y: 21, z: 21, w: 50}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8357d36b649298070800000000000000
+      internalID: 8109057987739219256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_95
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 889
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc19fb3b0be5b4f0800000000000000
+      internalID: -813485724187157299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_96
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 881
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9f5d3e88df75750800000000000000
+      internalID: 6293777768653388261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_97
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 886
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43df8893ac445a0b0800000000000000
+      internalID: -5718088516537615052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_98
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 864
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721972fb875fe85d0800000000000000
+      internalID: -3058237197986066137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_99
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 897
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d04fd80713ef2ab0800000000000000
+      internalID: -5030552570676952879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 836
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a28c476b422cc70800000000000000
+      internalID: 8989788172246854271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_101
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 854
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe26d7daa71b778b0800000000000000
+      internalID: -5154456108047441169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_102
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 853
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc683c2f6efc1100800000000000000
+      internalID: 80218646822546679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_103
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 833
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c996db971e64fc1f0800000000000000
+      internalID: -1022520656165770852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_104
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 875
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b873dc421d24a850800000000000000
+      internalID: 6387279728139794608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_105
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 847
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3712b93bb3b4695d0800000000000000
+      internalID: -3056172577335860877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_106
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 870
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d79503902dcbaef0800000000000000
+      internalID: -95757427269068848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_107
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 839
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f123fd7b22848c520800000000000000
+      internalID: 2722505288696410655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_108
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 864
+        width: 74
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8dd1b509a438c10800000000000000
+      internalID: 2054567838875506909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_109
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 876
+        width: 57
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75aedf4627f9b0c30800000000000000
+      internalID: 4326727180688943703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_110
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 876
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b596504255d27c70800000000000000
+      internalID: 8967464357291529655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_111
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 839
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ac6cb150f4317e0800000000000000
+      internalID: -1796004943031252371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_112
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 871
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e493e65d4514ef70800000000000000
+      internalID: 9215514159421297891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_113
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 854
+        width: 102
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2aa57acd42437e50800000000000000
+      internalID: 6805856363763575343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_114
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 867
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a3efff99af9f4e0800000000000000
+      internalID: -1947249824529237434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_115
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 867
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df34ea6ac5e9e3260800000000000000
+      internalID: 7079269785043616765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_116
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 867
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df017021a12192d30800000000000000
+      internalID: 4407073613539643645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_117
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 867
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a48c4c471d44d40800000000000000
+      internalID: 5567805338784647681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_118
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 867
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fda96c83b170470800000000000000
+      internalID: 8360681163900772104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_119
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 817
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fee00a5e723f9e40800000000000000
+      internalID: 5665302374512652018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_120
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 847
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993a88a54b5f766b0800000000000000
+      internalID: -5302999881243647079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_121
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 832
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2267c84525cb29080800000000000000
+      internalID: -9182069628463188446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_122
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 818
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5938850562b03fdb0800000000000000
+      internalID: -4759448122015841387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_123
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 839
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f1fdeb97d5132c0800000000000000
+      internalID: -4453675779017990398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_124
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 838
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78a85470fcac1e20800000000000000
+      internalID: 3322720773836679293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_125
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 860
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc1605473f81e070800000000000000
+      internalID: 8133939869551828181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_126
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 860
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0af5a2f56ccb060800000000000000
+      internalID: 6970664435297788146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_127
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 860
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6349f0ec5640550800000000000000
+      internalID: 6126133328829757128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_128
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 860
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8c93424abb3ea30800000000000000
+      internalID: 4243441587569936596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_129
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 822
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4f22633bd3a0f80800000000000000
+      internalID: -8139625536602049307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_130
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 853
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1fe7c02afc74e10800000000000000
+      internalID: 2181940839385592245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_131
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 853
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aabd0f8d42f1caa0800000000000000
+      internalID: -6142362001830200672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_132
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 853
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1c4c80772fa9770800000000000000
+      internalID: 8618467429989007847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_133
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 831
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350c3d91457d46830800000000000000
+      internalID: 4063609520005562451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_134
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 821
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15b728e137acfb30800000000000000
+      internalID: 4322513575158986011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_135
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 777
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2b90a4652ba43b0800000000000000
+      internalID: -5527409508964781373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_136
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 777
+        width: 41
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b705110aafd54c0800000000000000
+      internalID: -4297002904049386749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_137
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 826
+        width: 95
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0870ee9e528e843f0800000000000000
+      internalID: -916227274633771136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_138
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 820
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7bd9cf82aa3f170800000000000000
+      internalID: 8211093638640154578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_139
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 804
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbd28af10c20ec60800000000000000
+      internalID: 7845318937888873409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_140
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 768
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cf2a691b99e74f0800000000000000
+      internalID: -829056293374067600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_141
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 798
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94e403813afcc700800000000000000
+      internalID: 562099144072946842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_142
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 797
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bdb892f9c3ff770800000000000000
+      internalID: 8646696463869139763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_143
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 788
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14368c3b66d3d4d00800000000000000
+      internalID: 958489807011996481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_144
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 788
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bff9a7927995750800000000000000
+      internalID: 6294228158633736991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_145
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 760
+        width: 50
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653401fa4459d5540800000000000000
+      internalID: 4998315283678511958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_146
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 733
+        width: 45
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1255e8790e64d180800000000000000
+      internalID: -9091520760792133090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_147
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 776
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c380d3508c5f5e2b0800000000000000
+      internalID: -5555764325861488580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_148
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 769
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ca2f317cee93d70800000000000000
+      internalID: 9023505867214072838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_149
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 777
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a9db8a4c4479740800000000000000
+      internalID: 5158667509611469400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_150
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 760
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0d870d2436593b0800000000000000
+      internalID: -5506385830773993232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_151
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 803
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c964ac1ee11b7720800000000000000
+      internalID: 2844887303995025856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_152
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 768
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f3c2fbfc845c610800000000000000
+      internalID: 1640797696349192081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_153
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 760
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7976373868c2c20800000000000000
+      internalID: 3183066935779104679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_154
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 807
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0f4f2699197a8d0800000000000000
+      internalID: -2835137352430194467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_155
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 769
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cb50c5e9a1424c0800000000000000
+      internalID: -4313293275663057771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_156
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 777
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ce0f930f94180a0800000000000000
+      internalID: -6881137459532338106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_157
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 722
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde56205b73a9e130800000000000000
+      internalID: 3596585527453048543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_158
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 739
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b82f3018e92e5d0800000000000000
+      internalID: -3034688921940096182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_159
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 739
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa8555e16d055c00800000000000000
+      internalID: 888631215586118305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_160
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 776
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cd1aa8a0d13c700800000000000000
+      internalID: 559322709836815444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_161
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 766
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e79a987eb898480800000000000000
+      internalID: -8896425762330411426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_162
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 766
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bd4052a1f7df3a0800000000000000
+      internalID: -6630003326152549594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_163
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 766
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6fe767878c4e780800000000000000
+      internalID: -8654572164189587761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_164
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 778
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d9c4a4cff67f7c0800000000000000
+      internalID: -4037635411545383676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_165
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 767
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e447fffb2c08090800000000000000
+      internalID: -8034207605348610494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_166
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 778
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a7b93148c2db5c0800000000000000
+      internalID: -4198150331863172605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_167
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 743
+        width: 67
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232584dce2455d260800000000000000
+      internalID: 7121690945745605170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_168
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 722
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aefc954212268420800000000000000
+      internalID: 2631828494117306020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_169
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 728
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd676b66d2c7eb20800000000000000
+      internalID: 3163711489431793107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_170
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 743
+        width: 67
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0c9d4abd05ed230800000000000000
+      internalID: 3665456051019956479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_171
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 720
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fff1f02e258b000800000000000000
+      internalID: 51882526584602519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_172
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6636ce9b1153485c0800000000000000
+      internalID: -4214185001061948570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_173
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 666
+        width: 74
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2953be4038f83bdf0800000000000000
+      internalID: -165630968396565102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_174
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 739
+        width: 102
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9886a6e1538094850800000000000000
+      internalID: 6361624972874115209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_175
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 704
+        width: 87
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04517fb2672e6f70800000000000000
+      internalID: 9182319995327173644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_176
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 733
+        width: 196
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b7a1b796583d110800000000000000
+      internalID: 1284517006814116614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_177
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 700
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54f6a8c92f939670800000000000000
+      internalID: 8544347919860823135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_178
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 705
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb781efe170146fb0800000000000000
+      internalID: -4655578033252366402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_179
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 738
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8d1a2a8aa9cbc10800000000000000
+      internalID: 2070699977757284542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_180
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 740
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58aa549a26aab6a00800000000000000
+      internalID: 750881103610751621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_181
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 712
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732394a409c2e7500800000000000000
+      internalID: 395802815488406071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_182
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 700
+        width: 63
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518a9e43590a109a0800000000000000
+      internalID: -6268552643624720363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_183
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 712
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b90d866fa59dc6c0800000000000000
+      internalID: -4121473503401801290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_184
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 700
+        width: 63
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f72a4899cf30b840800000000000000
+      internalID: 5237756501707859960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_185
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 722
+        width: 198
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb2cf689baac5160800000000000000
+      internalID: 7015670033346735046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_186
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 704
+        width: 69
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aea52fe1bdbeabd0800000000000000
+      internalID: -2616945761536594263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_187
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 700
+        width: 169
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f46f159031d9aad0800000000000000
+      internalID: -2690389295786662666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_188
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 705
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfaa23eacfd8a5980800000000000000
+      internalID: -8549364826215634179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 657
+        width: 183
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a6087fdc2244a20800000000000000
+      internalID: 3045597516025326095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_190
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 681
+        width: 133
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daeea4f5fa8d2e670800000000000000
+      internalID: 8566647688941727405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_191
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 667
+        width: 103
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15aaeba29e75c1040800000000000000
+      internalID: 4619663976731421265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_192
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 662
+        width: 153
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b169f00213178e880800000000000000
+      internalID: -8581484634149251557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_193
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 663
+        width: 121
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab03ff65fd7fb06a0800000000000000
+      internalID: -6481814700060364614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_194
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 664
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32a9e13cbd5ae510800000000000000
+      internalID: 1579177682219409980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_195
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 659
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51c71f8bbc8fed50800000000000000
+      internalID: 6768783502148616543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_196
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 621
+        width: 84
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3bfa83764462de0800000000000000
+      internalID: -1358323027482266661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_197
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 672
+        width: 67
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0b6e4a7eeb39f90800000000000000
+      internalID: -6947999897989238565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_198
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 657
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264dbdfe7a29be390800000000000000
+      internalID: -7787969880625785758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_199
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 657
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c7c12532f177fd0800000000000000
+      internalID: -2344370844461138890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_200
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 632
+        width: 67
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8474930765d61d3c0800000000000000
+      internalID: -4336564748163659960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_201
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 589
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c6502cd741b98e0800000000000000
+      internalID: -1685731105161515931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_202
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 610
+        width: 119
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4079936c1271db3a0800000000000000
+      internalID: -6648132041101961468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_203
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 591
+        width: 93
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13b692136bcd1e50800000000000000
+      internalID: 6781800240263901981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_204
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 642
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec0cb771c060c540800000000000000
+      internalID: 5026123568199240938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_205
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 651
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c2ad2d4e4e30a90800000000000000
+      internalID: -7348778495497327475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_206
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 606
+        width: 166
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c4a0a6eb27d4670800000000000000
+      internalID: 8524595831830629460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_207
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 637
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9259c43be40cf6680800000000000000
+      internalID: -8759571305964202711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_208
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 637
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5019f15f4bd37dc40800000000000000
+      internalID: 5536962114291208453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_209
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 598
+        width: 111
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dadbc6f70b95e2f0800000000000000
+      internalID: -944178088356619561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_210
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 591
+        width: 111
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107537532eb595990800000000000000
+      internalID: -7396779885861841151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_211
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 625
+        width: 67
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08706524fcc8f3000800000000000000
+      internalID: 17887745331824512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_212
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 610
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9fb5bde0354ca80800000000000000
+      internalID: -8447535677765322247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_213
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 629
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faaf53ff3c4891250800000000000000
+      internalID: 5915905562863073967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_214
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 499
+        width: 90
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9de38859d1d8f30800000000000000
+      internalID: 4579348924178815467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_215
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 592
+        width: 58
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb556cd59dabd030800000000000000
+      internalID: 3520598392879537139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_216
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 592
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ad42e969bd7d780800000000000000
+      internalID: -8658210318651696517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_217
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 589
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b334ee4caa4d9c8a0800000000000000
+      internalID: -6284257975105338565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_218
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 601
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cd4ebfba5b3c240800000000000000
+      internalID: 4810888577231936611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_219
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 594
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a773adda178115610800000000000000
+      internalID: 1608093418475108218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_220
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 582
+        width: 63
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d27665f77e326f20800000000000000
+      internalID: 3414360152439419607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_221
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 601
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d1da6b0995de780800000000000000
+      internalID: -8652160831033893537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_222
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 588
+        width: 67
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30d7809eb07b18c0800000000000000
+      internalID: -4027501477981859779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_223
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 573
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270b9a78fc71fa900800000000000000
+      internalID: 697802647367430258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_224
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 545
+        width: 81
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77cf9de1815535c50800000000000000
+      internalID: 6652754636641533047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_225
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 592
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b109bdb1f38fb65a0800000000000000
+      internalID: -6526850285009399781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_226
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 551
+        width: 127
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41dd3f14af0810a60800000000000000
+      internalID: 7638528255333752084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_227
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 566
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832a913ee67db1410800000000000000
+      internalID: 1448988576386228792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_228
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 485
+        width: 90
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8873c18da6fc3c030800000000000000
+      internalID: 3513880192078329736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_229
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 482
+        width: 90
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6362d6a5507e3f270800000000000000
+      internalID: 8283218149842429494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_230
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 482
+        width: 90
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e09eb96436a14d50800000000000000
+      internalID: 6719834863056097509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_231
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 505
+        width: 107
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7940adbf2646c90800000000000000
+      internalID: -7177503072287680557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_232
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 550
+        width: 67
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e27bcc1ba9f2e80800000000000000
+      internalID: -8201166307983937955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_233
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 535
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0ee98fcba6ed4a0800000000000000
+      internalID: -6566693846802046728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_234
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 548
+        width: 67
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fde95d0289960180800000000000000
+      internalID: -9149456809107788298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_235
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 533
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb05c1d326867b710800000000000000
+      internalID: 1708949354751742139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_236
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 557
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768ebcd14f1c4fb30800000000000000
+      internalID: 4320291196771231847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_237
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 545
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e838ed61d7aac20800000000000000
+      internalID: 3218522420885556860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_238
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 542
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4052ae8616642580800000000000000
+      internalID: -8852838720435236788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_239
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 519
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a110f3af543938870800000000000000
+      internalID: 8683946435260907802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_240
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 530
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77782a23bc41d8000800000000000000
+      internalID: 39710834676631415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_241
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 517
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b8cac83ab646330800000000000000
+      internalID: 3703203143789349728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_242
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 528
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ca73e0d57aa0180800000000000000
+      internalID: -9148315674937414647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_243
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 451
+        width: 74
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0b65a842f953180800000000000000
+      internalID: -9136221289762606851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_244
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 483
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59d958f9d8c84230800000000000000
+      internalID: 3623366738719660380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_245
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 435
+        width: 90
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfc58528620d18f0800000000000000
+      internalID: -568295331649433635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_246
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 507
+        width: 63
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735523b1f05cd7f80800000000000000
+      internalID: -8107107085525560009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_247
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 505
+        width: 63
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655b8307b5b875910800000000000000
+      internalID: 1826081398763074902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_248
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 516
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3964f193a7951d30800000000000000
+      internalID: 4401590939608705343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_249
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 516
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0546ef1865acd7a60800000000000000
+      internalID: 7673511813006124112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_250
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 516
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59e69071999fd0f0800000000000000
+      internalID: -1089983734862124710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_251
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 510
+        width: 48
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ccc5c10a7813d40800000000000000
+      internalID: 5562376136519633984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_252
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1375c89f386ce3220800000000000000
+      internalID: 2467627915975350065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_253
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 378
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6622aa5c154380bb0800000000000000
+      internalID: -4969664662990085530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_254
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 481
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bde6dcd3cb5e010800000000000000
+      internalID: 1217586247899208594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_255
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 397
+        width: 90
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f833cd53f55bb56b0800000000000000
+      internalID: -5306448315395853425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_256
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 398
+        width: 85
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6187ae6f7bf6e4130800000000000000
+      internalID: 3552899991954159638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_257
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 451
+        width: 167
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a97b1878d00fc4d0800000000000000
+      internalID: -3112267887761720928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_258
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 389
+        width: 116
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a285838d3630cd50800000000000000
+      internalID: 6755459078883213985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_259
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 389
+        width: 116
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f01f99a7f11e2580800000000000000
+      internalID: -8850116462336077579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_260
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 435
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934e146d5a9a5f150800000000000000
+      internalID: 5905813016095614009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_261
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 397
+        width: 122
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3fbe87b62e3de00800000000000000
+      internalID: 1068446487835046886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_262
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 355
+        width: 104
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d3de4aea89fc8a0800000000000000
+      internalID: -6282635079299810041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_263
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 271
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b89ddf5c5532430800000000000000
+      internalID: 3756940823012936544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_264
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 250
+        width: 116
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bba483c2022770d0800000000000000
+      internalID: -3425231596326442059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_265
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 331
+        width: 200
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea54ff445da2a7760800000000000000
+      internalID: 7456319228539258286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_266
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 342
+        width: 116
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307239dc83cbc46c0800000000000000
+      internalID: -4157741403816646909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_267
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 358
+        width: 253
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96ba085b1d4cd270800000000000000
+      internalID: 8276574995036681885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_268
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 356
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc252261136802670800000000000000
+      internalID: 8511950841113105099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_269
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 372
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44e5709a20503e10800000000000000
+      internalID: 2175326763762443340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_270
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 273
+        width: 200
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34e865c2542c6710800000000000000
+      internalID: 1687763898274997310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_271
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 227
+        width: 112
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa16a22f484486aa0800000000000000
+      internalID: -6167604351894658646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_272
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 253
+        width: 106
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b52e977d1b67a930800000000000000
+      internalID: 4154406955577648560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_273
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 253
+        width: 102
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da4bc0c96037b760800000000000000
+      internalID: 7473495337408875220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_274
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 253
+        width: 100
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30d2253151de6180800000000000000
+      internalID: -9120122048664645570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_275
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 253
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35460fa7738f25dd0800000000000000
+      internalID: -2498661926067739565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_276
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 316
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a108cc538c7b37850800000000000000
+      internalID: 6373639968183320602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_277
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 281
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba717c62c2ee4360800000000000000
+      internalID: 7155906182609205946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_278
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 306
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7683e9a227f51b0800000000000000
+      internalID: -5665684278840105022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_279
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 146
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0512270b1d11e4260800000000000000
+      internalID: 7083618856206475600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_280
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 250
+        width: 57
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a35faf2911776c0800000000000000
+      internalID: -4145825608997979505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_281
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 194
+        width: 142
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b1f16d10132a7d0800000000000000
+      internalID: -2908708525370827883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_282
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 210
+        width: 267
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67da5cdc2c5bec7d0800000000000000
+      internalID: -2896177662072083082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_283
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 249
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969834d79b4607030800000000000000
+      internalID: 3490400459045439849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_284
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 139
+        width: 171
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbc147471acaa910800000000000000
+      internalID: 1849512798317562873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_285
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 159
+        width: 33
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b538663a8de39c8a0800000000000000
+      internalID: -6284422704843553957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_286
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 154
+        width: 51
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b82461c5e1d90e40800000000000000
+      internalID: 5623256394471057589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_287
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 159
+        width: 33
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c4bd238f6ce0240800000000000000
+      internalID: 4759960625484614783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_288
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1
+        width: 86
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff0f2c8daecc2810800000000000000
+      internalID: 1741994400662097906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_289
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 213
+        width: 78
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294df385f5ebd77e0800000000000000
+      internalID: -1766046162147617646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_290
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 206
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253c38d74ce8d14e0800000000000000
+      internalID: -2009292884166851758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_291
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 207
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96191e63c919d6200800000000000000
+      internalID: 174956060658995561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_292
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 206
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0f37a4e53588460800000000000000
+      internalID: 7244131665066586282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_293
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 138
+        width: 76
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979865f2d57b6ef60800000000000000
+      internalID: 8063333793707493753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_294
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 103
+        width: 108
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90a91f5948d86090800000000000000
+      internalID: -8040939325030293347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_295
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 103
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ad0f5c4c0f76b00800000000000000
+      internalID: 821890184943557222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_296
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 107
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e3ab53443fac2d0800000000000000
+      internalID: -3257523906164408748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_297
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 106
+        width: 116
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696ed5ac1da2b2500800000000000000
+      internalID: 372438474719880854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_298
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 326
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a20e06d7d2b25970800000000000000
+      internalID: 8742246466758509216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_299
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 7
+        width: 49
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea48ebc74409dba0800000000000000
+      internalID: -6063810716867474715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_300
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 0
+        width: 74
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ff441c693c60ec0800000000000000
+      internalID: -3600975799781097576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_301
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 7
+        width: 49
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ba69ff13eeb5640800000000000000
+      internalID: 5069907704044497666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_302
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 0
+        width: 124
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fca2eb5ce039940800000000000000
+      internalID: 5301597428807028537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_303
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 84
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e7abf48f7ab1bd0800000000000000
+      internalID: -2658346470100795887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_304
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 84
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b215e94db164c30e0800000000000000
+      internalID: -2288877425265848021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_305
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 84
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9f9e1f503a40c10800000000000000
+      internalID: 2018917778897631720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_306
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 84
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdae1d2dc2f706370800000000000000
+      internalID: 8313784742618196699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_307
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 84
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce3da4f631f59850800000000000000
+      internalID: 6383273265203068615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_308
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 0
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee71d25862af29c0800000000000000
+      internalID: -3949759779230875924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_309
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 0
+        width: 106
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cba076b83eb86a0800000000000000
+      internalID: -6445808253782016923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_310
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 47
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3e9182002bb89f0800000000000000
+      internalID: -465082422760184906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_311
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 0
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9aff8260f866da00800000000000000
+      internalID: 780926967050402460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SysCommon_312
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b1a32031f0667d0800000000000000
+      internalID: -2925634333614400615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SysCommon_87: -5995400062436537417
+      SysCommon_86: 904727101083711261
+      SysCommon_28: -936498102411408412
+      SysCommon_175: 9182319995327173644
+      SysCommon_246: -8107107085525560009
+      SysCommon_250: -1089983734862124710
+      SysCommon_228: 3513880192078329736
+      SysCommon_155: -4313293275663057771
+      SysCommon_146: -9091520760792133090
+      SysCommon_17: 6079855275306436225
+      SysCommon_234: -9149456809107788298
+      SysCommon_156: -6881137459532338106
+      SysCommon_251: 5562376136519633984
+      SysCommon_221: -8652160831033893537
+      SysCommon_274: -9120122048664645570
+      SysCommon_53: 7665845438498744944
+      SysCommon_163: -8654572164189587761
+      SysCommon_39: 5597584575993259786
+      SysCommon_147: -5555764325861488580
+      SysCommon_213: 5915905562863073967
+      SysCommon_164: -4037635411545383676
+      SysCommon_219: 1608093418475108218
+      SysCommon_97: -5718088516537615052
+      SysCommon_144: 6294228158633736991
+      SysCommon_302: 5301597428807028537
+      SysCommon_235: 1708949354751742139
+      SysCommon_59: 5583693441640190394
+      SysCommon_40: 7051623753887558011
+      SysCommon_309: -6445808253782016923
+      SysCommon_99: -5030552570676952879
+      SysCommon_283: 3490400459045439849
+      SysCommon_98: -3058237197986066137
+      SysCommon_114: -1947249824529237434
+      SysCommon_119: 5665302374512652018
+      SysCommon_291: 174956060658995561
+      SysCommon_244: 3623366738719660380
+      SysCommon_142: 8646696463869139763
+      SysCommon_125: 8133939869551828181
+      SysCommon_102: 80218646822546679
+      SysCommon_22: -2332773972444620525
+      SysCommon_262: -6282635079299810041
+      SysCommon_295: 821890184943557222
+      SysCommon_269: 2175326763762443340
+      SysCommon_66: 2125790763804079838
+      SysCommon_243: -9136221289762606851
+      SysCommon_107: 2722505288696410655
+      SysCommon_172: -4214185001061948570
+      SysCommon_60: 9147080016667265480
+      SysCommon_46: 4235125152453821720
+      SysCommon_300: -3600975799781097576
+      SysCommon_255: -5306448315395853425
+      SysCommon_214: 4579348924178815467
+      SysCommon_89: -2557868486347470758
+      SysCommon_289: -1766046162147617646
+      SysCommon_32: 417920548045462004
+      SysCommon_6: 1982466627201755347
+      SysCommon_169: 3163711489431793107
+      SysCommon_191: 4619663976731421265
+      SysCommon_108: 2054567838875506909
+      SysCommon_35: -658045628783194220
+      SysCommon_304: -2288877425265848021
+      SysCommon_282: -2896177662072083082
+      SysCommon_58: -996378655139842438
+      SysCommon_166: -4198150331863172605
+      SysCommon_231: -7177503072287680557
+      SysCommon_176: 1284517006814116614
+      SysCommon_50: -2572413137799911034
+      SysCommon_12: 3627486886009464813
+      SysCommon_149: 5158667509611469400
+      SysCommon_96: 6293777768653388261
+      SysCommon_161: -8896425762330411426
+      SysCommon_306: 8313784742618196699
+      SysCommon_129: -8139625536602049307
+      SysCommon_160: 559322709836815444
+      SysCommon_138: 8211093638640154578
+      SysCommon_106: -95757427269068848
+      SysCommon_185: 7015670033346735046
+      SysCommon_209: -944178088356619561
+      SysCommon_229: 8283218149842429494
+      SysCommon_299: -6063810716867474715
+      SysCommon_241: 3703203143789349728
+      SysCommon_264: -3425231596326442059
+      SysCommon_159: 888631215586118305
+      SysCommon_279: 7083618856206475600
+      SysCommon_225: -6526850285009399781
+      SysCommon_84: -6102386910967531098
+      SysCommon_100: 8989788172246854271
+      SysCommon_135: -5527409508964781373
+      SysCommon_207: -8759571305964202711
+      SysCommon_217: -6284257975105338565
+      SysCommon_257: -3112267887761720928
+      SysCommon_273: 7473495337408875220
+      SysCommon_216: -8658210318651696517
+      SysCommon_171: 51882526584602519
+      SysCommon_63: -5790050163164042094
+      SysCommon_27: 90207474394938134
+      SysCommon_76: -1802192336134297122
+      SysCommon_48: -3761748302659278184
+      SysCommon_136: -4297002904049386749
+      SysCommon_238: -8852838720435236788
+      SysCommon_38: 3586103034621650332
+      SysCommon_292: 7244131665066586282
+      SysCommon_14: -1538086964388479909
+      SysCommon_109: 4326727180688943703
+      SysCommon_305: 2018917778897631720
+      SysCommon_24: -5202459809691570156
+      SysCommon_139: 7845318937888873409
+      SysCommon_265: 7456319228539258286
+      SysCommon_272: 4154406955577648560
+      SysCommon_204: 5026123568199240938
+      SysCommon_94: 8109057987739219256
+      SysCommon_116: 4407073613539643645
+      SysCommon_52: 2758895235690599853
+      SysCommon_77: -5337579478322953984
+      SysCommon_224: 6652754636641533047
+      SysCommon_275: -2498661926067739565
+      SysCommon_311: 780926967050402460
+      SysCommon_254: 1217586247899208594
+      SysCommon_154: -2835137352430194467
+      SysCommon_33: 394363885666368613
+      SysCommon_103: -1022520656165770852
+      SysCommon_141: 562099144072946842
+      SysCommon_152: 1640797696349192081
+      SysCommon_202: -6648132041101961468
+      SysCommon_211: 17887745331824512
+      SysCommon_131: -6142362001830200672
+      SysCommon_260: 5905813016095614009
+      SysCommon_223: 697802647367430258
+      SysCommon_252: 2467627915975350065
+      SysCommon_177: 8544347919860823135
+      SysCommon_170: 3665456051019956479
+      SysCommon_288: 1741994400662097906
+      SysCommon_297: 372438474719880854
+      SysCommon_294: -8040939325030293347
+      SysCommon_30: -6341848249553359021
+      SysCommon_310: -465082422760184906
+      SysCommon_187: -2690389295786662666
+      SysCommon_212: -8447535677765322247
+      SysCommon_51: -8012659199585444584
+      SysCommon_57: 8454730748023832300
+      SysCommon_200: -4336564748163659960
+      SysCommon_127: 6126133328829757128
+      SysCommon_280: -4145825608997979505
+      SysCommon_126: 6970664435297788146
+      SysCommon_192: -8581484634149251557
+      SysCommon_205: -7348778495497327475
+      SysCommon_74: -8140768927629265788
+      SysCommon_72: -9077017804829219983
+      SysCommon_201: -1685731105161515931
+      SysCommon_78: -6447588519000702777
+      SysCommon_11: -1617759985145871723
+      SysCommon_226: 7638528255333752084
+      SysCommon_88: -5172426618628040623
+      SysCommon_180: 750881103610751621
+      SysCommon_263: 3756940823012936544
+      SysCommon_239: 8683946435260907802
+      SysCommon_83: -5919242088681163929
+      SysCommon_143: 958489807011996481
+      SysCommon_45: -4522538636729548788
+      SysCommon_203: 6781800240263901981
+      SysCommon_7: 8795362774694048730
+      SysCommon_90: -5172297735644015512
+      SysCommon_36: 8784801905582859667
+      SysCommon_3: 3476878198004406717
+      SysCommon_167: 7121690945745605170
+      SysCommon_115: 7079269785043616765
+      SysCommon_158: -3034688921940096182
+      SysCommon_122: -4759448122015841387
+      SysCommon_85: -602330217084139393
+      SysCommon_210: -7396779885861841151
+      SysCommon_128: 4243441587569936596
+      SysCommon_220: 3414360152439419607
+      SysCommon_121: -9182069628463188446
+      SysCommon_179: 2070699977757284542
+      SysCommon_312: -2925634333614400615
+      SysCommon_71: 8158954262056829706
+      SysCommon_110: 8967464357291529655
+      SysCommon_181: 395802815488406071
+      SysCommon_168: 2631828494117306020
+      SysCommon_218: 4810888577231936611
+      SysCommon_157: 3596585527453048543
+      SysCommon_80: -4785993903267230949
+      SysCommon_5: 7708777693155155448
+      SysCommon_44: 6286539460722790583
+      SysCommon_9: -3138925711997663536
+      SysCommon_130: 2181940839385592245
+      SysCommon_253: -4969664662990085530
+      SysCommon_55: -8091239564709811608
+      SysCommon_43: -6468054704098667787
+      SysCommon_120: -5302999881243647079
+      SysCommon_153: 3183066935779104679
+      SysCommon_15: -7187028386262139746
+      SysCommon_21: -5482985210564514107
+      SysCommon_68: -6617359964202142503
+      SysCommon_34: 4241686639740044752
+      SysCommon_93: -4903965735700615164
+      SysCommon_145: 4998315283678511958
+      SysCommon_54: 1574069953985763957
+      SysCommon_186: -2616945761536594263
+      SysCommon_247: 1826081398763074902
+      SysCommon_4: -3751953565911815292
+      SysCommon_215: 3520598392879537139
+      SysCommon_190: 8566647688941727405
+      SysCommon_208: 5536962114291208453
+      SysCommon_118: 8360681163900772104
+      SysCommon_256: 3552899991954159638
+      SysCommon_240: 39710834676631415
+      SysCommon_137: -916227274633771136
+      SysCommon_148: 9023505867214072838
+      SysCommon_105: -3056172577335860877
+      SysCommon_132: 8618467429989007847
+      SysCommon_16: -4381247175384618998
+      SysCommon_73: -3337976597063381705
+      SysCommon_67: 4966339939319902565
+      SysCommon_293: 8063333793707493753
+      SysCommon_183: -4121473503401801290
+      SysCommon_112: 9215514159421297891
+      SysCommon_296: -3257523906164408748
+      SysCommon_242: -9148315674937414647
+      SysCommon_284: 1849512798317562873
+      SysCommon_308: -3949759779230875924
+      SysCommon_92: -8268606450553176463
+      SysCommon_49: 6015540229590076556
+      SysCommon_123: -4453675779017990398
+      SysCommon_174: 6361624972874115209
+      SysCommon_81: 9194529563666170189
+      SysCommon_286: 5623256394471057589
+      SysCommon_47: 4226980942031336561
+      SysCommon_162: -6630003326152549594
+      SysCommon_287: 4759960625484614783
+      SysCommon_65: 4210835870397329335
+      SysCommon_178: -4655578033252366402
+      SysCommon_0: -2920599401510884095
+      SysCommon_196: -1358323027482266661
+      SysCommon_194: 1579177682219409980
+      SysCommon_258: 6755459078883213985
+      SysCommon_140: -829056293374067600
+      SysCommon_245: -568295331649433635
+      SysCommon_303: -2658346470100795887
+      SysCommon_227: 1448988576386228792
+      SysCommon_268: 8511950841113105099
+      SysCommon_189: 3045597516025326095
+      SysCommon_230: 6719834863056097509
+      SysCommon_37: -5571889045125282828
+      SysCommon_276: 6373639968183320602
+      SysCommon_2: 551914503892889999
+      SysCommon_25: -1763468282597083150
+      SysCommon_151: 2844887303995025856
+      SysCommon_184: 5237756501707859960
+      SysCommon_266: -4157741403816646909
+      SysCommon_23: 8847036965630723944
+      SysCommon_261: 1068446487835046886
+      SysCommon_198: -7787969880625785758
+      SysCommon_232: -8201166307983937955
+      SysCommon_134: 4322513575158986011
+      SysCommon_248: 4401590939608705343
+      SysCommon_64: 6025438640893568095
+      SysCommon_69: -8008956856915771012
+      SysCommon_13: 9202925043008287573
+      SysCommon_26: 8349933250209016132
+      SysCommon_10: 3657107596542987474
+      SysCommon_41: 8115226999513995455
+      SysCommon_29: 506357999156833920
+      SysCommon_75: -3305101741621651248
+      SysCommon_206: 8524595831830629460
+      SysCommon_31: -2670804514078990429
+      SysCommon_79: 7411043077692635115
+      SysCommon_19: 7726860870435303516
+      SysCommon_42: 6203287777335604295
+      SysCommon_104: 6387279728139794608
+      SysCommon_195: 6768783502148616543
+      SysCommon_290: -2009292884166851758
+      SysCommon_298: 8742246466758509216
+      SysCommon_113: 6805856363763575343
+      SysCommon_277: 7155906182609205946
+      SysCommon_165: -8034207605348610494
+      SysCommon_281: -2908708525370827883
+      SysCommon_271: -6167604351894658646
+      SysCommon_18: -5004578142857623837
+      SysCommon_117: 5567805338784647681
+      SysCommon_61: 1749244301686218575
+      SysCommon_267: 8276574995036681885
+      SysCommon_236: 4320291196771231847
+      SysCommon_70: 8758222136662505556
+      SysCommon_56: 3862879368889732540
+      SysCommon_197: -6947999897989238565
+      SysCommon_101: -5154456108047441169
+      SysCommon_133: 4063609520005562451
+      SysCommon_249: 7673511813006124112
+      SysCommon_20: 125428395694359662
+      SysCommon_199: -2344370844461138890
+      SysCommon_259: -8850116462336077579
+      SysCommon_193: -6481814700060364614
+      SysCommon_301: 5069907704044497666
+      SysCommon_222: -4027501477981859779
+      SysCommon_8: 1512621781821766078
+      SysCommon_173: -165630968396565102
+      SysCommon_278: -5665684278840105022
+      SysCommon_233: -6566693846802046728
+      SysCommon_95: -813485724187157299
+      SysCommon_82: -6358879812390633374
+      SysCommon_237: 3218522420885556860
+      SysCommon_285: -6284422704843553957
+      SysCommon_182: -6268552643624720363
+      SysCommon_111: -1796004943031252371
+      SysCommon_188: -8549364826215634179
+      SysCommon_124: 3322720773836679293
+      SysCommon_62: -4065692881613838187
+      SysCommon_270: 1687763898274997310
+      SysCommon_307: 6383273265203068615
+      SysCommon_91: 7644260414112131093
+      SysCommon_150: -5506385830773993232
+      SysCommon_1: 2276869928549979905
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

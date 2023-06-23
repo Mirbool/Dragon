@@ -13,9 +13,16 @@ public class SelectRoleUIMediator : UIMediator<SelectRoleUI>
     private bool isPlayShow;
     private AnimatorStateInfo crtAniInfo;
     private PlayerComponent pc;
+    private SelectRoleComponent sm;
 
     private int crtRoleIndex;
     private Animator crtAni;
+    protected override void OnInit(SelectRoleUI view)
+    {
+        base.OnInit(view);
+        view.enterBtn.onClick.AddListener(SelectScene);
+
+    }
     public override void InitMediator(UIView view)
     {
         base.InitMediator(view);
@@ -24,6 +31,7 @@ public class SelectRoleUIMediator : UIMediator<SelectRoleUI>
    public void OnHeadClick()
     {
         pc = GameManager.ECS.World.GetComponent<PlayerComponent>();
+        sm = GameManager.ECS.World.GetComponent<SelectRoleComponent>();
         crtRoleIndex = -1;
 
 
@@ -42,8 +50,10 @@ public class SelectRoleUIMediator : UIMediator<SelectRoleUI>
                        ChangeAni("Idle", "idle_new");
                        crtAni.SetTrigger("ToStand");
                    }
+                   
                    crtAni = pc.roles[crtIndex].RoleGo.GetComponent<Animator>();
                    crtRoleIndex = crtIndex;
+                   sm.index = crtIndex;
                    ChangeAni("Select", "select_new");
                    ChangeAni("AA","show_new");
                    ChangeAni("A","show_turn");
@@ -54,18 +64,27 @@ public class SelectRoleUIMediator : UIMediator<SelectRoleUI>
                }
            });
         }
-       
-      
+
 
     }
- 
+
+    private void SelectScene()
+    {
+            if(XSingleton<RolesMgr>.singleton.XPlayerCharacters.PlayerBriefInfo[crtRoleIndex].name != "")
+            {
+                RpcC2M_SelectRoleNew roleNew = new RpcC2M_SelectRoleNew();
+                roleNew.oArg.index = crtRoleIndex;
+                XClientNetwork.singleton.Send(roleNew);
+            }
+    }
+
     public  void ChangeAni(string stateName,string aniName)
     {
         string allName = RoleInfoConfig.ByIndex(crtRoleIndex).Animation+aniName;
         pc.roles[crtRoleIndex].ChangeAnimation(stateName, allName);
     }
     /// <summary>
-    /// Ë¢ÐÂÃèÊöÒ³Ãæ
+    /// Ë¢ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ò³ï¿½ï¿½
     /// </summary>
     public void RefreshDes(RoleInfoConfig data )
     {
@@ -95,6 +114,8 @@ public class SelectRoleUIMediator : UIMediator<SelectRoleUI>
         //view.roleHeads[randomIndex].isOn = true;
         //GameManager.ECS.World.GetComponent<PlayerComponent>().roles[randomIndex].ChangeAnimation("Idle", RoleInfoConfig.ByIndex(randomIndex).Animation + "select_new");
         OnHeadClick();
+
+        
 
     }
     protected override void OnHide()

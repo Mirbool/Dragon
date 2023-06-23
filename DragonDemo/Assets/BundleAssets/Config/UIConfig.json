@@ -40,5 +40,17 @@
     "Description": "SelectRoleUI",
     "Asset": "Assets/BundleAssets/UI/SelectRoleUI/SelectRoleUI.prefab",
     "Mode": 0
+  },
+  {
+    "ID": 8,
+    "Description": "MainSceneUI",
+    "Asset": "Assets/BundleAssets/UI/MainCityUI/MainCityUI.prefab",
+    "Mode": 0
+  },
+  {
+    "ID": 9,
+    "Description": "ItemNewDlgUI",
+    "Asset": "Assets/BundleAssets/UI/ItemNewDlgUI/ItemNewDlgUI.prefab",
+    "Mode": 0
   }
 ]

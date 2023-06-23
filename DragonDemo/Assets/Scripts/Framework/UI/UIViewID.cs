@@ -6,8 +6,9 @@ public enum UIViewID
     BattleUI = 3,
     LoadingUI = 4,
     KnapsackUI = 5,
-
     SelectServerUI=6,
-    SelectRoleUI=7
+    SelectRoleUI=7,
+    MainSceneUI = 8,
+    RoleUI = 9
 }
 

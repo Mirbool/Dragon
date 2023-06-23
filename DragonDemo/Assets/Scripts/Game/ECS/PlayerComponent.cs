@@ -23,6 +23,15 @@ namespace Koakuma.Game.ECS
 
         public List<Role> roles=new List<Role>();
 
+        /*/// <summary>
+        /// 当前选择玩家AllData
+        /// </summary>
+        public RoleAllInfo role;
 
+        /// <summary>
+        /// 当前选择玩家下标
+        /// </summary>
+
+        public int index;*/
     }
 }

@@ -25,10 +25,6 @@ MonoBehaviour:
     m_Address: Assets/BundleAssets/UI
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: 998c6c038eba93a4aaa10585d120aa2c
-    m_Address: Assets/Scenes/laungh.unity
-    m_ReadOnly: 0
-    m_SerializedLabels: []
   - m_GUID: 600847be0bd2cab4caae21e62ef49b07
     m_Address: Assets/Scenes/Lobby.unity
     m_ReadOnly: 0

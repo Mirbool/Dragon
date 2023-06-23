@@ -49,9 +49,9 @@ namespace XMainClient
 		{
 			try
 			{
-				string hostNameOrAddress = XSingleton<XUpdater.XUpdater>.singleton.XPlatform.GetLoginServer("QQ").Substring(0, XSingleton<XUpdater.XUpdater>.singleton.XPlatform.GetLoginServer("QQ").LastIndexOf(':'));
+				/*string hostNameOrAddress = XSingleton<XUpdater.XUpdater>.singleton.XPlatform.GetLoginServer("QQ").Substring(0, XSingleton<XUpdater.XUpdater>.singleton.XPlatform.GetLoginServer("QQ").LastIndexOf(':'));
 				IPAddress[] hostAddresses = Dns.GetHostAddresses(hostNameOrAddress);
-				this.m_NetworkType = hostAddresses[0].AddressFamily;
+				this.m_NetworkType = hostAddresses[0].AddressFamily;*/
 			}
 			catch (Exception ex)
 			{
