@@ -57,17 +57,61 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Framework\Editor\Inspector\TransformInspector.cs" />
+    <Compile Include="Assets\3rd\Obfuscator\Editor\Postbuild.cs" />
+    <Compile Include="Assets\Editor\MyEditorWindow.cs" />
+    <Compile Include="Assets\3rd\Rewired\Integration\UnityUI\Editor\UnityUISetup.cs" />
+    <Compile Include="Assets\3rd\Rewired\Internal\Scripts\Editor\UnityEditorBridge.cs" />
+    <Compile Include="Assets\Editor\SkillEditor\SkillPropertyWindow.cs" />
+    <Compile Include="Assets\3rd\Obfuscator\Editor\ObfuscatorExample.cs" />
+    <Compile Include="Assets\3rd\Obfuscator\Editor\Assembly\AssemblyReferenceLocator.cs" />
+    <Compile Include="Assets\3rd\Obfuscator\Editor\Restore.cs" />
+    <Compile Include="Assets\Editor\SkillEditor\SelectRoleWindow.cs" />
+    <Compile Include="Assets\3rd\Rewired\Internal\Scripts\Editor\CustomInspectors\InitializerInspector.cs" />
+    <Compile Include="Assets\3rd\Rewired\Extras\ControlMapper\Scripts\Editor\ControlMapperInspector.cs" />
+    <Compile Include="Assets\3rd\Rewired\Internal\Scripts\Editor\CustomInspectors\UserDataStore_PlayerPrefsInspector.cs" />
+    <Compile Include="Assets\3rd\Rewired\Internal\Scripts\Editor\CustomInspectors\HardwareJoystickTemplateMapInspector.cs" />
     <Compile Include="Assets\Scripts\Framework\Asset\Editor\AssetBuilder.cs" />
+    <Compile Include="Assets\3rd\Character Movement Fundamentals\Source\Scripts\Editor\MoverInspector.cs" />
     <Compile Include="Assets\Scripts\Framework\Editor\Inspector\ScheduleModuleInspector.cs" />
     <Compile Include="Assets\Scripts\Framework\Editor\Inspector\ProcedureModuleInspector.cs" />
     <Compile Include="Assets\Scripts\Framework\Asset\Editor\AssetBuildTask.cs" />
+    <Compile Include="Assets\3rd\Obfuscator\Editor\FileBackup.cs" />
+    <Compile Include="Assets\Editor\DemoCustomEditor.cs" />
     <Compile Include="Assets\Scripts\Framework\Editor\Inspector\TypeSelectorInspector.cs" />
+    <Compile Include="Assets\3rd\Rewired\Internal\Scripts\Editor\CustomInspectors\HardwareJoystickMapInspector.cs" />
+    <Compile Include="Assets\3rd\Rewired\Internal\Scripts\Editor\CustomInspectors\PlayerControllerInspector.cs" />
+    <Compile Include="Assets\3rd\Rewired\Internal\Scripts\Editor\CustomInspectors\InputManagerInspector.cs" />
+    <Compile Include="Assets\3rd\Rewired\Extras\ControlMapper\Scripts\Editor\CustomToggleInspector.cs" />
+    <Compile Include="Assets\3rd\Rewired\Extras\TouchControls\Scripts\Editor\MenuCommands.cs" />
     <Compile Include="Assets\Scripts\Framework\Editor\PathUtility.cs" />
+    <Compile Include="Assets\3rd\Obfuscator\Editor\OptionsManager.cs" />
+    <Compile Include="Assets\3rd\Rewired\Extras\ControlMapper\Scripts\Editor\CustomButtonInspector.cs" />
+    <Compile Include="Assets\3rd\Rewired\Internal\Scripts\Editor\CustomInspectors\CustomInspector_External.cs" />
     <Compile Include="Assets\Scripts\Framework\Editor\Inspector\MessageModuleInspector.cs" />
+    <Compile Include="Assets\3rd\Obfuscator\Editor\PipelineHook.cs" />
+    <Compile Include="Assets\3rd\Rewired\Internal\Scripts\Editor\CustomInspectors\PlayerMouseInspector.cs" />
+    <Compile Include="Assets\3rd\Obfuscator\Editor\Assembly\AssemblySelector.cs" />
+    <Compile Include="Assets\3rd\Obfuscator\Editor\Project.cs" />
     <Compile Include="Assets\Scripts\Framework\Editor\ScriptKeywordReplace.cs" />
+    <Compile Include="Assets\3rd\Rewired\Internal\Scripts\Editor\CustomInspectors\ControllerDataFilesInspector.cs" />
+    <Compile Include="Assets\3rd\Obfuscator\Editor\ObfuscatorMenuExample.cs" />
     <Compile Include="Assets\Scripts\Utility\Editor\ConfigTool.cs" />
+    <Compile Include="Assets\Editor\TestEditor\MyOdinWindow.cs" />
     <Compile Include="Assets\Scripts\Utility\Editor\ConfigDefinition.cs" />
+    <Compile Include="Assets\3rd\Rewired\Extras\ControlMapper\Scripts\Editor\CustomSliderInspector.cs" />
     <Compile Include="Assets\Scripts\Framework\Editor\Inspector\BaseInspector.cs" />
+    <Compile Include="Assets\3rd\Obfuscator\Editor\GlobalGameManagersPath.cs" />
+    <Compile Include="Assets\3rd\Rewired\Integration\UnityUI\Editor\RewiredStandaloneInputModuleInspector.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\3rd\Obfuscator\Editor\Mono.Cecil\Beebyte.Cecil.Rocks.dll" />
+    <None Include="Assets\3rd\Rewired\Internal\Libraries\Editor\Rewired_Editor.dll" />
+    <None Include="Assets\3rd\Obfuscator\Editor\Third-Party Notices.txt" />
+    <None Include="Assets\3rd\Obfuscator\Editor\Plugins\obfuscator.dll" />
+    <None Include="Assets\3rd\Obfuscator\Editor\Mono.Cecil\Beebyte.Cecil.Pdb.dll" />
+    <None Include="Assets\3rd\Obfuscator\Editor\Mono.Cecil\Beebyte.Cecil.Mdb.dll" />
+    <None Include="Assets\3rd\Obfuscator\Editor\Mono.Cecil\Beebyte.Cecil.dll" />
+    <None Include="Assets\3rd\Obfuscator\Editor\Obfuscator_README.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -334,23 +378,8 @@
     <Reference Include="UnityEditor.WindowsStandalone.Extensions">
       <HintPath>D:\Unity\Unity Hub\2021.3.16f1c1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Plastic.Newtonsoft.Json">
-      <HintPath>Library\PackageCache\com.unity.collab-proxy@1.17.7\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
-    </Reference>
-    <Reference Include="EPPlus">
-      <HintPath>Assets\Plugins\Editor\EPPlus.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Plastic.Antlr3.Runtime">
-      <HintPath>Library\PackageCache\com.unity.collab-proxy@1.17.7\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VisualScripting.YamlDotNet">
-      <HintPath>Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
-    </Reference>
-    <Reference Include="Sirenix.OdinInspector.Editor">
-      <HintPath>Assets\Plugins\Sirenix\Assemblies\Sirenix.OdinInspector.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="NLog">
-      <HintPath>Assets\Plugins\NLog.dll</HintPath>
+    <Reference Include="obfuscator">
+      <HintPath>Assets\3rd\Obfuscator\Editor\Plugins\obfuscator.dll</HintPath>
     </Reference>
     <Reference Include="UnityLog">
       <HintPath>Assets\Plugins\UnityLog.dll</HintPath>
@@ -358,17 +387,17 @@
     <Reference Include="Sirenix.OdinInspector.Attributes">
       <HintPath>Assets\Plugins\Sirenix\Assemblies\Sirenix.OdinInspector.Attributes.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.VisualScripting.TextureAssets">
-      <HintPath>Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\EditorAssetResources\Unity.VisualScripting.TextureAssets.dll</HintPath>
+    <Reference Include="Beebyte.Cecil.Rocks">
+      <HintPath>Assets\3rd\Obfuscator\Editor\Mono.Cecil\Beebyte.Cecil.Rocks.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.IonicZip">
       <HintPath>Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll</HintPath>
     </Reference>
-    <Reference Include="excellent">
-      <HintPath>Assets\Plugins\Editor\excellent.dll</HintPath>
+    <Reference Include="Pathfinding.Ionic.Zip.Reduced">
+      <HintPath>Assets\3rd\AstarPathfindingProject\Plugins\DotNetZip\Pathfinding.Ionic.Zip.Reduced.dll</HintPath>
     </Reference>
-    <Reference Include="unityplastic">
-      <HintPath>Library\PackageCache\com.unity.collab-proxy@1.17.7\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
+    <Reference Include="Rewired_Editor">
+      <HintPath>Assets\3rd\Rewired\Internal\Libraries\Editor\Rewired_Editor.dll</HintPath>
     </Reference>
     <Reference Include="log4netPlastic">
       <HintPath>Library\PackageCache\com.unity.collab-proxy@1.17.7\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
@@ -376,20 +405,71 @@
     <Reference Include="Sirenix.Serialization.Config">
       <HintPath>Assets\Plugins\Sirenix\Assemblies\Sirenix.Serialization.Config.dll</HintPath>
     </Reference>
-    <Reference Include="Sirenix.Utilities">
-      <HintPath>Assets\Plugins\Sirenix\Assemblies\Sirenix.Utilities.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-      <HintPath>Library\PackageCache\com.unity.visualscripting@1.7.8\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+    <Reference Include="Pathfinding.ClipperLib">
+      <HintPath>Assets\3rd\AstarPathfindingProject\Plugins\Clipper\Pathfinding.ClipperLib.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
       <HintPath>Library\PackageCache\com.unity.nuget.newtonsoft-json@3.0.2\Runtime\Newtonsoft.Json.dll</HintPath>
     </Reference>
+    <Reference Include="Sirenix.Utilities.Editor">
+      <HintPath>Assets\Plugins\Sirenix\Assemblies\Sirenix.Utilities.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Rewired_Windows">
+      <HintPath>Assets\3rd\Rewired\Internal\Libraries\Runtime\Rewired_Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Plastic.Newtonsoft.Json">
+      <HintPath>Library\PackageCache\com.unity.collab-proxy@1.17.7\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="EPPlus">
+      <HintPath>Assets\Plugins\Editor\EPPlus.dll</HintPath>
+    </Reference>
+    <Reference Include="mcs">
+      <HintPath>Assets\3rd\QFSW\Quantum Console\Source\Extras\exec\CSharpCompiler\Plugins\mcs.dll</HintPath>
+    </Reference>
+    <Reference Include="Beebyte.Cecil">
+      <HintPath>Assets\3rd\Obfuscator\Editor\Mono.Cecil\Beebyte.Cecil.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.YamlDotNet">
+      <HintPath>Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
+    </Reference>
+    <Reference Include="Sirenix.OdinInspector.Editor">
+      <HintPath>Assets\Plugins\Sirenix\Assemblies\Sirenix.OdinInspector.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Plastic.Antlr3.Runtime">
+      <HintPath>Library\PackageCache\com.unity.collab-proxy@1.17.7\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="NLog">
+      <HintPath>Assets\Plugins\NLog.dll</HintPath>
+    </Reference>
+    <Reference Include="Beebyte.Cecil.Pdb">
+      <HintPath>Assets\3rd\Obfuscator\Editor\Mono.Cecil\Beebyte.Cecil.Pdb.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.TextureAssets">
+      <HintPath>Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\EditorAssetResources\Unity.VisualScripting.TextureAssets.dll</HintPath>
+    </Reference>
+    <Reference Include="unityplastic">
+      <HintPath>Library\PackageCache\com.unity.collab-proxy@1.17.7\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
+    </Reference>
+    <Reference Include="excellent">
+      <HintPath>Assets\Plugins\Editor\excellent.dll</HintPath>
+    </Reference>
+    <Reference Include="Beebyte.Cecil.Mdb">
+      <HintPath>Assets\3rd\Obfuscator\Editor\Mono.Cecil\Beebyte.Cecil.Mdb.dll</HintPath>
+    </Reference>
+    <Reference Include="Sirenix.Utilities">
+      <HintPath>Assets\Plugins\Sirenix\Assemblies\Sirenix.Utilities.dll</HintPath>
+    </Reference>
+    <Reference Include="Rewired_Core">
+      <HintPath>Assets\3rd\Rewired\Internal\Libraries\Runtime\Rewired_Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
+      <HintPath>Library\PackageCache\com.unity.visualscripting@1.7.8\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+    </Reference>
     <Reference Include="Sirenix.Serialization">
       <HintPath>Assets\Plugins\Sirenix\Assemblies\Sirenix.Serialization.dll</HintPath>
     </Reference>
-    <Reference Include="Sirenix.Utilities.Editor">
-      <HintPath>Assets\Plugins\Sirenix\Assemblies\Sirenix.Utilities.Editor.dll</HintPath>
+    <Reference Include="Pathfinding.Poly2Tri">
+      <HintPath>Assets\3rd\AstarPathfindingProject\Plugins\Poly2Tri\Pathfinding.Poly2Tri.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
       <HintPath>Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
@@ -832,11 +912,11 @@
     <Reference Include="UnityEngine.UI">
       <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.VisualScripting.Flow">
-      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.Services.Core">
       <HintPath>Library\ScriptAssemblies\Unity.Services.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.Flow">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Core">
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
@@ -889,13 +969,61 @@
       <Project>{3F3816E9-E53D-C9B8-C09A-4B02E6BD7CBC}</Project>
       <Name>Sirenix.OdinInspector.CompatibilityLayer.Editor</Name>
     </ProjectReference>
+    <ProjectReference Include="QFSW.QC.QGUI.csproj">
+      <Project>{666623D8-9C18-664B-6071-E5E3C3AF5555}</Project>
+      <Name>QFSW.QC.QGUI</Name>
+    </ProjectReference>
+    <ProjectReference Include="QFSW.QC.Serializers.csproj">
+      <Project>{A7F57A08-D609-8FEC-BCCF-8CCE312D6E4E}</Project>
+      <Name>QFSW.QC.Serializers</Name>
+    </ProjectReference>
+    <ProjectReference Include="PackageToolsEditor.csproj">
+      <Project>{76A946BA-32CA-C82A-11E5-E7FEF6A111EF}</Project>
+      <Name>PackageToolsEditor</Name>
+    </ProjectReference>
+    <ProjectReference Include="QFSW.QC.Grammar.csproj">
+      <Project>{A2E8205F-9B52-73CC-3519-EF36929CBA79}</Project>
+      <Name>QFSW.QC.Grammar</Name>
+    </ProjectReference>
+    <ProjectReference Include="QFSW.QC.csproj">
+      <Project>{CFB6C64A-E385-CA2F-CAEA-69323182B8EB}</Project>
+      <Name>QFSW.QC</Name>
+    </ProjectReference>
+    <ProjectReference Include="QFSW.QC.UI.csproj">
+      <Project>{2BC39C89-76A8-ED16-B566-70FCB6E4BB72}</Project>
+      <Name>QFSW.QC.UI</Name>
+    </ProjectReference>
     <ProjectReference Include="Sirenix.OdinInspector.CompatibilityLayer.csproj">
       <Project>{5F09A00D-8D84-B57A-00B5-91661E6EE5A3}</Project>
       <Name>Sirenix.OdinInspector.CompatibilityLayer</Name>
     </ProjectReference>
+    <ProjectReference Include="QFSW.QC.Parsers.csproj">
+      <Project>{E8ADF018-869B-31D2-B88D-BC84BD2F0F48}</Project>
+      <Name>QFSW.QC.Parsers</Name>
+    </ProjectReference>
+    <ProjectReference Include="QFSW.QC.Editor.csproj">
+      <Project>{1ACEC67C-0B52-07D5-9ADC-A844BBB067F6}</Project>
+      <Name>QFSW.QC.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="QFSW.QC.Editor.Tools.csproj">
+      <Project>{BDA422C5-B356-1E4D-ED19-D342A4B268BE}</Project>
+      <Name>QFSW.QC.Editor.Tools</Name>
+    </ProjectReference>
+    <ProjectReference Include="AstarPathfindingProject.csproj">
+      <Project>{953B1C79-38F5-EFD8-E619-5710A58BB358}</Project>
+      <Name>AstarPathfindingProject</Name>
+    </ProjectReference>
     <ProjectReference Include="Config.csproj">
       <Project>{70538972-A07F-D746-3FA2-C5D5ACCCCBEC}</Project>
       <Name>Config</Name>
+    </ProjectReference>
+    <ProjectReference Include="AstarPathfindingProjectEditor.csproj">
+      <Project>{4F2E4551-0FCD-50E3-650F-6E8D34327B26}</Project>
+      <Name>AstarPathfindingProjectEditor</Name>
+    </ProjectReference>
+    <ProjectReference Include="QFSW.QC.Extras.csproj">
+      <Project>{B95D0862-A99A-E90F-6375-EC9EFA35BE7D}</Project>
+      <Name>QFSW.QC.Extras</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

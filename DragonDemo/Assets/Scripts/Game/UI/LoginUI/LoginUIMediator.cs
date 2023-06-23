@@ -36,7 +36,7 @@ public class LoginUIMediator : UIMediator<LoginUIView>
 
     private async Task onRespHandler(MessageType.LoginResp arg)
     {
-        // 切换选服进度
+        // 切换选角
         GameManager.UI.OpenUI(UIViewID.SelectRoleUI);
         GameManager.UI.CloseUI(UIViewID.SelectServerUI);
 

@@ -18,7 +18,9 @@ public class SelectRoleUI : UIView
     public GameObject des;
 
     public Button enterBtn;
-    public Text nameTxt;
-
+    public Text buttonTxt;
+    public Text nameTxt;//选中后描述板面任务名称
+    public List<GameObject> roleNames;//名称游戏物体
+    public List<Text> nameTxts;//名称文本
     
 }

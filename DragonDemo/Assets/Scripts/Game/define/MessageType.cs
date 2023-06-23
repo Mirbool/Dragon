@@ -54,8 +54,13 @@ public class MessageType
     {
        public QueryGateRes res;
     }
+    public struct ChangeLobbyProcedure
+    {
+
+    }
     public struct EnterLobby
     {
+        
     }
 
     public struct EnterDungeon

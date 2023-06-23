@@ -103,7 +103,7 @@ namespace Config
         public System.Int32 ID { get; set; }
         public string Description { get; set; }
         public System.Int32 Icon_Index { get; set; }
-        public System.Int32 Career { get; set; }
+        public string Career { get; set; }
         public string Prefabs { get; set; }
         public string[] PartConfigData { get; set; }
         public string Animation { get; set; }

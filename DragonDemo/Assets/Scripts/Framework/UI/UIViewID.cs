@@ -8,6 +8,7 @@ public enum UIViewID
     KnapsackUI = 5,
 
     SelectServerUI=6,
-    SelectRoleUI=7
+    SelectRoleUI=7,
+    MainCityUI=8
 }
 

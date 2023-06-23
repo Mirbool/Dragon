@@ -23,6 +23,10 @@ namespace Koakuma.Game.ECS
 
         public List<Role> roles=new List<Role>();
 
+        public RoleAllInfo selectRoleData;
+
+        public Role crtSelectRole;
+
 
     }
 }
