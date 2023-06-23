@@ -165,7 +165,10 @@
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\GiftIbReqGoodsArg.cs" />
     <Compile Include="Assets\Scripts\lib\Ionic\Crc\CrcCalculatorStream.cs" />
     <Compile Include="Assets\3rd\AsyncAwaitUtil\UniRx\Scripts\Subjects\SubjectExtensions.cs" />
+<<<<<<< HEAD
     <Compile Include="Assets\Scripts\Game\UI\MainSceneUI\MainSceneUIView.cs" />
+=======
+>>>>>>> 9783df7ccaaa6d66b300a2282af8eaa34b7e1e5b
     <Compile Include="Assets\Scripts\Net\protocol\ProtoBuf\Meta\TypeFormatEventArgs.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\GardenBanquetArg.cs" />
     <Compile Include="Assets\Scripts\Net\XConnection.cs" />
@@ -456,7 +459,10 @@
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\DragonGroupDB.cs" />
     <Compile Include="Assets\3rd\AsyncAwaitUtil\UniRx\Scripts\Operators\Scan.cs" />
     <Compile Include="Assets\3rd\Character Movement Fundamentals\Source\Scripts\Camera\ThirdPersonCameraController.cs" />
+<<<<<<< HEAD
     <Compile Include="Assets\aa.cs" />
+=======
+>>>>>>> 9783df7ccaaa6d66b300a2282af8eaa34b7e1e5b
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\PayGiftRecord.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\ChatParamRole.cs" />
     <Compile Include="Assets\3rd\AsyncAwaitUtil\UniRx\Scripts\UnityEngineBridge\Triggers\ObservableStateMachineTrigger.cs" />
@@ -534,7 +540,10 @@
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\LeagueBattleBaseDataNtf.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\StartGuildCardRes.cs" />
     <Compile Include="Assets\3rd\AsyncAwaitUtil\UniRx\Scripts\UnityEngineBridge\Operators\RepeatUntil.cs" />
+<<<<<<< HEAD
     <Compile Include="Assets\Scripts\Net\protocol\Process_PtcG2C_SelectRoleNtf.cs" />
+=======
+>>>>>>> 9783df7ccaaa6d66b300a2282af8eaa34b7e1e5b
     <Compile Include="Assets\3rd\Character Movement Fundamentals\Source\Scripts\Environment\MovingPlatform.cs" />
     <Compile Include="Assets\Scripts\Game\Role\Singleton.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\IBShopIcon.cs" />
@@ -1031,6 +1040,7 @@
     <Compile Include="Assets\3rd\AsyncAwaitUtil\UniRx\Scripts\Schedulers\ImmediateScheduler.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\GetOtherMentorStatusArg.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\InlayAllJadeArg.cs" />
+    <Compile Include="Assets\Scripts\Net\protocol\KKSG\RpcC2M_SelectRoleNew.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\ReturnToSelectRoleRes.cs" />
     <Compile Include="Assets\Scripts\Framework\Message\MessageHandler.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\SkillLevelupRes.cs" />
@@ -1251,7 +1261,10 @@
     <Compile Include="Assets\3rd\AsyncAwaitUtil\UniRx\Scripts\Operators\First.cs" />
     <Compile Include="Assets\3rd\AsyncAwaitUtil\UniRx\Scripts\Disposables\ICancelable.cs" />
     <Compile Include="Assets\3rd\AsyncAwaitUtil\UniRx\Scripts\UnityEngineBridge\Diagnostics\LogEntryExtensions.cs" />
+<<<<<<< HEAD
     <Compile Include="Assets\Scripts\Net\protocol\RpcC2G_DoEnterScene.cs" />
+=======
+>>>>>>> 9783df7ccaaa6d66b300a2282af8eaa34b7e1e5b
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\FashionNTFType.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\ForgeEquipRes.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\MatchToWorldType.cs" />
@@ -1357,7 +1370,10 @@
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\GetGuildQADataRes.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\SpecialStageInfo.cs" />
     <Compile Include="Assets\3rd\AsyncAwaitUtil\UniRx\Scripts\UnityEngineBridge\Operators\ThrottleFirstFrame.cs" />
+<<<<<<< HEAD
     <Compile Include="Assets\Scripts\Game\UI\RoleUI\RoleUIView.cs" />
+=======
+>>>>>>> 9783df7ccaaa6d66b300a2282af8eaa34b7e1e5b
     <Compile Include="Assets\Epic Toon FX\Demo\Scripts\ETFXProjectileScript.cs" />
     <Compile Include="Assets\3rd\AsyncAwaitUtil\UniRx\Scripts\Subjects\AsyncSubject.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\GetTowerActivityTopRes.cs" />
@@ -1387,6 +1403,7 @@
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\ItemRecord.cs" />
     <Compile Include="Assets\Scripts\Net\NetErrCode.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\GprAllFightEnd.cs" />
+    <Compile Include="Assets\Scripts\Net\protocol\KKSG\Process_RpcC2N_SelectRoleNew.cs" />
     <Compile Include="Assets\Scripts\Game\Characters\CharacterViewData.cs" />
     <Compile Include="Assets\3rd\AsyncAwaitUtil\UniRx\Scripts\Operators\Create.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\FlowerInfo2Client.cs" />
@@ -1493,6 +1510,7 @@
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\RoleStateNtf.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\TowerRecord2DB.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\PetInviteNtf.cs" />
+    <Compile Include="Assets\Scripts\Net\protocol\Process_RpcC2G_DoEnterScene.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\BattleFieldRankArg.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\JadeComposeRes.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\RiskRecoverDiceData.cs" />
@@ -1633,6 +1651,10 @@
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\MayhemRankInfo.cs" />
     <Compile Include="Assets\3rd\AsyncAwaitUtil\UniRx\Scripts\UnityEngineBridge\Triggers\ObservableBeginDragTrigger.cs" />
     <Compile Include="Assets\3rd\AsyncAwaitUtil\UniRx\Scripts\Operators\Repeat.cs" />
+<<<<<<< HEAD
+=======
+    <Compile Include="Assets\Scripts\Net\protocol\RpcC2M_CreateRoleNew.cs" />
+>>>>>>> 9783df7ccaaa6d66b300a2282af8eaa34b7e1e5b
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\GuildBuff.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\WeekEnd4v4BattleRoleData.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\FashionSynthesisInfoRes.cs" />
@@ -1778,7 +1800,10 @@
     <Compile Include="Assets\dome\Water.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\ProtoBuf\Serializers\DateTimeSerializer.cs" />
     <Compile Include="Assets\3rd\AsyncAwaitUtil\UniRx\Scripts\Schedulers\ThreadPoolScheduler.cs" />
+<<<<<<< HEAD
     <Compile Include="Assets\Scripts\Game\UI\SelectRoleUI\SelectRoleComponent.cs" />
+=======
+>>>>>>> 9783df7ccaaa6d66b300a2282af8eaa34b7e1e5b
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\EffectData.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\ResWarRoleRankArg.cs" />
     <Compile Include="Assets\3rd\Obfuscator\Plugins\SkipRenameAttribute.cs" />
@@ -1794,6 +1819,7 @@
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\KickType.cs" />
     <Compile Include="Assets\Scripts\Framework\Common\Utility.Types.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\CountDownNtf.cs" />
+    <Compile Include="Assets\Scripts\Net\protocol\Process_RpcC2M_CreateRoleNew.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\FetchPlatNoticeArg.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\LiveRecord.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\GCFReadyInfoArg.cs" />
@@ -2055,6 +2081,7 @@
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\GCFFightInfoRes.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\WeeklyTaskData.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\ProtoBuf\TimeSpanScale.cs" />
+    <Compile Include="Assets\Scripts\Net\protocol\KKSG\Process_PtcG2C_SelectRoleNtf.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\GCFZhanChBriefInfo.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\petGetSkill.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\SendGift2PlatFriendRes.cs" />
@@ -2186,6 +2213,7 @@
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\GuildBuffCDParam.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\CloseHintNtf.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\applyguildarenares.cs" />
+    <Compile Include="Assets\Scripts\Net\protocol\RpcC2G_DoEnterScene.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\ArtifactDeityStoveOpArg.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\OnlineRewardReport.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\CreateOrJoinGuildRes.cs" />
@@ -2273,6 +2301,10 @@
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\SynGuildArenaRoleOnline.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\SRoleMultiReward.cs" />
     <Compile Include="Assets\3rd\AsyncAwaitUtil\UniRx\Scripts\UnityEngineBridge\TypedMonoBehaviour.cs" />
+<<<<<<< HEAD
+=======
+    <Compile Include="Assets\Scripts\Net\protocol\KKSG\PtcG2C_SelectRoleNtf.cs" />
+>>>>>>> 9783df7ccaaa6d66b300a2282af8eaa34b7e1e5b
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\GuildLogEnum.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\UnitAppearanceTeam.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\ProtoBuf\IExtensible.cs" />
@@ -2834,6 +2866,7 @@
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\WeekEnd4v4GetInfoArg.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\ArenaStarReqRes.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\PkResult.cs" />
+    <Compile Include="Assets\Scripts\Net\protocol\KKSG\Process_RpcC2M_SelectRoleNew.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\ResWarPVERes.cs" />
     <Compile Include="Assets\3rd\Obfuscator\Plugins\SuppressLogAttribute.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\TableDef.cs" />
@@ -2881,6 +2914,11 @@
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\GuildAuctReqRes.cs" />
     <Compile Include="Assets\Scripts\Net\protocol\KKSG\LeaveTeamType.cs" />
     <Compile Include="Assets\3rd\AsyncAwaitUtil\UniRx\Scripts\Operators\Last.cs" />
+<<<<<<< HEAD
+=======
+    <Compile Include="Assets\Scripts\Game\UI\MainCityUI\MainCityUI.cs" />
+    <Compile Include="Assets\Scripts\Game\UI\MainCityUI\MainCityUIMediator.cs" />
+>>>>>>> 9783df7ccaaa6d66b300a2282af8eaa34b7e1e5b
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\dome\Resources\SkillPackage\Monster_basilisk\Monster_basilisk_rolling.txt" />
@@ -8238,7 +8276,11 @@
       <HintPath>D:\UnityHub\2021.3.8f1c1\Editor\Data\Managed\UnityEngine\UnityEditor.UIServiceModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UnityConnectModule">
+<<<<<<< HEAD
       <HintPath>D:\UnityHub\2021.3.8f1c1\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
+=======
+      <HintPath>D:\Unity\Unity Hub\2021.3.16f1c1\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
+>>>>>>> 9783df7ccaaa6d66b300a2282af8eaa34b7e1e5b
     </Reference>
     <Reference Include="UnityLog">
       <HintPath>Assets\Plugins\UnityLog.dll</HintPath>

@@ -51,7 +51,12 @@ public class SelectServerUIMediator : UIMediator<SelectServerUIView>
         //XSingleton<XClientNetwork>.singleton.OnAuthorized(null,data);
 
         XSingleton<XClientNetwork>.singleton.Login();
+<<<<<<< HEAD
         GameManager.UI.CloseUI(UIViewID.SelectServerUI);
+=======
+        //GameManager.UI.CloseUI(UIViewID.SelectServerUI);
+        //GameManager.UI.OpenUI(UIViewID.SelectRoleUI);
+>>>>>>> 9783df7ccaaa6d66b300a2282af8eaa34b7e1e5b
     }
 
 

@@ -77,6 +77,8 @@ namespace XMainClient
 
 			XSingleton<RolesMgr>.singleton.ProcessAccountData(roAccountData);
 
+
+
 		}
 
 		// Token: 0x0600D6D2 RID: 54994 RVA: 0x00326CBE File Offset: 0x00324EBE

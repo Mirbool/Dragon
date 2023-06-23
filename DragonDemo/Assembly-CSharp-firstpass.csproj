@@ -550,7 +550,11 @@
       <HintPath>D:\UnityHub\2021.3.8f1c1\Editor\Data\Managed\UnityEngine\UnityEditor.UIServiceModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UnityConnectModule">
+<<<<<<< HEAD
       <HintPath>D:\UnityHub\2021.3.8f1c1\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
+=======
+      <HintPath>D:\Unity\Unity Hub\2021.3.16f1c1\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
+>>>>>>> 9783df7ccaaa6d66b300a2282af8eaa34b7e1e5b
     </Reference>
     <Reference Include="UnityLog">
       <HintPath>Assets\Plugins\UnityLog.dll</HintPath>

@@ -23,6 +23,7 @@ namespace Koakuma.Game.ECS
 
         public List<Role> roles=new List<Role>();
 
+<<<<<<< HEAD
         /*/// <summary>
         /// 当前选择玩家AllData
         /// </summary>
@@ -31,6 +32,12 @@ namespace Koakuma.Game.ECS
         /// <summary>
         /// 当前选择玩家下标
         /// </summary>
+=======
+        public RoleAllInfo selectRoleData;
+
+        public Role crtSelectRole;
+
+>>>>>>> 9783df7ccaaa6d66b300a2282af8eaa34b7e1e5b
 
         public int index;*/
     }

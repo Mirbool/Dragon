@@ -10,6 +10,11 @@ using UnityEngine.AddressableAssets;
 using System;
 using Koakuma.Game.Inputs;
 using Koakuma.Game.Skills;
+using Config;
+using XMainClient;
+using XUtliPoolLib;
+using System.Collections.Specialized;
+using TGame.UI;
 //using Koakuma.Game.Procedure;
 
 /// <summary>
@@ -18,16 +23,15 @@ using Koakuma.Game.Skills;
 public class LobbyProcedure : BaseProcedure
 {
     private CharacterEntity playerEntity;
+    private int crtRoleIndex;
 
     public override async Task OnEnterProcedure(object value)
     {
         UnityLog.Info("´óÌü½×¶Î");
+        crtRoleIndex = (int)value;
+        //GameManager.Message.Subscribe<MessageType.EnterDungeon>(OnEnterDungeon);
 
-        GameManager.Message.Subscribe<MessageType.EnterDungeon>(OnEnterDungeon);
-
-        await OnLobbySceneCreating();
-
-        await SceneFactory.TeleportPlayerToNewScene(new CreateSceneData()
+       await SceneFactory.TeleportPlayerToNewScene(new CreateSceneData()
         {
             showLoading = true,
             loadingTask = async () =>
@@ -44,57 +48,53 @@ public class LobbyProcedure : BaseProcedure
                 //    gameObjectComponent.rotation = lobbySetting.characterPoint.rotation;
                 //}
 
-                GameManager.UI.OpenUI(UIViewID.SelectRoleUI);
-                //GameManager.UI.CloseUI(UIViewID.LoginUI);
-                GameManager.UI.CloseUI(UIViewID.SelectServerUI);
-                ///  await GameManager.Message.Post(new MessageType.EnterLobby());
 
-                await new WaitForSeconds(0.5f);
+                GameManager.UI.OpenUI(UIViewID.MainCityUI);
+                GameManager.UI.CloseUI(UIViewID.SelectRoleUI);
+
+
+               
+               await new WaitForSeconds(0.5f);
             },
         });
+        await OnLobbySceneCreating();
+
 
 
         await Task.Yield();
     }
 
-    private async Task OnEnterDungeon(MessageType.EnterDungeon arg)
-    {
-        CharacterEntity playerEntity = CharacterHelper.GetPlayerEntity();
-        playerEntity.AddComponent<SkillComponent>();
-        //playerEntity.AddComponent<BuffComponent>();
-        playerEntity.AddComponent<InputComponent>();
 
-        ChangeProcedure<DungeonProcedure>().Coroutine();
-        await Task.Yield();
-    }
+    //private async Task OnEnterDungeon(MessageType.EnterDungeon arg)
+    //{
+    //    CharacterEntity playerEntity = CharacterHelper.GetPlayerEntity();
+    //    playerEntity.AddComponent<SkillComponent>();
+    //    //playerEntity.AddComponent<BuffComponent>();
+    //    playerEntity.AddComponent<InputComponent>();
+
+    //    ChangeProcedure<DungeonProcedure>().Coroutine();
+    //    await Task.Yield();
+    //}
 
 
 
     private async Task OnLobbySceneCreating()
     {
 
-        PlayerComponent playerComponent = GameManager.ECS.World.GetComponent<PlayerComponent>();
-
-        CharacterData characterData = new CharacterData()
-        {
-            characterInfo = playerComponent.gameInfo.playerInfo,
-            scene = GameManager.ECS.World.GameScene.InstanceID,
-            useHQ = true,
-        };
-
-        playerEntity = CharacterFactory.CreatePlayer(characterData);
-        playerComponent.playerEntityID = playerEntity.InstanceID;
-
-        if (playerEntity != null)
-        {
-            GameManager.ECS.SendMessageToEntity(playerEntity.InstanceID, new EntityMessageType.CharacterVitalize()).Coroutine();
-        }
+        PlayerComponent pm = GameManager.ECS.World.GetComponent<PlayerComponent>();
+        Role role = new Role();
+        RoleInfoConfig data = RoleInfoConfig.ByIndex(crtRoleIndex);
+        role.Init(crtRoleIndex, data.Prefabs, data.PartConfigData, data.Animation, data.WeaponPoint);
+        role.RoleGo.transform.position = Vector3.zero;
+        pm.crtSelectRole = role;
         await Task.Yield();
+
+
     }
 
     public override Task OnLeaveProcedure()
     {
-        GameManager.Message.Unsubscribe<MessageType.EnterDungeon>(OnEnterDungeon);
+        //GameManager.Message.Unsubscribe<MessageType.EnterDungeon>(OnEnterDungeon);
 
         return base.OnLeaveProcedure();
     }

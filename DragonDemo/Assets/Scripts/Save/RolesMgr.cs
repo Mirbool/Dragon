@@ -34,8 +34,8 @@ public class RolesMgr : XSingleton<RolesMgr>
             this.ParseRoleBriefInfo(XSingleton<RolesMgr>.singleton.XPlayerCharacters.PlayerBriefInfo, roAccountData.role5);
             this.ParseRoleBriefInfo(XSingleton<RolesMgr>.singleton.XPlayerCharacters.PlayerBriefInfo, roAccountData.role6);
             this.ParseRoleBriefInfo(XSingleton<RolesMgr>.singleton.XPlayerCharacters.PlayerBriefInfo, roAccountData.role7);
-            this.ParseRoleBriefInfo(XSingleton<RolesMgr>.singleton.XPlayerCharacters.PlayerBriefInfo, roAccountData.role8);
-            this.ParseRoleBriefInfo(XSingleton<RolesMgr>.singleton.XPlayerCharacters.PlayerBriefInfo, roAccountData.role9);
+            //this.ParseRoleBriefInfo(XSingleton<RolesMgr>.singleton.XPlayerCharacters.PlayerBriefInfo, roAccountData.role8);
+            //this.ParseRoleBriefInfo(XSingleton<RolesMgr>.singleton.XPlayerCharacters.PlayerBriefInfo, roAccountData.role9);
             bool flag2 = roAccountData.selectSlot >= /*(uint)XGame.RoleCount*/8;
             //if (flag2)
             //{

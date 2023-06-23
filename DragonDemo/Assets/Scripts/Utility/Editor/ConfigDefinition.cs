@@ -9,7 +9,7 @@ namespace ConfigDefinition
     public class RoleInfoConfig
     {
         public int Icon_Index { get; set; }
-        public int Career { get; set; }
+        public string Career { get; set; }
         public string Prefabs { get; set; }
 
         [ConfigArray(9)]
